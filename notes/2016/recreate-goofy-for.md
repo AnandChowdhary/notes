@@ -1,0 +1,1 @@
+Recreate Goofy for Messenger in Swift. http://github.com/danielbuechele/goofy Thousands of applications, even Oswald-specific by injecting JS, Skype, Whatsapp, everything.
