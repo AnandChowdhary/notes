@@ -1,0 +1,1 @@
+Agastya load features from separate js files based on user. Font size, dyslexia, etc., can be one basic.js and then all others or removing should be done externally. Footprint of initial file loaded for each user will be tiny.
