@@ -1,0 +1,1 @@
+combining two approaches 15 second timer on every 2 mins
