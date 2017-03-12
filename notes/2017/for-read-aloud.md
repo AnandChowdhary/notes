@@ -1,0 +1,1 @@
+For read aloud, explode from period. Sentence by sentence highlight and read aloud.
