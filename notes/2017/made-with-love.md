@@ -1,0 +1,1 @@
+Made with Love in India like F6S Alpha card with partner benefits
