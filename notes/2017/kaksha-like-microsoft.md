@@ -1,0 +1,1 @@
+Kaksha, like Microsoft dyslexia friendly sentence by sentence ncert
