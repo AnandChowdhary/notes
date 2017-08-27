@@ -1,0 +1,1 @@
+EU Cookie JS plugin, one yes for all websites, internationalisation
