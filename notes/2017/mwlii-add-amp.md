@@ -1,0 +1,1 @@
+MWLII: Add AMP version (static)
