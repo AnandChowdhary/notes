@@ -1,0 +1,1 @@
+MWLII: Use `slugify` to generate slugs: https://github.com/cocur/slugify
