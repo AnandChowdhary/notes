@@ -1,0 +1,1 @@
+MWLII: Generate slugs for user-defined inputs like tags, university, hobby, etc., and add slug to title table with categories ("tag", "institute") for autocomplete
