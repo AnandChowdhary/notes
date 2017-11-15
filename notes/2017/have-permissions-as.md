@@ -1,0 +1,1 @@
+Have permissions as a flow. if (hasPermission("admin", STARTUPID)) then let her do things; is\_su, is\_founder, is\_owner, etc. Can also add permission manager.
