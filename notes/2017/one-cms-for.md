@@ -1,0 +1,1 @@
+One CMS for Oswald Accelerator and MWLII. GitHub project. Backend for editing users + "Send password reset link", "send email to everyone", etc. CodeIgniter.
