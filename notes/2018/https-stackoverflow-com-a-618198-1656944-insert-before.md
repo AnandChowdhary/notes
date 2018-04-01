@@ -1,0 +1,1 @@
+https://stackoverflow.com/a/618198/1656944 insertBefore
