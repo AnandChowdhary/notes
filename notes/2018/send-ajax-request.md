@@ -1,0 +1,1 @@
+Send AJAX request with entire HTML source code on pageload and after 5 seconds to see if Facebook injects tracking code when opening links on the Facebook and Messenger Android apps. I think that's why they don't use Chrome Custom Tabs.
