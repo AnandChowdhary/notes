@@ -1,0 +1,1 @@
+SWOT to make Agastya open-source with PaaS
