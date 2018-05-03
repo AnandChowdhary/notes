@@ -1,0 +1,1 @@
+Knowledge API = Wikipedia rich hover snippets combined with Bing or the company domain logo API
