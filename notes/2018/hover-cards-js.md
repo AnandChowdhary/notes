@@ -1,0 +1,1 @@
+Hover cards JS plugin to make custom cards like on Facebook, Twitter, and Wikipedia. Then use them with the Wikipedia hover cards API for JS plugin
