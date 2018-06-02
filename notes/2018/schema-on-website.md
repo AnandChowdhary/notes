@@ -1,0 +1,1 @@
+Schema on website blog itemprop
