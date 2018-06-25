@@ -1,0 +1,1 @@
+Ara UI (Gmail connect) to send templated emails like event speakers
