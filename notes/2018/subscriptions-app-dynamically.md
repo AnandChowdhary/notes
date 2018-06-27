@@ -1,0 +1,1 @@
+Subscriptions app. Dynamically generated email for subscriptions, shown in a nice UI
