@@ -1,0 +1,1 @@
+Gravatar competitor, multi-source and better: http://picasaweb.google.com/data/entry/api/user/anandchowdhary?alt=json
