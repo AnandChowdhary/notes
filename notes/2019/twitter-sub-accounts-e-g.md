@@ -1,0 +1,1 @@
+Twitter sub-accounts: e.g., twitter.com/AnandChowdhary/hellobar as an account for an open-source project which doesn't "deserve" its own account. UX can be like this: "I really like the new @AnandChowdhary/hellobar project", and you can filter, add a profile picture, etc., almost like a new profile, but it's "owned" by your account
