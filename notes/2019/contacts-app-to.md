@@ -1,0 +1,1 @@
+"Contacts" app to store important people you meet with context (e.g., I met Bart-Jan who is the Community Manager of Cee Spot, a coworking space in Enschede) so you can filter and find relevant people later (see Google Sheet "Humans" and "Important People")
