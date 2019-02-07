@@ -1,0 +1,1 @@
+Stackoverflow sort by upvotes Chrome extension https://stackoverflow.com/questions/1321878/how-to-prevent-favicon-ico-requests
