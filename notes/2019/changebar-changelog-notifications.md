@@ -1,0 +1,1 @@
+Changebar: Changelog notifications widget using CHANGELOG.md and JSDelivr
