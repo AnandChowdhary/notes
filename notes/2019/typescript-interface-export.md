@@ -1,0 +1,1 @@
+Typescript interface export to MySQL schema
