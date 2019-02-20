@@ -1,0 +1,1 @@
+React to React Native: Accessibility (compare aria, role with RN attributes for web developers switching to RN) https://facebook.github.io/react-native/docs/accessibility
