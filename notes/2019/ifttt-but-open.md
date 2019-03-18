@@ -1,0 +1,1 @@
+IFTTT but open source and self hosted. Many integrations. Multiple thens.
