@@ -1,0 +1,1 @@
+Optimized image delivery (CDN + resize + WebP/compression + filters, etc.) https://www.gumlet.com/pricing
