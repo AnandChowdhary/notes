@@ -1,0 +1,1 @@
+CI tool for finding accessibility issues. Like Travis CI but for a11y.
