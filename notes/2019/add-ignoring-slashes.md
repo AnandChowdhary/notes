@@ -1,0 +1,1 @@
+Add ignoring slashes to Fraud. Then change Agastya-database folder to be :id/apikey for better for each.
