@@ -1,0 +1,1 @@
+Copyright year bot. Crawls GitHub and finds (c) 2018 and replaces it with current year
