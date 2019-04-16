@@ -1,0 +1,1 @@
+data if conditional rendering library with new Function instead of eval
