@@ -1,0 +1,1 @@
+Google Sheets as data source for chatbot (question answer columns)
