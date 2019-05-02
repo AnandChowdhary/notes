@@ -1,0 +1,1 @@
+Nuxt style routes for Staart
