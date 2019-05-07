@@ -1,0 +1,1 @@
+Gitwriter style front end like Netlify CMS for managing content on GitHub for Hugo sites
