@@ -1,0 +1,1 @@
+I pay for iPhone insurance. Go to wertgarantie.com and login through credentials on 1Password. File a new insurance claim. If lost/theft, (i) file a police complaint specifying the IMEI number and device, (ii) get SIM blocked, and (iii) have evidence copies of both
