@@ -1,0 +1,1 @@
+@Cron(“1 day”) decorator
