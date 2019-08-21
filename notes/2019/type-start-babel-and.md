@@ -1,0 +1,1 @@
+TypeStart Babel and scripts for fast compilation and building, new branch without docs folder having build files and instead using Unpkg on production and gitignored dist on local
