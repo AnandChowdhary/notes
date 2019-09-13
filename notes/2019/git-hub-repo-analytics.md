@@ -1,0 +1,1 @@
+GitHub repo analytics badge — add badge, ElasticSearch tracks
