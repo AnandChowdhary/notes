@@ -1,0 +1,1 @@
+Like American Innocence Projects (I saw North California Innocence Project in Santa Clara University) but for India. Too many people are wrongly convicted. Start non-profit with CSR fund? Talk to Mish?
