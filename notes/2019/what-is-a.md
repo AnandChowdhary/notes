@@ -1,0 +1,1 @@
+"What is a creative technologist?" article with a list of previous titles (like "web artist") I've called myself (with Archive.org links for evidence)
