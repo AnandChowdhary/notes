@@ -1,0 +1,1 @@
+Support for undo transaction in Staart. Keep in memory a unique ID for 60 sec. UI shows undo button for 10 seconds. Undo post, delete, put.
