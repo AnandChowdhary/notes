@@ -1,0 +1,1 @@
+Rebuilt MWLII with Next SSR (or Netlify Prerender) with daily approval of startups to prevent spam (one email per day) and community generated profiles. Footer with Digital India etc. logos and partners. Monetize? (Featured on homepage, PRO badge for unlimited messaging founders, non-pro get 3/m, etc.)
