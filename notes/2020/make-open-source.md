@@ -1,0 +1,1 @@
+Make open source plugins for read aloud (responsive voice competitor) with same non commercial license. Select to read aloud also.
