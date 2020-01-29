@@ -1,0 +1,1 @@
+“Learnings” article on why Twente license failed. Use Twente.me like JS.org to setup any project for free. Move license to license-dot.
