@@ -1,0 +1,1 @@
+Google Keep in life data private using same API as Gmail
