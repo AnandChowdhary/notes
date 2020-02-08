@@ -1,0 +1,1 @@
+Auto generate news story videos using headlines API and Unsplash/image search compilation and soft background music. Also can be used to automate marketing.
