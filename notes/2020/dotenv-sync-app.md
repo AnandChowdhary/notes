@@ -1,0 +1,1 @@
+Dotenv sync app with GitHub private repo backup
