@@ -1,0 +1,1 @@
+Package for local storage version control of documents, can be used for Notion clone, GItWords, etc., and Uppy's Golden Retriever-style file retrieval. Debounce and save locally all the time (and also 1 min intervals) and every 20 minutes on GitHub (all configurable)
