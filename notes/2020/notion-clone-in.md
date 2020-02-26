@@ -1,0 +1,1 @@
+Notion clone in React (GitWords-style git source, repos are categories, option to show specific repos only). README or article about what I don't like about notion (git backups/version control and markdown instead of "proprietary"-ish HTML writing.
