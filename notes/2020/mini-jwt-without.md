@@ -1,0 +1,1 @@
+Mini JWT without first part. Use for Staart coupon codes. Gzip/otherwise compress?
