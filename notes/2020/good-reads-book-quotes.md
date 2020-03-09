@@ -1,0 +1,2 @@
+GoodReads book quotes I like, then page per book in reading. In Sapiens: “culturism instead of racism”, “happiness vs. pleasure from brain fluids (ch 19)
+Ratio has to be 5:1 of positive to negative emotion in a conversation. Ch 10/94 Blink. How many colds you’ll get can be calculated 12/94 because marital stress affects immune system. Black students do worse in tests when asked their race because free will is a lie 22/94.
