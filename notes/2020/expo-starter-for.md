@@ -1,0 +1,1 @@
+Expo starter for informational apps, e.g., Karuna 2020 app with updates, webviews, etc. coming from JSON endpoints, e.g., navigation.json has tabs, webview URLs, updates.json has items to show in feed, "refresh" gesture, etc.
