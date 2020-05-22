@@ -1,0 +1,1 @@
+Learn Swift UI and build a white noise app (music player), RSS reader like Hackers and build clients that read feeds etc.
