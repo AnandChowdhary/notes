@@ -1,0 +1,1 @@
+Archiver as a service? For $1/m, we'll archive your site on the Internet Archive every month. For $3/m, we'll archive it, and all outgoing links, every week
