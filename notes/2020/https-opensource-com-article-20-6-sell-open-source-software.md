@@ -1,0 +1,1 @@
+https://opensource.com/article/20/6/sell-open-source-software
