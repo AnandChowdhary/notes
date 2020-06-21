@@ -1,0 +1,1 @@
+README generator from template, import MD modules from Gists, save readme-template.md in .github, Actions runs daily
