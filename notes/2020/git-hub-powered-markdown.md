@@ -1,0 +1,1 @@
+GitHub powered markdown editor for blogs, like Netlify CMS but without Netlify, just editing MD files in the browser using API, and saving in local storage.
