@@ -1,0 +1,1 @@
+Document the class rebels story on blog
