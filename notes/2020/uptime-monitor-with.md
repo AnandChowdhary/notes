@@ -1,0 +1,1 @@
+Uptime monitor with GitHub Actions scheduler that opens issues when site is down. Use GitHub API to generate status page. Use commit history of file for page load ms response.
