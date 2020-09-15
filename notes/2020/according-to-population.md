@@ -1,0 +1,1 @@
+According to population growth statistics in 2020, India's population in 2031 will be 1.52 billion. In 2100, it will also be 1.52 billion (it will peak in 2060s).
