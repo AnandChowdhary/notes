@@ -1,0 +1,1 @@
+Airtable for contacts app. Algolia for super fast search. Tags like event name, so you can search for “we met at this event last year”. Clearbit to find details about users. Hunter to find people based on name and domain. Open app, enter company name, enter user name, all details auto fetched.
