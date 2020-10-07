@@ -1,0 +1,1 @@
+The 5 files every repository needs. GitHub community health files examples.
