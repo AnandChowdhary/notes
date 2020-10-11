@@ -1,0 +1,1 @@
+"Check your privilege" app, simple Q&A that shows how privileged you are. Are you male or female? -> Male -> You are more privileged that 50% of all people. Do you have any disabilities? -> No -> etc. etc. "you are a white, able-bodied, straight, educated male" so you have the highest privilege, with references to studies that prove the privilege
