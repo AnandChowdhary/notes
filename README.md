@@ -1,6 +1,6 @@
 # 🗒️ Notes
 
-This repository contains quick notes that I've made, including ideas for future projects. Data before October 2020 was exported from Google Keep. It uses the [AnandChowdhary/notes-summary](https://github.com/AnandChowdhary/notes-summary) GitHub Action to generate the summary below.
+This repository contains quick notes that I've made, including ideas for future projects.
 
 [![Readme CI](https://github.com/AnandChowdhary/notes/workflows/Readme%20CI/badge.svg)](https://github.com/AnandChowdhary/notes/actions?query=workflow%3A%22Readme+CI%22)
 
@@ -230,6 +230,12 @@ This repository contains quick notes that I've made, including ideas for future 
 - [`indus-os-is.md`](./notes/2016/indus-os-is.md), December 13, 2016
 - [`recreate-goofy-for.md`](./notes/2016/recreate-goofy-for.md), November 29, 2016
 <!--/notes-->
+
+## ℹ️ About this repository
+
+- [AnandChowdhary/notes-summary](https://github.com/AnandChowdhary/notes-summary) is used to generate the `README.md` summary
+- Data before October 2020 was exported from Google Keep using [vHanda/google-keep-exporter](https://github.com/vHanda/google-keep-exporter)
+- Older data was committed on the right date using [google-keep-notes.js](https://gist.github.com/AnandChowdhary/8cea4cdd63956e142e1794a2160ce7af)
 
 ## 📄 License
 
