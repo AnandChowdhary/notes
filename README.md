@@ -4,7 +4,7 @@ This repository contains quick notes that I've made, including ideas for future 
 
 [![Readme CI](https://github.com/AnandChowdhary/notes/workflows/Readme%20CI/badge.svg)](https://github.com/AnandChowdhary/notes/actions?query=workflow%3A%22Readme+CI%22)
 
-<!--contents--><!--/contents-->
+<!--notes--><!--/notes-->
 
 ## 📄 License
 
