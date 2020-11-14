@@ -1,9 +1,7 @@
 name: Readme CI
 on:
   push:
-    branches: [master]
-  schedule:
-    - cron: "0 0 * * *"
+    branches: [main]
   repository_dispatch:
     types: [readme]
 jobs:
