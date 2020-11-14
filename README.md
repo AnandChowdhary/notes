@@ -6,9 +6,9 @@ This repository contains quick notes that I've made, including ideas for future 
 
 <!--notes-->
 
-## 🎤 Summary
+## 🌯 Summary
+
 - 209 notes in 5 years
-## 📜 Past notes
 
 ### 2020
 
@@ -59,6 +59,7 @@ This repository contains quick notes that I've made, including ideas for future 
 - [`js-string-utilities.md`](./notes/2020/js-string-utilities.md), January 17, 2020
 - [`moscow-method-for.md`](./notes/2020/moscow-method-for.md), January 13, 2020
 - [`make-open-source.md`](./notes/2020/make-open-source.md), January 5, 2020
+
 ### 2019
 
 - [`rebuilt-mwlii-with.md`](./notes/2019/rebuilt-mwlii-with.md), December 18, 2019
@@ -122,6 +123,7 @@ This repository contains quick notes that I've made, including ideas for future 
 - [`contacts-app-to.md`](./notes/2019/contacts-app-to.md), January 31, 2019
 - [`twitter-sub-accounts-e-g.md`](./notes/2019/twitter-sub-accounts-e-g.md), January 29, 2019
 - [`chrome-extensions-valmiki.md`](./notes/2019/chrome-extensions-valmiki.md), January 8, 2019
+
 ### 2018
 
 - [`disqus-but-with.md`](./notes/2018/disqus-but-with.md), December 27, 2018
@@ -170,6 +172,7 @@ This repository contains quick notes that I've made, including ideas for future 
 - [`ara-scheduler.md`](./notes/2018/ara-scheduler.md), January 15, 2018
 - [`accelerator-mwlii-footer-like.md`](./notes/2018/accelerator-mwlii-footer-like.md), January 11, 2018
 - [`jwt-for-agastya.md`](./notes/2018/jwt-for-agastya.md), January 11, 2018
+
 ### 2017
 
 - [`image-api-from.md`](./notes/2017/image-api-from.md), December 28, 2017
@@ -225,6 +228,7 @@ This repository contains quick notes that I've made, including ideas for future 
 - [`summarizer-api.md`](./notes/2017/summarizer-api.md), February 4, 2017
 - [`bilingual-typography.md`](./notes/2017/bilingual-typography.md), February 1, 2017
 - [`agastya-load-features.md`](./notes/2017/agastya-load-features.md), January 16, 2017
+
 ### 2016
 
 - [`indus-os-is.md`](./notes/2016/indus-os-is.md), December 13, 2016
