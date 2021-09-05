@@ -1,0 +1,1 @@
+With contextual contacts, people connect their social media (LinkedIn, Twitter, etc.) to their profile to keep everything up to date and get a unique URL example.com/anand as the about.me/link in bio-type single page to see their content from all sites and links to contact them.
