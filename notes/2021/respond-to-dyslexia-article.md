@@ -1,0 +1,1 @@
+Respond to https://www.linkedin.com/pulse/dyslexic-myths-presented-truths-gareth-ford-williams/
