@@ -1,0 +1,1 @@
+Blog post: Is it lazy to build an 'open source alternate to X' company?, as asked on GitHub Stars Slack
