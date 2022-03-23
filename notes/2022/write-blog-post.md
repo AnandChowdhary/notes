@@ -1,0 +1,1 @@
+Write blog post on getting Dotcom https://twitter.com/levelsio/status/1506716194359119872?s=21
