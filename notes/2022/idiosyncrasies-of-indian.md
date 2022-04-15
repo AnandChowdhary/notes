@@ -1,0 +1,1 @@
+Idiosyncrasies of Indian English - 'before' means both sooner/earlier and before in Hindi (pehle): I wish I'd known this before -> I wish I'd known this earlier, or I wish I'd seen this before -> I wish I'd seen this sooner
