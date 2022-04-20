@@ -1,0 +1,1 @@
+Create React framework with i18n routes (e.g., /en/about-us & /nl/over-ons), i18next, language switcher, file-based routing, SSR, Remix-like <form> support
