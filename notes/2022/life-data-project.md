@@ -1,0 +1,1 @@
+Life data project - Start by syncing all songs Spotify to one single SQLite and use remix Prisma to post update and get visualize
