@@ -1,0 +1,1 @@
+Like books have indices, have an index of concepts on personal websites
