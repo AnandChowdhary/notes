@@ -1,0 +1,1 @@
+Read TDOET summary - https://elvischidera.com/2022-06-24-design-everyday-things
