@@ -260,6 +260,22 @@ This repository contains quick notes that I've made, including ideas for future 
 - Data before October 2020 was exported from Google Keep using [vHanda/google-keep-exporter](https://github.com/vHanda/google-keep-exporter)
 - Older data was committed on the right date using [google-keep-notes.js](https://gist.github.com/AnandChowdhary/8cea4cdd63956e142e1794a2160ce7af)
 
+### How to migrate notes
+
+Create a `scripts/data.json` file with many notes (you can generate this using your favorite tool's data export functionality) with the following format. `slug` is optional but `date` and `content` are required:
+
+```json
+[
+  {
+    "slug": "note-title",
+    "date": "2022-07-18",
+    "content": "This is a note"
+  }
+]
+```
+
+Then `npm install` inside the `scripts` directory and run `node scripts/import-json.mjs`.
+
 ## 📄 License
 
 [CC BY 4.0](./LICENSE) © [Anand Chowdhary](https://anandchowdhary.com)
