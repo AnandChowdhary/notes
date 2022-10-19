@@ -8,10 +8,11 @@ This repository contains quick notes that I've made, including ideas for future 
 
 ## 🌯 Summary
 
-- 222 notes in 7 years
+- 223 notes in 7 years
 
 ### 2022
 
+- [`stable-diffusion-canva.md`](./notes/2022/stable-diffusion-canva.md) (10 words), October 19, 2022
 - [`coaching.md`](./notes/2022/coaching.md) (576 words), July 28, 2022
 - [`read-tdoet-summary.md`](./notes/2022/read-tdoet-summary.md) (5 words), July 17, 2022
 - [`open-startup-tools.md`](./notes/2022/open-startup-tools.md) (16 words), June 23, 2022
