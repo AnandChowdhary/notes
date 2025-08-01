@@ -1,1 +1,2009 @@
-
+[
+  {
+    "slug": "recreate-goofy-for.md",
+    "path": "notes/2016/recreate-goofy-for.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2016/recreate-goofy-for.md",
+    "title": "Recreate Goofy for Messenger in Swift....",
+    "date": "2016-11-29T09:32:53.000Z",
+    "excerpt": "Recreate Goofy for Messenger in Swift. http://github.com/danielbuechele/goofy Thousands of applications, even Oswald-specific by injecting JS, Skype, Whatsapp, everything.",
+    "attributes": {}
+  },
+  {
+    "slug": "indus-os-is.md",
+    "path": "notes/2016/indus-os-is.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2016/indus-os-is.md",
+    "title": "Indus OS is an exciting new...",
+    "date": "2016-12-13T11:13:13.000Z",
+    "excerpt": "Indus OS is an exciting new company that's building an Android-based OS for India. SMC Indic keyboard is an Android keyboard available in several Indian languages.",
+    "attributes": {}
+  },
+  {
+    "slug": "agastya-load-features.md",
+    "path": "notes/2017/agastya-load-features.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2017/agastya-load-features.md",
+    "title": "Agastya load features from separate js...",
+    "date": "2017-01-16T23:59:54.000Z",
+    "excerpt": "Agastya load features from separate js files based on user. Font size, dyslexia, etc., can be one basic.js and then all others or removing should be done externally. Footprint of initial file loaded for each user will be tiny.",
+    "attributes": {}
+  },
+  {
+    "slug": "bilingual-typography.md",
+    "path": "notes/2017/bilingual-typography.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2017/bilingual-typography.md",
+    "title": "Bilingual typography...",
+    "date": "2017-02-01T16:20:15.000Z",
+    "excerpt": "Bilingual typography",
+    "attributes": {}
+  },
+  {
+    "slug": "summarizer-api.md",
+    "path": "notes/2017/summarizer-api.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2017/summarizer-api.md",
+    "title": "Summarizer API...",
+    "date": "2017-02-04T08:33:48.000Z",
+    "excerpt": "Summarizer API",
+    "attributes": {}
+  },
+  {
+    "slug": "the-architecture-of.md",
+    "path": "notes/2017/the-architecture-of.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2017/the-architecture-of.md",
+    "title": "The architecture of the medium affects...",
+    "date": "2017-02-13T09:12:06.000Z",
+    "excerpt": "The architecture of the medium affects the ability of users to access content democratically whereas it is touted as a Democratic user generated platform. Facebook: A Democratic Platform\nDefine every term you mention\nWhat is a Democratic medium? Accesibikity, user generated content, ability to convey message freely\nJstor.org\n9810740904",
+    "attributes": {}
+  },
+  {
+    "slug": "write-post-on.md",
+    "path": "notes/2017/write-post-on.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2017/write-post-on.md",
+    "title": "write post on md5 and plain...",
+    "date": "2017-02-25T17:10:12.000Z",
+    "excerpt": "write post on md5 and plain text password storage with my Facebook md5 given",
+    "attributes": {}
+  },
+  {
+    "slug": "what-if-shravan.md",
+    "path": "notes/2017/what-if-shravan.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2017/what-if-shravan.md",
+    "title": "What if Shravan is like Facebook...",
+    "date": "2017-02-26T18:58:53.000Z",
+    "excerpt": "What if Shravan is like Facebook Home? Facebook, Whatsapp, News, etc., on your homescreen.",
+    "attributes": {}
+  },
+  {
+    "slug": "the-iron-lady.md",
+    "path": "notes/2017/the-iron-lady.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2017/the-iron-lady.md",
+    "title": "The iron lady - meryl streep...",
+    "date": "2017-02-27T13:39:30.000Z",
+    "excerpt": "The iron lady - meryl streep",
+    "attributes": {}
+  },
+  {
+    "slug": "combining-two-approaches.md",
+    "path": "notes/2017/combining-two-approaches.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2017/combining-two-approaches.md",
+    "title": "combining two approaches 15 second timer...",
+    "date": "2017-03-09T13:24:49.000Z",
+    "excerpt": "combining two approaches 15 second timer on every 2 mins",
+    "attributes": {}
+  },
+  {
+    "slug": "for-read-aloud.md",
+    "path": "notes/2017/for-read-aloud.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2017/for-read-aloud.md",
+    "title": "For read aloud, explode from period....",
+    "date": "2017-03-12T07:52:52.000Z",
+    "excerpt": "For read aloud, explode from period. Sentence by sentence highlight and read aloud.",
+    "attributes": {}
+  },
+  {
+    "slug": "publish-zomato-medium.md",
+    "path": "notes/2017/publish-zomato-medium.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2017/publish-zomato-medium.md",
+    "title": "Publish Zomato medium article...",
+    "date": "2017-03-25T17:12:48.000Z",
+    "excerpt": "Publish Zomato medium article",
+    "attributes": {}
+  },
+  {
+    "slug": "agastya-widget-php-for.md",
+    "path": "notes/2017/agastya-widget-php-for.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2017/agastya-widget-php-for.md",
+    "title": "Agastya widget.php for analytics...",
+    "date": "2017-03-27T13:46:53.000Z",
+    "excerpt": "Agastya widget.php for analytics",
+    "attributes": {}
+  },
+  {
+    "slug": "on-e-books-on.md",
+    "path": "notes/2017/on-e-books-on.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2017/on-e-books-on.md",
+    "title": "On eBooks on Android...",
+    "date": "2017-04-10T13:58:03.000Z",
+    "excerpt": "On eBooks on Android",
+    "attributes": {}
+  },
+  {
+    "slug": "the-name-for.md",
+    "path": "notes/2017/the-name-for.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2017/the-name-for.md",
+    "title": "the name for self driving Cars:...",
+    "date": "2017-04-11T18:26:28.000Z",
+    "excerpt": "the name for self driving Cars: autos",
+    "attributes": {}
+  },
+  {
+    "slug": "news-summarizer.md",
+    "path": "notes/2017/news-summarizer.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2017/news-summarizer.md",
+    "title": "News summarizer...",
+    "date": "2017-04-15T13:54:15.000Z",
+    "excerpt": "News summarizer",
+    "attributes": {}
+  },
+  {
+    "slug": "rss-feeds-for.md",
+    "path": "notes/2017/rss-feeds-for.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2017/rss-feeds-for.md",
+    "title": "RSS Feeds for Reading Mode...",
+    "date": "2017-04-15T13:55:04.000Z",
+    "excerpt": "RSS Feeds for Reading Mode",
+    "attributes": {}
+  },
+  {
+    "slug": "webpage-crawler.md",
+    "path": "notes/2017/webpage-crawler.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2017/webpage-crawler.md",
+    "title": "Webpage crawler + search...",
+    "date": "2017-04-18T19:39:45.000Z",
+    "excerpt": "Webpage crawler + search",
+    "attributes": {}
+  },
+  {
+    "slug": "speer.md",
+    "path": "notes/2017/speer.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2017/speer.md",
+    "title": "Speer...",
+    "date": "2017-04-26T17:39:32.000Z",
+    "excerpt": "Speer",
+    "attributes": {}
+  },
+  {
+    "slug": "made-with-love.md",
+    "path": "notes/2017/made-with-love.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2017/made-with-love.md",
+    "title": "Made with Love in India like...",
+    "date": "2017-05-16T19:33:29.000Z",
+    "excerpt": "Made with Love in India like F6S Alpha card with partner benefits",
+    "attributes": {}
+  },
+  {
+    "slug": "kaksha-like-microsoft.md",
+    "path": "notes/2017/kaksha-like-microsoft.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2017/kaksha-like-microsoft.md",
+    "title": "Kaksha, like Microsoft dyslexia friendly sentence...",
+    "date": "2017-05-16T19:33:46.000Z",
+    "excerpt": "Kaksha, like Microsoft dyslexia friendly sentence by sentence ncert",
+    "attributes": {}
+  },
+  {
+    "slug": "agastya-seal.md",
+    "path": "notes/2017/agastya-seal.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2017/agastya-seal.md",
+    "title": "Agastya Seal...",
+    "date": "2017-05-18T13:00:07.000Z",
+    "excerpt": "Agastya Seal",
+    "attributes": {}
+  },
+  {
+    "slug": "read-aloud-arrow.md",
+    "path": "notes/2017/read-aloud-arrow.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2017/read-aloud-arrow.md",
+    "title": "read aloud Arrow keys to navigate...",
+    "date": "2017-05-22T07:01:02.000Z",
+    "excerpt": "read aloud Arrow keys to navigate",
+    "attributes": {}
+  },
+  {
+    "slug": "translate-api-instead.md",
+    "path": "notes/2017/translate-api-instead.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2017/translate-api-instead.md",
+    "title": "Translate API instead of widget...",
+    "date": "2017-05-22T15:41:47.000Z",
+    "excerpt": "Translate API instead of widget",
+    "attributes": {}
+  },
+  {
+    "slug": "utm-as-a.md",
+    "path": "notes/2017/utm-as-a.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2017/utm-as-a.md",
+    "title": "UTM as a Service...",
+    "date": "2017-06-09T15:36:15.000Z",
+    "excerpt": "UTM as a Service",
+    "attributes": {}
+  },
+  {
+    "slug": "amazon-ses-mail.md",
+    "path": "notes/2017/amazon-ses-mail.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2017/amazon-ses-mail.md",
+    "title": "Amazon SES mail sending API with...",
+    "date": "2017-06-26T14:50:02.000Z",
+    "excerpt": "Amazon SES mail sending API with integrated schema markup for quick actions",
+    "attributes": {}
+  },
+  {
+    "slug": "url-shortener-as.md",
+    "path": "notes/2017/url-shortener-as.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2017/url-shortener-as.md",
+    "title": "URL shortener as a service...",
+    "date": "2017-06-26T20:38:51.000Z",
+    "excerpt": "URL shortener as a service",
+    "attributes": {}
+  },
+  {
+    "slug": "invisible-translate-widget.md",
+    "path": "notes/2017/invisible-translate-widget.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2017/invisible-translate-widget.md",
+    "title": "Invisible Translate (widget, iframe invisible, custom...",
+    "date": "2017-07-11T14:11:38.000Z",
+    "excerpt": "Invisible Translate (widget, iframe invisible, custom styling, etc.)",
+    "attributes": {}
+  },
+  {
+    "slug": "agastya-affiliate.md",
+    "path": "notes/2017/agastya-affiliate.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2017/agastya-affiliate.md",
+    "title": "Agastya affiliate...",
+    "date": "2017-08-04T14:48:31.000Z",
+    "excerpt": "Agastya affiliate",
+    "attributes": {}
+  },
+  {
+    "slug": "eye-d.md",
+    "path": "notes/2017/eye-d.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2017/eye-d.md",
+    "title": "EyeD...",
+    "date": "2017-08-05T09:01:10.000Z",
+    "excerpt": "EyeD",
+    "attributes": {}
+  },
+  {
+    "slug": "oswald-accelerator-in.md",
+    "path": "notes/2017/oswald-accelerator-in.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2017/oswald-accelerator-in.md",
+    "title": "Oswald accelerator in partnership with nobility...",
+    "date": "2017-08-13T10:00:28.000Z",
+    "excerpt": "Oswald accelerator in partnership with nobility accelerator and I focus accelerators",
+    "attributes": {}
+  },
+  {
+    "slug": "libri-vox-material.md",
+    "path": "notes/2017/libri-vox-material.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2017/libri-vox-material.md",
+    "title": "LibriVox + Material Design (Saga like)...",
+    "date": "2017-08-16T09:45:01.000Z",
+    "excerpt": "LibriVox + Material Design (Saga like) = Free Audible: React Native Music Player?",
+    "attributes": {}
+  },
+  {
+    "slug": "uber-lite-m-uber-in.md",
+    "path": "notes/2017/uber-lite-m-uber-in.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2017/uber-lite-m-uber-in.md",
+    "title": "uberLITE m.uber in web view, material...",
+    "date": "2017-08-19T10:52:12.000Z",
+    "excerpt": "uberLITE m.uber in web view, material navigation",
+    "attributes": {}
+  },
+  {
+    "slug": "eu-cookie-js.md",
+    "path": "notes/2017/eu-cookie-js.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2017/eu-cookie-js.md",
+    "title": "EU Cookie JS plugin, one yes...",
+    "date": "2017-08-27T07:23:24.000Z",
+    "excerpt": "EU Cookie JS plugin, one yes for all websites, internationalisation",
+    "attributes": {}
+  },
+  {
+    "slug": "redesign-wikipedia-for.md",
+    "path": "notes/2017/redesign-wikipedia-for.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2017/redesign-wikipedia-for.md",
+    "title": "Redesign Wikipedia for Web Tech, ML...",
+    "date": "2017-09-11T07:10:48.000Z",
+    "excerpt": "Redesign Wikipedia for Web Tech, ML for Professional Service",
+    "attributes": {}
+  },
+  {
+    "slug": "hindi-ligature.md",
+    "path": "notes/2017/hindi-ligature.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2017/hindi-ligature.md",
+    "title": "Hindi ligature...",
+    "date": "2017-09-15T10:11:45.000Z",
+    "excerpt": "Hindi ligature",
+    "attributes": {}
+  },
+  {
+    "slug": "security-inolenentation.md",
+    "path": "notes/2017/security-inolenentation.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2017/security-inolenentation.md",
+    "title": "Security inolenentation - notification if person...",
+    "date": "2017-09-23T17:49:16.000Z",
+    "excerpt": "Security inolenentation - notification if person not in list first demo of tech then demo of UI for app with demo on on mobile",
+    "attributes": {}
+  },
+  {
+    "slug": "auto-alt-using-aws.md",
+    "path": "notes/2017/auto-alt-using-aws.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2017/auto-alt-using-aws.md",
+    "title": "AutoALT using AWS...",
+    "date": "2017-09-25T05:40:57.000Z",
+    "excerpt": "AutoALT using AWS",
+    "attributes": {}
+  },
+  {
+    "slug": "social-media-profile.md",
+    "path": "notes/2017/social-media-profile.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2017/social-media-profile.md",
+    "title": "Social media profile link in AR...",
+    "date": "2017-09-26T04:34:19.000Z",
+    "excerpt": "Social media profile link in AR display",
+    "attributes": {}
+  },
+  {
+    "slug": "amy-for-following.md",
+    "path": "notes/2017/amy-for-following.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2017/amy-for-following.md",
+    "title": "Amy for following up and introductions,...",
+    "date": "2017-10-03T16:37:53.000Z",
+    "excerpt": "Amy for following up and introductions, personal assistant with invisible AI",
+    "attributes": {}
+  },
+  {
+    "slug": "chrome-vox-light.md",
+    "path": "notes/2017/chrome-vox-light.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2017/chrome-vox-light.md",
+    "title": "ChromeVox light...",
+    "date": "2017-10-05T13:02:15.000Z",
+    "excerpt": "ChromeVox light",
+    "attributes": {}
+  },
+  {
+    "slug": "places-on-mwlii.md",
+    "path": "notes/2017/places-on-mwlii.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2017/places-on-mwlii.md",
+    "title": "Places on MWLII: List co-working places...",
+    "date": "2017-10-09T09:59:57.000Z",
+    "excerpt": "Places on MWLII: List co-working places",
+    "attributes": {}
+  },
+  {
+    "slug": "events-on-mwlii.md",
+    "path": "notes/2017/events-on-mwlii.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2017/events-on-mwlii.md",
+    "title": "Events on MWLII...",
+    "date": "2017-10-14T14:59:50.000Z",
+    "excerpt": "Events on MWLII",
+    "attributes": {}
+  },
+  {
+    "slug": "airbnb-for-trivago.md",
+    "path": "notes/2017/airbnb-for-trivago.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2017/airbnb-for-trivago.md",
+    "title": "Airbnb for Trivago. Connect with locals,...",
+    "date": "2017-10-25T05:40:17.000Z",
+    "excerpt": "Airbnb for Trivago. Connect with locals, groups of people, find local places.",
+    "attributes": {}
+  },
+  {
+    "slug": "mwlii-add-amp.md",
+    "path": "notes/2017/mwlii-add-amp.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2017/mwlii-add-amp.md",
+    "title": "MWLII: Add AMP version (static)...",
+    "date": "2017-10-31T12:50:39.000Z",
+    "excerpt": "MWLII: Add AMP version (static)",
+    "attributes": {}
+  },
+  {
+    "slug": "mwlii-use-slugify.md",
+    "path": "notes/2017/mwlii-use-slugify.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2017/mwlii-use-slugify.md",
+    "title": "MWLII: Use slugify to generate slugs:...",
+    "date": "2017-11-09T09:37:10.000Z",
+    "excerpt": "MWLII: Use slugify to generate slugs: https://github.com/cocur/slugify",
+    "attributes": {}
+  },
+  {
+    "slug": "mwlii-make-router.md",
+    "path": "notes/2017/mwlii-make-router.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2017/mwlii-make-router.md",
+    "title": "MWLII: Make router using PHP, not...",
+    "date": "2017-11-09T10:00:17.000Z",
+    "excerpt": "MWLII: Make router using PHP, not htaccess. Cache everything on CloudFlare, add CloudFlare settings on github. /public, /cdn, maybe even use cdn.madewithlove.org.in for images and assets.",
+    "attributes": {}
+  },
+  {
+    "slug": "mwlii-seo-image.md",
+    "path": "notes/2017/mwlii-seo-image.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2017/mwlii-seo-image.md",
+    "title": "MWLII: SEO image generator using PHP,...",
+    "date": "2017-11-10T12:43:19.000Z",
+    "excerpt": "MWLII: SEO image generator using PHP, text on background image generation",
+    "attributes": {}
+  },
+  {
+    "slug": "mwlii-generate-slugs.md",
+    "path": "notes/2017/mwlii-generate-slugs.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2017/mwlii-generate-slugs.md",
+    "title": "MWLII: Generate slugs for user-defined inputs...",
+    "date": "2017-11-10T13:09:12.000Z",
+    "excerpt": "MWLII: Generate slugs for user-defined inputs like tags, university, hobby, etc., and add slug to title table with categories (\"tag\", \"institute\") for autocomplete",
+    "attributes": {}
+  },
+  {
+    "slug": "have-permissions-as.md",
+    "path": "notes/2017/have-permissions-as.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2017/have-permissions-as.md",
+    "title": "Have permissions as a flow. if...",
+    "date": "2017-11-15T10:35:35.000Z",
+    "excerpt": "Have permissions as a flow. if (hasPermission(\"admin\", STARTUPID)) then let her do things; is_su, is_founder, is_owner, etc. Can also add permission manager.",
+    "attributes": {}
+  },
+  {
+    "slug": "one-cms-for.md",
+    "path": "notes/2017/one-cms-for.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2017/one-cms-for.md",
+    "title": "One CMS for Oswald Accelerator and...",
+    "date": "2017-11-22T16:26:42.000Z",
+    "excerpt": "One CMS for Oswald Accelerator and MWLII. GitHub project. Backend for editing users + \"Send password reset link\", \"send email to everyone\", etc. CodeIgniter.",
+    "attributes": {}
+  },
+  {
+    "slug": "translation-earphones.md",
+    "path": "notes/2017/translation-earphones.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2017/translation-earphones.md",
+    "title": "translation earphones...",
+    "date": "2017-11-25T08:55:27.000Z",
+    "excerpt": "translation earphones",
+    "attributes": {}
+  },
+  {
+    "slug": "for-mwlii-profiles.md",
+    "path": "notes/2017/for-mwlii-profiles.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2017/for-mwlii-profiles.md",
+    "title": "For MWLII profiles, Facebook friends' emails...",
+    "date": "2017-11-29T11:06:51.000Z",
+    "excerpt": "For MWLII profiles, Facebook friends' emails by connecting Yahoo! Mail to Facebook",
+    "attributes": {}
+  },
+  {
+    "slug": "when-you-log.md",
+    "path": "notes/2017/when-you-log.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2017/when-you-log.md",
+    "title": "when you log into your admin...",
+    "date": "2017-12-06T06:47:48.000Z",
+    "excerpt": "when you log into your admin panel you can see accessibility audits of your website",
+    "attributes": {}
+  },
+  {
+    "slug": "image-api-from.md",
+    "path": "notes/2017/image-api-from.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2017/image-api-from.md",
+    "title": "Image API from keyword -- Wikimedia,...",
+    "date": "2017-12-28T08:33:41.000Z",
+    "excerpt": "Image API from keyword -- Wikimedia, Unspash, etc., with alt tag, license as JSON response",
+    "attributes": {}
+  },
+  {
+    "slug": "jwt-for-agastya.md",
+    "path": "notes/2018/jwt-for-agastya.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2018/jwt-for-agastya.md",
+    "title": "Jwt for Agastya token avoid db...",
+    "date": "2018-01-11T05:44:44.000Z",
+    "excerpt": "Jwt for Agastya token avoid db connect",
+    "attributes": {}
+  },
+  {
+    "slug": "accelerator-mwlii-footer-like.md",
+    "path": "notes/2018/accelerator-mwlii-footer-like.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2018/accelerator-mwlii-footer-like.md",
+    "title": "Accelerator/MWLII: Footer like Meetup, languages for...",
+    "date": "2018-01-11T15:27:16.000Z",
+    "excerpt": "Accelerator/MWLII: Footer like Meetup, languages for \"rendered\" translated pages. Main footer like Parsely",
+    "attributes": {}
+  },
+  {
+    "slug": "ara-scheduler.md",
+    "path": "notes/2018/ara-scheduler.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2018/ara-scheduler.md",
+    "title": "Ara scheduler...",
+    "date": "2018-01-15T09:14:43.000Z",
+    "excerpt": "Ara scheduler",
+    "attributes": {}
+  },
+  {
+    "slug": "binary-tree-with.md",
+    "path": "notes/2018/binary-tree-with.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2018/binary-tree-with.md",
+    "title": "Binary tree with huffman codes for...",
+    "date": "2018-01-16T01:57:49.000Z",
+    "excerpt": "Binary tree with huffman codes for closest ansestor 11011 and 11001 have 1100",
+    "attributes": {}
+  },
+  {
+    "slug": "stackoverflow-quora.md",
+    "path": "notes/2018/stackoverflow-quora.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2018/stackoverflow-quora.md",
+    "title": "Stackoverflow + Quora + Wikipedia +...",
+    "date": "2018-03-14T15:50:40.000Z",
+    "excerpt": "Stackoverflow + Quora + Wikipedia + etc. = knowledge QA Api",
+    "attributes": {}
+  },
+  {
+    "slug": "agastya-admin-modes.md",
+    "path": "notes/2018/agastya-admin-modes.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2018/agastya-admin-modes.md",
+    "title": "Agastya admin modes in css Dev,...",
+    "date": "2018-03-26T05:22:45.000Z",
+    "excerpt": "Agastya admin modes in css Dev, elements like block_elements replace to all display block elements, compile scss",
+    "attributes": {}
+  },
+  {
+    "slug": "universal-contacts-connect.md",
+    "path": "notes/2018/universal-contacts-connect.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2018/universal-contacts-connect.md",
+    "title": "Universal contacts. Connect contacts with Facebook,...",
+    "date": "2018-03-27T10:06:01.000Z",
+    "excerpt": "Universal contacts. Connect contacts with Facebook, LinkedIn, etc., user decides what info they want to see on call screen, like Name, Position, Company is calling you",
+    "attributes": {}
+  },
+  {
+    "slug": "https-stackoverflow-com-a-618198-1656944-insert-before.md",
+    "path": "notes/2018/https-stackoverflow-com-a-618198-1656944-insert-before.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2018/https-stackoverflow-com-a-618198-1656944-insert-before.md",
+    "title": "https://stackoverflow.com/a/618198/1656944 insertBefore...",
+    "date": "2018-04-01T19:34:25.000Z",
+    "excerpt": "https://stackoverflow.com/a/618198/1656944 insertBefore",
+    "attributes": {}
+  },
+  {
+    "slug": "send-ajax-request.md",
+    "path": "notes/2018/send-ajax-request.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2018/send-ajax-request.md",
+    "title": "Send AJAX request with entire HTML...",
+    "date": "2018-04-03T19:06:50.000Z",
+    "excerpt": "Send AJAX request with entire HTML source code on pageload and after 5 seconds to see if Facebook injects tracking code when opening links on the Facebook and Messenger Android apps. I think that's why they don't use Chrome Custom Tabs.",
+    "attributes": {}
+  },
+  {
+    "slug": "mwlii-merch-on.md",
+    "path": "notes/2018/mwlii-merch-on.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2018/mwlii-merch-on.md",
+    "title": "MWLII merch on Melangebox...",
+    "date": "2018-04-08T11:13:04.000Z",
+    "excerpt": "MWLII merch on Melangebox",
+    "attributes": {}
+  },
+  {
+    "slug": "wikibility-chrome-extension.md",
+    "path": "notes/2018/wikibility-chrome-extension.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2018/wikibility-chrome-extension.md",
+    "title": "Wikibility chrome extension...",
+    "date": "2018-04-10T18:59:03.000Z",
+    "excerpt": "Wikibility chrome extension",
+    "attributes": {}
+  },
+  {
+    "slug": "swot-to-make.md",
+    "path": "notes/2018/swot-to-make.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2018/swot-to-make.md",
+    "title": "SWOT to make Agastya open-source with...",
+    "date": "2018-04-16T09:56:59.000Z",
+    "excerpt": "SWOT to make Agastya open-source with PaaS",
+    "attributes": {}
+  },
+  {
+    "slug": "smart-reply-api.md",
+    "path": "notes/2018/smart-reply-api.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2018/smart-reply-api.md",
+    "title": "Smart Reply API. Instead of saying...",
+    "date": "2018-04-28T14:40:08.000Z",
+    "excerpt": "Smart Reply API. Instead of saying \"I don't understand this\", choose smart reply for a conversation.",
+    "attributes": {}
+  },
+  {
+    "slug": "knowledge-api.md",
+    "path": "notes/2018/knowledge-api.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2018/knowledge-api.md",
+    "title": "Knowledge API = Wikipedia rich hover...",
+    "date": "2018-05-03T09:42:03.000Z",
+    "excerpt": "Knowledge API = Wikipedia rich hover snippets combined with Bing or the company domain logo API",
+    "attributes": {}
+  },
+  {
+    "slug": "fast-ai.md",
+    "path": "notes/2018/fast-ai.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2018/fast-ai.md",
+    "title": "fast.ai...",
+    "date": "2018-05-08T08:08:56.000Z",
+    "excerpt": "fast.ai",
+    "attributes": {}
+  },
+  {
+    "slug": "agastya-dialog-flow.md",
+    "path": "notes/2018/agastya-dialog-flow.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2018/agastya-dialog-flow.md",
+    "title": "Agastya Dialog flow chat, AI answers...",
+    "date": "2018-05-08T08:29:14.000Z",
+    "excerpt": "Agastya Dialog flow chat, AI answers things like \"How do I reset my password?\"",
+    "attributes": {}
+  },
+  {
+    "slug": "hover-cards-js.md",
+    "path": "notes/2018/hover-cards-js.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2018/hover-cards-js.md",
+    "title": "Hover cards JS plugin to make...",
+    "date": "2018-05-11T14:25:35.000Z",
+    "excerpt": "Hover cards JS plugin to make custom cards like on Facebook, Twitter, and Wikipedia. Then use them with the Wikipedia hover cards API for JS plugin",
+    "attributes": {}
+  },
+  {
+    "slug": "tool-to-show.md",
+    "path": "notes/2018/tool-to-show.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2018/tool-to-show.md",
+    "title": "Tool to show GitHub contributors; ![Image](public-apis.oswaldlabs.com/github-contributors/REPO_NAME.png),...",
+    "date": "2018-05-18T11:23:32.000Z",
+    "excerpt": "Tool to show GitHub contributors; ![Image](public-apis.oswaldlabs.com/github-contributors/REPO_NAME.png), automatically generate using GitHub API and show image, cache for 7 days using CloudFlare",
+    "attributes": {}
+  },
+  {
+    "slug": "pod-embed-website-to.md",
+    "path": "notes/2018/pod-embed-website-to.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2018/pod-embed-website-to.md",
+    "title": "PodEmbed: Website to embed podcast episodes...",
+    "date": "2018-05-30T08:21:18.000Z",
+    "excerpt": "PodEmbed: Website to embed podcast episodes",
+    "attributes": {}
+  },
+  {
+    "slug": "add-oswald-labs.md",
+    "path": "notes/2018/add-oswald-labs.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2018/add-oswald-labs.md",
+    "title": "Add \"Oswald Labs AI\" page on...",
+    "date": "2018-06-01T07:15:44.000Z",
+    "excerpt": "Add \"Oswald Labs AI\" page on website, talk about AutoALT, NLP Ara, etc.",
+    "attributes": {}
+  },
+  {
+    "slug": "schema-on-website.md",
+    "path": "notes/2018/schema-on-website.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2018/schema-on-website.md",
+    "title": "Schema on website blog itemprop...",
+    "date": "2018-06-02T15:34:34.000Z",
+    "excerpt": "Schema on website blog itemprop",
+    "attributes": {}
+  },
+  {
+    "slug": "require-js-mini-library.md",
+    "path": "notes/2018/require-js-mini-library.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2018/require-js-mini-library.md",
+    "title": "RequireJS mini library...",
+    "date": "2018-06-14T05:34:10.000Z",
+    "excerpt": "RequireJS mini library",
+    "attributes": {}
+  },
+  {
+    "slug": "555-lazy-load.md",
+    "path": "notes/2018/555-lazy-load.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2018/555-lazy-load.md",
+    "title": "555 lazy load better with everything...",
+    "date": "2018-06-14T05:39:50.000Z",
+    "excerpt": "555 lazy load better with everything auto",
+    "attributes": {}
+  },
+  {
+    "slug": "flags-for-indian.md",
+    "path": "notes/2018/flags-for-indian.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2018/flags-for-indian.md",
+    "title": "Flags for Indian states...",
+    "date": "2018-06-18T08:13:56.000Z",
+    "excerpt": "Flags for Indian states",
+    "attributes": {}
+  },
+  {
+    "slug": "ara-ui-gmail.md",
+    "path": "notes/2018/ara-ui-gmail.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2018/ara-ui-gmail.md",
+    "title": "Ara UI (Gmail connect) to send...",
+    "date": "2018-06-25T12:45:49.000Z",
+    "excerpt": "Ara UI (Gmail connect) to send templated emails like event speakers",
+    "attributes": {}
+  },
+  {
+    "slug": "subscriptions-app-dynamically.md",
+    "path": "notes/2018/subscriptions-app-dynamically.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2018/subscriptions-app-dynamically.md",
+    "title": "Subscriptions app. Dynamically generated email for...",
+    "date": "2018-06-27T12:53:55.000Z",
+    "excerpt": "Subscriptions app. Dynamically generated email for subscriptions, shown in a nice UI",
+    "attributes": {}
+  },
+  {
+    "slug": "git-book-writer.md",
+    "path": "notes/2018/git-book-writer.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2018/git-book-writer.md",
+    "title": "Git book writer. Google Docs-like save...",
+    "date": "2018-07-05T15:49:44.000Z",
+    "excerpt": "Git book writer. Google Docs-like save automatically by committing to git. Write ebook in Mardown on GitHub. For accessibility guidelines book & more",
+    "attributes": {}
+  },
+  {
+    "slug": "made-in-twente.md",
+    "path": "notes/2018/made-in-twente.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2018/made-in-twente.md",
+    "title": "Made in Twente...",
+    "date": "2018-07-07T23:27:21.000Z",
+    "excerpt": "Made in Twente",
+    "attributes": {}
+  },
+  {
+    "slug": "secure-read-aloud.md",
+    "path": "notes/2018/secure-read-aloud.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2018/secure-read-aloud.md",
+    "title": "Secure read aloud endpoint...",
+    "date": "2018-07-16T12:45:45.000Z",
+    "excerpt": "Secure read aloud endpoint",
+    "attributes": {}
+  },
+  {
+    "slug": "notifications-on-agastya.md",
+    "path": "notes/2018/notifications-on-agastya.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2018/notifications-on-agastya.md",
+    "title": "Notifications on Agastya. Like \"Dictionary enabled....",
+    "date": "2018-07-16T14:31:24.000Z",
+    "excerpt": "Notifications on Agastya. Like \"Dictionary enabled. Select a word to view its definition\"",
+    "attributes": {}
+  },
+  {
+    "slug": "my-email-system.md",
+    "path": "notes/2018/my-email-system.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2018/my-email-system.md",
+    "title": "My email system in 2018. Also...",
+    "date": "2018-07-24T08:06:06.000Z",
+    "excerpt": "My email system in 2018. Also how I answer emails in signature",
+    "attributes": {}
+  },
+  {
+    "slug": "facebook-embed-shortcode.md",
+    "path": "notes/2018/facebook-embed-shortcode.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2018/facebook-embed-shortcode.md",
+    "title": "Facebook embed shortcode for Middleman...",
+    "date": "2018-07-28T11:45:53.000Z",
+    "excerpt": "Facebook embed shortcode for Middleman",
+    "attributes": {}
+  },
+  {
+    "slug": "state-of-the.md",
+    "path": "notes/2018/state-of-the.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2018/state-of-the.md",
+    "title": "State of the Dock 2018...",
+    "date": "2018-07-28T13:58:00.000Z",
+    "excerpt": "State of the Dock 2018",
+    "attributes": {}
+  },
+  {
+    "slug": "pointer-events-none-overlay.md",
+    "path": "notes/2018/pointer-events-none-overlay.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2018/pointer-events-none-overlay.md",
+    "title": "pointer-events: none overlay for Agastya...",
+    "date": "2018-08-02T13:34:31.000Z",
+    "excerpt": "pointer-events: none overlay for Agastya",
+    "attributes": {}
+  },
+  {
+    "slug": "open-source-google.md",
+    "path": "notes/2018/open-source-google.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2018/open-source-google.md",
+    "title": "Open source Google Photos like autoupload...",
+    "date": "2018-08-30T08:52:21.000Z",
+    "excerpt": "Open source Google Photos like autoupload React Native app for S3, article comparing Flickr, Prime Photos, iCloud",
+    "attributes": {}
+  },
+  {
+    "slug": "gravatar-competitor-multi-source.md",
+    "path": "notes/2018/gravatar-competitor-multi-source.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2018/gravatar-competitor-multi-source.md",
+    "title": "Gravatar competitor, multi-source and better: http://picasaweb.google.com/data/entry/api/user/anandchowdhary?alt=json...",
+    "date": "2018-09-04T14:23:12.000Z",
+    "excerpt": "Gravatar competitor, multi-source and better: http://picasaweb.google.com/data/entry/api/user/anandchowdhary?alt=json",
+    "attributes": {}
+  },
+  {
+    "slug": "open-image-api.md",
+    "path": "notes/2018/open-image-api.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2018/open-image-api.md",
+    "title": "Open image API Duckduckgo...",
+    "date": "2018-09-10T16:25:39.000Z",
+    "excerpt": "Open image API Duckduckgo",
+    "attributes": {}
+  },
+  {
+    "slug": "oswald-labs-blog.md",
+    "path": "notes/2018/oswald-labs-blog.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2018/oswald-labs-blog.md",
+    "title": "Oswald Labs Blog for SEO (Non...",
+    "date": "2018-09-30T15:05:56.000Z",
+    "excerpt": "Oswald Labs Blog for SEO (Non Medium)",
+    "attributes": {}
+  },
+  {
+    "slug": "pitch-entrepreneurship-honors.md",
+    "path": "notes/2018/pitch-entrepreneurship-honors.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2018/pitch-entrepreneurship-honors.md",
+    "title": "Pitch entrepreneurship honors subject to honors...",
+    "date": "2018-10-01T17:51:03.000Z",
+    "excerpt": "Pitch entrepreneurship honors subject to honors dean. Nikos and visiting faculty from startups",
+    "attributes": {}
+  },
+  {
+    "slug": "u-twente-open-course-ware.md",
+    "path": "notes/2018/u-twente-open-course-ware.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2018/u-twente-open-course-ware.md",
+    "title": "Like MIT OCW, but UT. There...",
+    "date": "2018-10-01T18:46:43.000Z",
+    "excerpt": "Like MIT OCW, but UT. There already is lots of video content, classes such as Honors can be (and should be!) recorded.",
+    "attributes": {}
+  },
+  {
+    "slug": "accessibility-support-as.md",
+    "path": "notes/2018/accessibility-support-as.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2018/accessibility-support-as.md",
+    "title": "Accessibility support as a service: email...",
+    "date": "2018-10-16T11:16:30.000Z",
+    "excerpt": "Accessibility support as a service: email support, docs for Agastya usage, whitelabelled subdomain",
+    "attributes": {}
+  },
+  {
+    "slug": "2-f-ace-face-unlock.md",
+    "path": "notes/2018/2-f-ace-face-unlock.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2018/2-f-ace-face-unlock.md",
+    "title": "2FAce: Face Unlock for the Web,...",
+    "date": "2018-10-16T11:18:07.000Z",
+    "excerpt": "2FAce: Face Unlock for the Web, as a two-factor authentication method with SMS fallback",
+    "attributes": {}
+  },
+  {
+    "slug": "cloudinary-backup-tool.md",
+    "path": "notes/2018/cloudinary-backup-tool.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2018/cloudinary-backup-tool.md",
+    "title": "Cloudinary backup tool...",
+    "date": "2018-11-05T09:35:29.000Z",
+    "excerpt": "Cloudinary backup tool",
+    "attributes": {}
+  },
+  {
+    "slug": "twente-license.md",
+    "path": "notes/2018/twente-license.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2018/twente-license.md",
+    "title": "Twente License...",
+    "date": "2018-12-13T12:28:48.000Z",
+    "excerpt": "Twente License",
+    "attributes": {}
+  },
+  {
+    "slug": "oswald-labs-research.md",
+    "path": "notes/2018/oswald-labs-research.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2018/oswald-labs-research.md",
+    "title": "Oswald Labs Research...",
+    "date": "2018-12-13T13:58:45.000Z",
+    "excerpt": "Oswald Labs Research",
+    "attributes": {}
+  },
+  {
+    "slug": "disqus-but-with.md",
+    "path": "notes/2018/disqus-but-with.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2018/disqus-but-with.md",
+    "title": "Disqus but with Twitter replies. Embed...",
+    "date": "2018-12-27T07:57:57.000Z",
+    "excerpt": "Disqus but with Twitter replies. Embed widget for comments but it’s actually Twitter single tweet replies embedded.",
+    "attributes": {}
+  },
+  {
+    "slug": "chrome-extensions-valmiki.md",
+    "path": "notes/2019/chrome-extensions-valmiki.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2019/chrome-extensions-valmiki.md",
+    "title": "Chrome extensions, Valmiki 2.0 with features;...",
+    "date": "2019-01-08T15:28:57.000Z",
+    "excerpt": "Chrome extensions, Valmiki 2.0 with features; \"Valmiki for Dyslexia\" and \"Valmiki for Seniors\", etc.",
+    "attributes": {}
+  },
+  {
+    "slug": "twitter-sub-accounts-e-g.md",
+    "path": "notes/2019/twitter-sub-accounts-e-g.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2019/twitter-sub-accounts-e-g.md",
+    "title": "Twitter sub-accounts: e.g., twitter.com/AnandChowdhary/hellobar as an...",
+    "date": "2019-01-29T20:12:13.000Z",
+    "excerpt": "Twitter sub-accounts: e.g., twitter.com/AnandChowdhary/hellobar as an account for an open-source project which doesn't \"deserve\" its own account. UX can be like this: \"I really like the new @AnandChowdhary/hellobar project\", and you can filter, add a profile picture, etc., almost like a new profile, but it's \"owned\" by your account",
+    "attributes": {}
+  },
+  {
+    "slug": "contacts-app-to.md",
+    "path": "notes/2019/contacts-app-to.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2019/contacts-app-to.md",
+    "title": "\"Contacts\" app to store important people...",
+    "date": "2019-01-31T17:02:19.000Z",
+    "excerpt": "\"Contacts\" app to store important people you meet with context (e.g., I met Bart-Jan who is the Community Manager of Cee Spot, a coworking space in Enschede) so you can filter and find relevant people later (see Google Sheet \"Humans\" and \"Important People\")",
+    "attributes": {}
+  },
+  {
+    "slug": "google-keep-notion.md",
+    "path": "notes/2019/google-keep-notion.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2019/google-keep-notion.md",
+    "title": "Google Keep, Notion, Words auto-backup to...",
+    "date": "2019-01-31T19:37:44.000Z",
+    "excerpt": "Google Keep, Notion, Words auto-backup to GitHub",
+    "attributes": {}
+  },
+  {
+    "slug": "words-3-0-api.md",
+    "path": "notes/2019/words-3-0-api.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2019/words-3-0-api.md",
+    "title": "Words (3.0?) API in Node.js with...",
+    "date": "2019-01-31T19:39:54.000Z",
+    "excerpt": "Words (3.0?) API in Node.js with option to encrypt/unencrypt ZIP backups and download them, CRON backups, etc.",
+    "attributes": {}
+  },
+  {
+    "slug": "open-source-podcast-player.md",
+    "path": "notes/2019/open-source-podcast-player.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2019/open-source-podcast-player.md",
+    "title": "Open-source podcast player for the web...",
+    "date": "2019-02-05T11:06:59.000Z",
+    "excerpt": "Open-source podcast player for the web (exactly like Castbox Web)",
+    "attributes": {}
+  },
+  {
+    "slug": "stackoverflow-sort-by.md",
+    "path": "notes/2019/stackoverflow-sort-by.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2019/stackoverflow-sort-by.md",
+    "title": "Stackoverflow sort by upvotes Chrome extension...",
+    "date": "2019-02-07T14:13:30.000Z",
+    "excerpt": "Stackoverflow sort by upvotes Chrome extension https://stackoverflow.com/questions/1321878/how-to-prevent-favicon-ico-requests",
+    "attributes": {}
+  },
+  {
+    "slug": "twente-license-bot.md",
+    "path": "notes/2019/twente-license-bot.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2019/twente-license-bot.md",
+    "title": "Twente License bot auto pull request...",
+    "date": "2019-02-09T21:37:21.000Z",
+    "excerpt": "Twente License bot auto pull request for “Change MIT to Twente” in popular repos",
+    "attributes": {}
+  },
+  {
+    "slug": "changebar-changelog-notifications.md",
+    "path": "notes/2019/changebar-changelog-notifications.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2019/changebar-changelog-notifications.md",
+    "title": "Changebar: Changelog notifications widget using CHANGELOG.md...",
+    "date": "2019-02-14T08:21:26.000Z",
+    "excerpt": "Changebar: Changelog notifications widget using CHANGELOG.md and JSDelivr",
+    "attributes": {}
+  },
+  {
+    "slug": "typescript-interface-export.md",
+    "path": "notes/2019/typescript-interface-export.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2019/typescript-interface-export.md",
+    "title": "Typescript interface export to MySQL schema...",
+    "date": "2019-02-17T10:53:52.000Z",
+    "excerpt": "Typescript interface export to MySQL schema",
+    "attributes": {}
+  },
+  {
+    "slug": "react-to-react.md",
+    "path": "notes/2019/react-to-react.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2019/react-to-react.md",
+    "title": "React to React Native: Accessibility (compare...",
+    "date": "2019-02-20T11:24:18.000Z",
+    "excerpt": "React to React Native: Accessibility (compare aria, role with RN attributes for web developers switching to RN) https://facebook.github.io/react-native/docs/accessibility",
+    "attributes": {}
+  },
+  {
+    "slug": "gap-in-knowledge.md",
+    "path": "notes/2019/gap-in-knowledge.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2019/gap-in-knowledge.md",
+    "title": "Gap in knowledge and understanding to...",
+    "date": "2019-02-28T09:24:47.000Z",
+    "excerpt": "Gap in knowledge and understanding to fill to realize the theoretical potential in literature. Full in depth later, full survey or list of features. We will know what are the best features based on literature. Then imperial part where we show these features do indeed contribute to better learning. Literature shows there is an opportunity. We have to make the point of gap of knowledge most existing work is lab based. We want to work it out in practice.",
+    "attributes": {}
+  },
+  {
+    "slug": "link-to-app-for-sharing-links.md",
+    "path": "notes/2019/link-to-app-for-sharing-links.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2019/link-to-app-for-sharing-links.md",
+    "title": "link.to/map/73.263837/43.172984 link.to/music/Love+Story/Taylor+Swift (https://smarturl.it/EllaMai) link.to/podcast/Hello+Internet/37 link.to/app/instagram <–...",
+    "date": "2019-03-04T08:14:51.000Z",
+    "excerpt": "link.to/map/73.263837/43.172984\nlink.to/music/Love+Story/Taylor+Swift (https://smarturl.it/EllaMai)\nlink.to/podcast/Hello+Internet/37\nlink.to/app/instagram <– Opens platform-specific App Store link\nlink.to/calendar/Jan+23+3pm/Event+name (like addtocalendar.ga)\nlink.to/place Google/Apple Maps/OpenStreet/etc.",
+    "attributes": {}
+  },
+  {
+    "slug": "notify-swift-app.md",
+    "path": "notes/2019/notify-swift-app.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2019/notify-swift-app.md",
+    "title": "Notify: Swift app that runs in...",
+    "date": "2019-03-04T08:47:02.000Z",
+    "excerpt": "Notify: Swift app that runs in the background and sends notifications from cloud messaging. REST endpoint to send",
+    "attributes": {}
+  },
+  {
+    "slug": "git-writer-git-hub-version.md",
+    "path": "notes/2019/git-writer-git-hub-version.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2019/git-writer-git-hub-version.md",
+    "title": "GitWriter: GitHub version controlled writing, autosaving...",
+    "date": "2019-03-05T18:24:36.000Z",
+    "excerpt": "GitWriter: GitHub version controlled writing, autosaving like Google Docs",
+    "attributes": {}
+  },
+  {
+    "slug": "ifttt-but-open.md",
+    "path": "notes/2019/ifttt-but-open.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2019/ifttt-but-open.md",
+    "title": "IFTTT but open source and self...",
+    "date": "2019-03-18T07:54:34.000Z",
+    "excerpt": "IFTTT but open source and self hosted. Many integrations. Multiple thens.",
+    "attributes": {}
+  },
+  {
+    "slug": "email-signature-creator.md",
+    "path": "notes/2019/email-signature-creator.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2019/email-signature-creator.md",
+    "title": "Email signature creator...",
+    "date": "2019-03-25T13:42:42.000Z",
+    "excerpt": "Email signature creator",
+    "attributes": {}
+  },
+  {
+    "slug": "optimized-image-delivery.md",
+    "path": "notes/2019/optimized-image-delivery.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2019/optimized-image-delivery.md",
+    "title": "Optimized image delivery (CDN + resize...",
+    "date": "2019-03-25T13:43:14.000Z",
+    "excerpt": "Optimized image delivery (CDN + resize + WebP/compression + filters, etc.) https://www.gumlet.com/pricing",
+    "attributes": {}
+  },
+  {
+    "slug": "there-s-a-really.md",
+    "path": "notes/2019/there-s-a-really.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2019/there-s-a-really.md",
+    "title": "There’s a really good business opportunity...",
+    "date": "2019-03-30T14:34:34.000Z",
+    "excerpt": "There’s a really good business opportunity to bring Dutch agritech to India. An incredibly valuable company can be built.",
+    "attributes": {}
+  },
+  {
+    "slug": "ci-tool-for.md",
+    "path": "notes/2019/ci-tool-for.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2019/ci-tool-for.md",
+    "title": "CI tool for finding accessibility issues....",
+    "date": "2019-03-30T17:19:48.000Z",
+    "excerpt": "CI tool for finding accessibility issues. Like Travis CI but for a11y.",
+    "attributes": {}
+  },
+  {
+    "slug": "native-app-from.md",
+    "path": "notes/2019/native-app-from.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2019/native-app-from.md",
+    "title": "Native app from URL generator +...",
+    "date": "2019-03-31T19:30:07.000Z",
+    "excerpt": "Native app from URL generator + info on \"when it's not a good idea (eg. PWA)",
+    "attributes": {}
+  },
+  {
+    "slug": "keep-list-of.md",
+    "path": "notes/2019/keep-list-of.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2019/keep-list-of.md",
+    "title": "Keep list of built ideas on...",
+    "date": "2019-03-31T21:19:21.000Z",
+    "excerpt": "Keep list of built ideas on website as page",
+    "attributes": {}
+  },
+  {
+    "slug": "copyright-year-bot.md",
+    "path": "notes/2019/copyright-year-bot.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2019/copyright-year-bot.md",
+    "title": "Copyright year bot. Crawls GitHub and...",
+    "date": "2019-04-01T01:28:27.000Z",
+    "excerpt": "Copyright year bot. Crawls GitHub and finds (c) 2018 and replaces it with current year",
+    "attributes": {}
+  },
+  {
+    "slug": "add-ignoring-slashes.md",
+    "path": "notes/2019/add-ignoring-slashes.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2019/add-ignoring-slashes.md",
+    "title": "Add ignoring slashes to Fraud. Then...",
+    "date": "2019-04-01T05:28:30.000Z",
+    "excerpt": "Add ignoring slashes to Fraud. Then change Agastya-database folder to be :id/apikey for better for each.",
+    "attributes": {}
+  },
+  {
+    "slug": "use-fraud-value.md",
+    "path": "notes/2019/use-fraud-value.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2019/use-fraud-value.md",
+    "title": "Use Fraud value in config, plus...",
+    "date": "2019-04-01T05:32:31.000Z",
+    "excerpt": "Use Fraud value in config, plus meta like userId, last modified, etc. Make sure ignore api key and have rename endpoint",
+    "attributes": {}
+  },
+  {
+    "slug": "add-time-stamp.md",
+    "path": "notes/2019/add-time-stamp.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2019/add-time-stamp.md",
+    "title": "Add time stamp to meta.json generator...",
+    "date": "2019-04-01T05:36:17.000Z",
+    "excerpt": "Add time stamp to meta.json generator thingy for better randomness + S3 build process",
+    "attributes": {}
+  },
+  {
+    "slug": "ara-people-database.md",
+    "path": "notes/2019/ara-people-database.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2019/ara-people-database.md",
+    "title": "Ara: People database to match emails...",
+    "date": "2019-04-04T07:59:05.000Z",
+    "excerpt": "Ara: People database to match emails with humans, use things like &#102;&#105;&#114;&#x73;&#116;&#76;&#101;&#x74;&#x74;&#101;&#x72;&#x2e;&#115;&#x75;&#x72;&#x6e;&#97;&#109;&#101;&#x40;&#x65;&#120;&#97;&#109;&#112;&#108;&#101;&#x2e;&#99;&#x6f;&#109; for names in emails, plus Clearbit APIs. Then we can have Slack Ara too who understands @anand means my email",
+    "attributes": {}
+  },
+  {
+    "slug": "image-optimization-and.md",
+    "path": "notes/2019/image-optimization-and.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2019/image-optimization-and.md",
+    "title": "Image optimization and CDN powered by...",
+    "date": "2019-04-08T10:07:20.000Z",
+    "excerpt": "Image optimization and CDN powered by Uppload. Lambda, CloudFront, S3. Think Bynder combined with Uploadcare. Support for dynamic resizing (think responsive images), convert to WebP (NPM package for web/Vue/React component which takes a URL and gives a responsive picture element), transformations (blur, rotate, crop, face recognition, more like Uploadcare), and dominant color (for loading states, backgrounds, etc.) and black or white (text color) based on dominant color.",
+    "attributes": {}
+  },
+  {
+    "slug": "honors-pitch.md",
+    "path": "notes/2019/honors-pitch.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2019/honors-pitch.md",
+    "title": "[ ] Homework plays a critical,...",
+    "date": "2019-04-08T14:58:03.000Z",
+    "excerpt": "[ ] Homework plays a critical, long-term role in a child’s development: understa",
+    "attributes": {}
+  },
+  {
+    "slug": "fraud-for-serverless.md",
+    "path": "notes/2019/fraud-for-serverless.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2019/fraud-for-serverless.md",
+    "title": "Fraud for serverless (s3)?...",
+    "date": "2019-04-12T09:18:37.000Z",
+    "excerpt": "Fraud for serverless (s3)?",
+    "attributes": {}
+  },
+  {
+    "slug": "on-india-gov-in-the.md",
+    "path": "notes/2019/on-india-gov-in-the.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2019/on-india-gov-in-the.md",
+    "title": "On India.gov.in, the email/phone of every...",
+    "date": "2019-04-14T11:59:22.000Z",
+    "excerpt": "On India.gov.in, the email/phone of every Rajya Sabha and Lok Sabha member are available; crawl",
+    "attributes": {}
+  },
+  {
+    "slug": "data-if-conditional.md",
+    "path": "notes/2019/data-if-conditional.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2019/data-if-conditional.md",
+    "title": "data if conditional rendering library with...",
+    "date": "2019-04-16T10:05:21.000Z",
+    "excerpt": "data if conditional rendering library with new Function instead of eval",
+    "attributes": {}
+  },
+  {
+    "slug": "single-file-components.md",
+    "path": "notes/2019/single-file-components.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2019/single-file-components.md",
+    "title": "Single file components (e.g., read-aloud.agastya) which...",
+    "date": "2019-04-16T11:57:34.000Z",
+    "excerpt": "Single file components (e.g., read-aloud.agastya) which have Sass, TypeScript, etc. (HTML elements?), jest tests (not added to prod'n)",
+    "attributes": {}
+  },
+  {
+    "slug": "image-cdn-ideas.md",
+    "path": "notes/2019/image-cdn-ideas.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2019/image-cdn-ideas.md",
+    "title": "Image CDN ideas: Flags, Langs, browser...",
+    "date": "2019-04-17T06:19:53.000Z",
+    "excerpt": "Image CDN ideas: Flags, Langs, browser icons CDN for show and tell, transforms like circle, resize. Admin panel repo across Ara, Agastya, Image CDN (NPM based), same with auth. “All images on this page were loaded in 0.7s” calculator with onload. “Loaded from Amsterdam,” closest to you location with Agastya. Folders with MySQL LIKE foldername% in one database. Pricing per transformation/version?",
+    "attributes": {}
+  },
+  {
+    "slug": "agastya-for-boloji.md",
+    "path": "notes/2019/agastya-for-boloji.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2019/agastya-for-boloji.md",
+    "title": "Agastya for Boloji...",
+    "date": "2019-04-17T10:05:13.000Z",
+    "excerpt": "Agastya for Boloji",
+    "attributes": {}
+  },
+  {
+    "slug": "google-sheets-as.md",
+    "path": "notes/2019/google-sheets-as.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2019/google-sheets-as.md",
+    "title": "Google Sheets as data source for...",
+    "date": "2019-04-19T11:09:26.000Z",
+    "excerpt": "Google Sheets as data source for chatbot (question answer columns)",
+    "attributes": {}
+  },
+  {
+    "slug": "add-dialogflow-integration.md",
+    "path": "notes/2019/add-dialogflow-integration.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2019/add-dialogflow-integration.md",
+    "title": "Add dialogflow integration, either iframe or...",
+    "date": "2019-04-20T20:18:31.000Z",
+    "excerpt": "Add dialogflow integration, either iframe or using API and Agastya integration. Even better: Vue Dialogflow.",
+    "attributes": {}
+  },
+  {
+    "slug": "type-script-express-auth.md",
+    "path": "notes/2019/type-script-express-auth.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2019/type-script-express-auth.md",
+    "title": "TypeScript express auth starter. Organizations, users,...",
+    "date": "2019-04-21T03:30:36.000Z",
+    "excerpt": "TypeScript express auth starter. Organizations, users, 2FA, session history, password reset emails.",
+    "attributes": {}
+  },
+  {
+    "slug": "add-collaborating-documents.md",
+    "path": "notes/2019/add-collaborating-documents.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2019/add-collaborating-documents.md",
+    "title": "Add collaborating documents, lists, notes, passwords,...",
+    "date": "2019-04-26T03:00:45.000Z",
+    "excerpt": "Add collaborating documents, lists, notes, passwords, and more on Bynder competitor image/content CDN",
+    "attributes": {}
+  },
+  {
+    "slug": "nuxt-style-routes.md",
+    "path": "notes/2019/nuxt-style-routes.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2019/nuxt-style-routes.md",
+    "title": "Nuxt style routes for Staart...",
+    "date": "2019-05-02T07:08:50.000Z",
+    "excerpt": "Nuxt style routes for Staart",
+    "attributes": {}
+  },
+  {
+    "slug": "ara-proposl-speer-style.md",
+    "path": "notes/2019/ara-proposl-speer-style.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2019/ara-proposl-speer-style.md",
+    "title": "Ara Proposl/Speer style steps. Create custom...",
+    "date": "2019-05-07T06:09:02.000Z",
+    "excerpt": "Ara Proposl/Speer style steps. Create custom workflows. Default calendar appointment one is “I say one of these to Ara (setup a meeting, etc.), Ara send an email to one of these (everyone in CC, just to, etc.), Ara follows up in 3 days if no response, Ara sends invitation if reply and selected time, etc.",
+    "attributes": {}
+  },
+  {
+    "slug": "gitwriter-style-front.md",
+    "path": "notes/2019/gitwriter-style-front.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2019/gitwriter-style-front.md",
+    "title": "Gitwriter style front end like Netlify...",
+    "date": "2019-05-07T07:58:25.000Z",
+    "excerpt": "Gitwriter style front end like Netlify CMS for managing content on GitHub for Hugo sites",
+    "attributes": {}
+  },
+  {
+    "slug": "if-i-lose-break-my-i-phone.md",
+    "path": "notes/2019/if-i-lose-break-my-i-phone.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2019/if-i-lose-break-my-i-phone.md",
+    "title": "I pay for iPhone insurance. Go...",
+    "date": "2019-05-07T14:41:18.000Z",
+    "excerpt": "I pay for iPhone insurance. Go to wertgarantie.com and login through credentials on 1Password. File a new insurance claim. If lost/theft, (i) file a police complaint specifying the IMEI number and device, (ii) get SIM blocked, and (iii) have evidence copies of both",
+    "attributes": {}
+  },
+  {
+    "slug": "don-t-miss-out.md",
+    "path": "notes/2019/don-t-miss-out.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2019/don-t-miss-out.md",
+    "title": "“Don’t miss out on leads” Chatbot...",
+    "date": "2019-05-23T11:00:32.000Z",
+    "excerpt": "“Don’t miss out on leads” Chatbot on enter site solution",
+    "attributes": {}
+  },
+  {
+    "slug": "cron-1-day-decorator.md",
+    "path": "notes/2019/cron-1-day-decorator.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2019/cron-1-day-decorator.md",
+    "title": "@Cron(“1 day”) decorator...",
+    "date": "2019-05-24T05:27:27.000Z",
+    "excerpt": "@Cron(“1 day”) decorator",
+    "attributes": {}
+  },
+  {
+    "slug": "add-session-id.md",
+    "path": "notes/2019/add-session-id.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2019/add-session-id.md",
+    "title": "Add session ID to Agastya tracking...",
+    "date": "2019-08-18T10:34:49.000Z",
+    "excerpt": "Add session ID to Agastya tracking",
+    "attributes": {}
+  },
+  {
+    "slug": "type-start-babel-and.md",
+    "path": "notes/2019/type-start-babel-and.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2019/type-start-babel-and.md",
+    "title": "TypeStart Babel and scripts for fast...",
+    "date": "2019-08-21T11:40:28.000Z",
+    "excerpt": "TypeStart Babel and scripts for fast compilation and building, new branch without docs folder having build files and instead using Unpkg on production and gitignored dist on local",
+    "attributes": {}
+  },
+  {
+    "slug": "git-hub-repo-analytics.md",
+    "path": "notes/2019/git-hub-repo-analytics.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2019/git-hub-repo-analytics.md",
+    "title": "GitHub repo analytics badge — add...",
+    "date": "2019-09-13T06:08:33.000Z",
+    "excerpt": "GitHub repo analytics badge — add badge, ElasticSearch tracks",
+    "attributes": {}
+  },
+  {
+    "slug": "rn-noise-app.md",
+    "path": "notes/2019/rn-noise-app.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2019/rn-noise-app.md",
+    "title": "RN noise app...",
+    "date": "2019-10-08T02:31:42.000Z",
+    "excerpt": "RN noise app",
+    "attributes": {}
+  },
+  {
+    "slug": "knowledge-ap-is-wikidata.md",
+    "path": "notes/2019/knowledge-ap-is-wikidata.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2019/knowledge-ap-is-wikidata.md",
+    "title": "Knowledge APIs (Wikidata ID to local...",
+    "date": "2019-10-10T18:06:32.000Z",
+    "excerpt": "Knowledge APIs (Wikidata ID to local ID) with many sources",
+    "attributes": {}
+  },
+  {
+    "slug": "accessibility-guidelines-1-0.md",
+    "path": "notes/2019/accessibility-guidelines-1-0.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2019/accessibility-guidelines-1-0.md",
+    "title": "Accessibility Guidelines 1.0 (go beyond WCAG...",
+    "date": "2019-10-10T18:06:49.000Z",
+    "excerpt": "Accessibility Guidelines 1.0 (go beyond WCAG with dark theme etc.)",
+    "attributes": {}
+  },
+  {
+    "slug": "platform-v3-node-package.md",
+    "path": "notes/2019/platform-v3-node-package.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2019/platform-v3-node-package.md",
+    "title": "platform-v3 Node package in Staart main/module...",
+    "date": "2019-10-27T17:47:04.000Z",
+    "excerpt": "platform-v3 Node package in Staart main/module with types. Basically a wrapper around Axios that returns response.data. API client.\nconst api = new API(“api-key”);\nconst user = await api(“GET”, “users/anand”);\nAND\nconst { users } = new API(“api-key”);\nconst user: User = users.get(“anand”);",
+    "attributes": {}
+  },
+  {
+    "slug": "new-oswald-labs.md",
+    "path": "notes/2019/new-oswald-labs.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2019/new-oswald-labs.md",
+    "title": "New Oswald Labs Accelerator for preventing,...",
+    "date": "2019-11-17T00:56:14.000Z",
+    "excerpt": "New Oswald Labs Accelerator for preventing, curing, or living with disabilities. UN SDGs 3 and 10. Goalkeepers-approved accelerator.",
+    "attributes": {}
+  },
+  {
+    "slug": "https-news-ycombinator-com-item-id-21581361.md",
+    "path": "notes/2019/https-news-ycombinator-com-item-id-21581361.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2019/https-news-ycombinator-com-item-id-21581361.md",
+    "title": "https://news.ycombinator.com/item?id=21581361...",
+    "date": "2019-11-20T18:35:42.000Z",
+    "excerpt": "https://news.ycombinator.com/item?id=21581361",
+    "attributes": {}
+  },
+  {
+    "slug": "ziet-serverless-function.md",
+    "path": "notes/2019/ziet-serverless-function.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2019/ziet-serverless-function.md",
+    "title": "Ziet serverless function to return number...",
+    "date": "2019-11-23T00:56:14.000Z",
+    "excerpt": "Ziet serverless function to return number of files in a repo dir as a Shield config badge. Supports plus minus numbers, custom suffix or prefix text, badge color and text. Caches for 1 hr. Used for “i18n | 3 languages” in Uppload. Use schema not redirect because respects cache and less invocations.",
+    "attributes": {}
+  },
+  {
+    "slug": "instagram-stories-but.md",
+    "path": "notes/2019/instagram-stories-but.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2019/instagram-stories-but.md",
+    "title": "Instagram stories but for the web,...",
+    "date": "2019-12-05T22:22:02.000Z",
+    "excerpt": "Instagram stories but for the web, plugin that takes JSON image URLs",
+    "attributes": {}
+  },
+  {
+    "slug": "new-delhi-innocence-project.md",
+    "path": "notes/2019/new-delhi-innocence-project.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2019/new-delhi-innocence-project.md",
+    "title": "Like American Innocence Projects (I saw...",
+    "date": "2019-12-10T04:51:39.000Z",
+    "excerpt": "Like American Innocence Projects (I saw North California Innocence Project in Santa Clara University) but for India. Too many people are wrongly convicted. Start non-profit with CSR fund? Talk to Mish?",
+    "attributes": {}
+  },
+  {
+    "slug": "what-is-a.md",
+    "path": "notes/2019/what-is-a.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2019/what-is-a.md",
+    "title": "\"What is a creative technologist?\" article...",
+    "date": "2019-12-13T03:16:36.000Z",
+    "excerpt": "\"What is a creative technologist?\" article with a list of previous titles (like \"web artist\") I've called myself (with Archive.org links for evidence)",
+    "attributes": {}
+  },
+  {
+    "slug": "support-for-undo.md",
+    "path": "notes/2019/support-for-undo.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2019/support-for-undo.md",
+    "title": "Support for undo transaction in Staart....",
+    "date": "2019-12-14T02:47:11.000Z",
+    "excerpt": "Support for undo transaction in Staart. Keep in memory a unique ID for 60 sec. UI shows undo button for 10 seconds. Undo post, delete, put.",
+    "attributes": {}
+  },
+  {
+    "slug": "agastya-bionic-reading.md",
+    "path": "notes/2019/agastya-bionic-reading.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2019/agastya-bionic-reading.md",
+    "title": "Agastya bionic reading...",
+    "date": "2019-12-17T18:50:50.000Z",
+    "excerpt": "Agastya bionic reading",
+    "attributes": {}
+  },
+  {
+    "slug": "rebuilt-mwlii-with.md",
+    "path": "notes/2019/rebuilt-mwlii-with.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2019/rebuilt-mwlii-with.md",
+    "title": "Rebuilt MWLII with Next SSR (or...",
+    "date": "2019-12-18T19:54:26.000Z",
+    "excerpt": "Rebuilt MWLII with Next SSR (or Netlify Prerender) with daily approval of startups to prevent spam (one email per day) and community generated profiles. Footer with Digital India etc. logos and partners. Monetize? (Featured on homepage, PRO badge for unlimited messaging founders, non-pro get 3/m, etc.)",
+    "attributes": {}
+  },
+  {
+    "slug": "make-open-source.md",
+    "path": "notes/2020/make-open-source.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2020/make-open-source.md",
+    "title": "Make open source plugins for read...",
+    "date": "2020-01-05T04:11:18.000Z",
+    "excerpt": "Make open source plugins for read aloud (responsive voice competitor) with same non commercial license. Select to read aloud also.",
+    "attributes": {}
+  },
+  {
+    "slug": "moscow-method-for.md",
+    "path": "notes/2020/moscow-method-for.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2020/moscow-method-for.md",
+    "title": "Moscow method for must have, should...",
+    "date": "2020-01-13T16:30:48.000Z",
+    "excerpt": "Moscow method for must have, should have, could have, won’t have",
+    "attributes": {}
+  },
+  {
+    "slug": "js-string-utilities.md",
+    "path": "notes/2020/js-string-utilities.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2020/js-string-utilities.md",
+    "title": "JS string utilities...",
+    "date": "2020-01-17T11:26:26.000Z",
+    "excerpt": "JS string utilities",
+    "attributes": {}
+  },
+  {
+    "slug": "use-face-detection.md",
+    "path": "notes/2020/use-face-detection.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2020/use-face-detection.md",
+    "title": "Use face detection to remove non...",
+    "date": "2020-01-22T16:51:57.000Z",
+    "excerpt": "Use face detection to remove non Anand stories from instagram webaite",
+    "attributes": {}
+  },
+  {
+    "slug": "git-hub-app-for.md",
+    "path": "notes/2020/git-hub-app-for.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2020/git-hub-app-for.md",
+    "title": "GitHub app for spell check...",
+    "date": "2020-01-23T10:48:49.000Z",
+    "excerpt": "GitHub app for spell check",
+    "attributes": {}
+  },
+  {
+    "slug": "staart-api-v2.md",
+    "path": "notes/2020/staart-api-v2.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2020/staart-api-v2.md",
+    "title": "Staart API v2 check if commonly...",
+    "date": "2020-01-25T12:48:33.000Z",
+    "excerpt": "Staart API v2 check if commonly used password API",
+    "attributes": {}
+  },
+  {
+    "slug": "meta-name-template.md",
+    "path": "notes/2020/meta-name-template.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2020/meta-name-template.md",
+    "title": "Meta name template content templateName tag...",
+    "date": "2020-01-27T10:06:43.000Z",
+    "excerpt": "Meta name template content templateName tag\nBetter fetch wrapper with axios like types and json response\nLife data page with homepage featured section, move travel to life data directory /life along with listening, reading dirs\nBlog and coffee time separated on home page sections, blog contains featured instead of all as primary section, migrate old posts",
+    "attributes": {}
+  },
+  {
+    "slug": "learnings-article-on.md",
+    "path": "notes/2020/learnings-article-on.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2020/learnings-article-on.md",
+    "title": "“Learnings” article on why Twente license...",
+    "date": "2020-01-29T06:28:40.000Z",
+    "excerpt": "“Learnings” article on why Twente license failed. Use Twente.me like JS.org to setup any project for free. Move license to license-dot.",
+    "attributes": {}
+  },
+  {
+    "slug": "the-year-of.md",
+    "path": "notes/2020/the-year-of.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2020/the-year-of.md",
+    "title": "The Year of Long Term...",
+    "date": "2020-02-01T18:06:39.000Z",
+    "excerpt": "The Year of Long Term",
+    "attributes": {}
+  },
+  {
+    "slug": "google-keep-in.md",
+    "path": "notes/2020/google-keep-in.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2020/google-keep-in.md",
+    "title": "Google Keep in life data private...",
+    "date": "2020-02-03T11:09:20.000Z",
+    "excerpt": "Google Keep in life data private using same API as Gmail",
+    "attributes": {}
+  },
+  {
+    "slug": "a-comparison-of.md",
+    "path": "notes/2020/a-comparison-of.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2020/a-comparison-of.md",
+    "title": "A comparison of Twente horses (Twents...",
+    "date": "2020-02-04T17:09:43.000Z",
+    "excerpt": "A comparison of Twente horses (Twents bus service, Twente Branding, FC Twente, Twente.me)",
+    "attributes": {}
+  },
+  {
+    "slug": "auto-generate-news.md",
+    "path": "notes/2020/auto-generate-news.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2020/auto-generate-news.md",
+    "title": "Auto generate news story videos using...",
+    "date": "2020-02-08T10:25:11.000Z",
+    "excerpt": "Auto generate news story videos using headlines API and Unsplash/image search compilation and soft background music. Also can be used to automate marketing.",
+    "attributes": {}
+  },
+  {
+    "slug": "doi-org-identifier-for.md",
+    "path": "notes/2020/doi-org-identifier-for.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2020/doi-org-identifier-for.md",
+    "title": "doi.org identifier for blog posts?...",
+    "date": "2020-02-10T09:30:42.000Z",
+    "excerpt": "doi.org identifier for blog posts?",
+    "attributes": {}
+  },
+  {
+    "slug": "invite-friends-feature.md",
+    "path": "notes/2020/invite-friends-feature.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2020/invite-friends-feature.md",
+    "title": "Invite friends feature for Staart UI....",
+    "date": "2020-02-21T12:13:28.000Z",
+    "excerpt": "Invite friends feature for Staart UI. Get $ for $ spent. Also AWS like credits page with coupon codes.",
+    "attributes": {}
+  },
+  {
+    "slug": "correlation-between-heart.md",
+    "path": "notes/2020/correlation-between-heart.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2020/correlation-between-heart.md",
+    "title": "Correlation between heart rate dip and...",
+    "date": "2020-02-23T08:49:17.000Z",
+    "excerpt": "Correlation between heart rate dip and gym",
+    "attributes": {}
+  },
+  {
+    "slug": "imagemin-ui.md",
+    "path": "notes/2020/imagemin-ui.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2020/imagemin-ui.md",
+    "title": "Imagemin UI - Electron app for...",
+    "date": "2020-02-25T17:39:48.000Z",
+    "excerpt": "Imagemin UI - Electron app for image compression, Mahendra can use for Mb",
+    "attributes": {}
+  },
+  {
+    "slug": "dotenv-sync-app.md",
+    "path": "notes/2020/dotenv-sync-app.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2020/dotenv-sync-app.md",
+    "title": "Dotenv sync app with GitHub private...",
+    "date": "2020-02-25T17:49:03.000Z",
+    "excerpt": "Dotenv sync app with GitHub private repo backup",
+    "attributes": {}
+  },
+  {
+    "slug": "notion-clone-in.md",
+    "path": "notes/2020/notion-clone-in.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2020/notion-clone-in.md",
+    "title": "Notion clone in React (GitWords-style git...",
+    "date": "2020-02-26T07:56:15.000Z",
+    "excerpt": "Notion clone in React (GitWords-style git source, repos are categories, option to show specific repos only). README or article about what I don't like about notion (git backups/version control and markdown instead of \"proprietary\"-ish HTML writing.",
+    "attributes": {}
+  },
+  {
+    "slug": "package-for-local.md",
+    "path": "notes/2020/package-for-local.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2020/package-for-local.md",
+    "title": "Package for local storage version control...",
+    "date": "2020-02-26T08:31:37.000Z",
+    "excerpt": "Package for local storage version control of documents, can be used for Notion clone, GItWords, etc., and Uppy's Golden Retriever-style file retrieval. Debounce and save locally all the time (and also 1 min intervals) and every 20 minutes on GitHub (all configurable)",
+    "attributes": {}
+  },
+  {
+    "slug": "git-hub-action-for.md",
+    "path": "notes/2020/git-hub-action-for.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2020/git-hub-action-for.md",
+    "title": "GitHub Action for scheduling cron jobs...",
+    "date": "2020-02-26T08:48:19.000Z",
+    "excerpt": "GitHub Action for scheduling cron jobs from YAML file",
+    "attributes": {}
+  },
+  {
+    "slug": "citation-generation-react.md",
+    "path": "notes/2020/citation-generation-react.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2020/citation-generation-react.md",
+    "title": "Citation generation. React + ZEIT. Unlimited...",
+    "date": "2020-02-26T14:44:57.000Z",
+    "excerpt": "Citation generation. React + ZEIT. Unlimited free forever. Check if it is peer reviewed.",
+    "attributes": {}
+  },
+  {
+    "slug": "site-to-podcast.md",
+    "path": "notes/2020/site-to-podcast.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2020/site-to-podcast.md",
+    "title": "Site to podcast. Enter URL, we...",
+    "date": "2020-02-28T16:01:44.000Z",
+    "excerpt": "Site to podcast. Enter URL, we crawl sitemap hourly and create MP3 of articles, create podcast feed.",
+    "attributes": {}
+  },
+  {
+    "slug": "staart-generator-like-create.md",
+    "path": "notes/2020/staart-generator-like-create.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2020/staart-generator-like-create.md",
+    "title": "@staart/generator like create react app for...",
+    "date": "2020-03-01T17:56:17.000Z",
+    "excerpt": "@staart/generator like create react app for Staart API + UI with questions like database etc.\n@staart/update to update and merge apps like “npx @staart/update api”",
+    "attributes": {}
+  },
+  {
+    "slug": "mini-jwt-without.md",
+    "path": "notes/2020/mini-jwt-without.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2020/mini-jwt-without.md",
+    "title": "Mini JWT without first part. Use...",
+    "date": "2020-03-05T17:05:17.000Z",
+    "excerpt": "Mini JWT without first part. Use for Staart coupon codes. Gzip/otherwise compress?",
+    "attributes": {}
+  },
+  {
+    "slug": "good-reads-book-quotes.md",
+    "path": "notes/2020/good-reads-book-quotes.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2020/good-reads-book-quotes.md",
+    "title": "GoodReads book quotes I like, then...",
+    "date": "2020-03-09T17:38:28.000Z",
+    "excerpt": "GoodReads book quotes I like, then page per book in reading. In Sapiens: “culturism instead of racism”, “happiness vs. pleasure from brain fluids (ch 19)\nRatio has to be 5:1 of positive to negative emotion in a conversation. Ch 10/94 Blink. How many colds you’ll get can be calculated 12/94 because marital stress affects immune system. Black students do worse in tests when asked their race because free will is a lie 22/94.",
+    "attributes": {}
+  },
+  {
+    "slug": "git-hub-actions-scheduler-powered.md",
+    "path": "notes/2020/git-hub-actions-scheduler-powered.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2020/git-hub-actions-scheduler-powered.md",
+    "title": "GitHub Actions scheduler-powered uptime robot competitor...",
+    "date": "2020-04-20T13:19:00.000Z",
+    "excerpt": "GitHub Actions scheduler-powered uptime robot competitor",
+    "attributes": {}
+  },
+  {
+    "slug": "expo-starter-for.md",
+    "path": "notes/2020/expo-starter-for.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2020/expo-starter-for.md",
+    "title": "Expo starter for informational apps, e.g.,...",
+    "date": "2020-04-22T11:09:59.000Z",
+    "excerpt": "Expo starter for informational apps, e.g., Karuna 2020 app with updates, webviews, etc. coming from JSON endpoints, e.g., navigation.json has tabs, webview URLs, updates.json has items to show in feed, \"refresh\" gesture, etc.",
+    "attributes": {}
+  },
+  {
+    "slug": "beautiful-landing-page.md",
+    "path": "notes/2020/beautiful-landing-page.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2020/beautiful-landing-page.md",
+    "title": "Beautiful landing page generator, Staart Site...",
+    "date": "2020-04-24T09:57:49.000Z",
+    "excerpt": "Beautiful landing page generator, Staart Site based on Puppet website, launch on PH, generates HTML based on drag-drop header/pricing components",
+    "attributes": {}
+  },
+  {
+    "slug": "breaking-down-agastya.md",
+    "path": "notes/2020/breaking-down-agastya.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2020/breaking-down-agastya.md",
+    "title": "Breaking down Agastya into multiple tiny...",
+    "date": "2020-05-12T07:46:35.000Z",
+    "excerpt": "Breaking down Agastya into multiple tiny products: Dyslexi",
+    "attributes": {}
+  },
+  {
+    "slug": "netherland-by-joseph.md",
+    "path": "notes/2020/netherland-by-joseph.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2020/netherland-by-joseph.md",
+    "title": "Netherland by Joseph O'Neill https://g.co/kgs/gsBzTa...",
+    "date": "2020-05-22T12:10:54.000Z",
+    "excerpt": "Netherland by Joseph O'Neill https://g.co/kgs/gsBzTa",
+    "attributes": {}
+  },
+  {
+    "slug": "ss-domain-is.md",
+    "path": "notes/2020/ss-domain-is.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2020/ss-domain-is.md",
+    "title": ".ss domain is available, see if...",
+    "date": "2020-05-22T12:11:22.000Z",
+    "excerpt": ".ss domain is available, see if fo.ss or sitefo.ss is available to js.org-like service (see previous tweet)",
+    "attributes": {}
+  },
+  {
+    "slug": "learn-swift-ui.md",
+    "path": "notes/2020/learn-swift-ui.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2020/learn-swift-ui.md",
+    "title": "Learn Swift UI and build a...",
+    "date": "2020-05-22T13:48:42.000Z",
+    "excerpt": "Learn Swift UI and build a white noise app (music player), RSS reader like Hackers and build clients that read feeds etc.",
+    "attributes": {}
+  },
+  {
+    "slug": "archiver-as-a.md",
+    "path": "notes/2020/archiver-as-a.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2020/archiver-as-a.md",
+    "title": "Archiver as a service? For $1/m,...",
+    "date": "2020-05-29T13:37:36.000Z",
+    "excerpt": "Archiver as a service? For $1/m, we'll archive your site on the Internet Archive every month. For $3/m, we'll archive it, and all outgoing links, every week",
+    "attributes": {}
+  },
+  {
+    "slug": "article-new-tl-ds.md",
+    "path": "notes/2020/article-new-tl-ds.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2020/article-new-tl-ds.md",
+    "title": "Article: New TLDs like bank.sbi vs...",
+    "date": "2020-05-30T09:00:16.000Z",
+    "excerpt": "Article: New TLDs like bank.sbi vs proposed www.un is bad too",
+    "attributes": {}
+  },
+  {
+    "slug": "new-branding-of.md",
+    "path": "notes/2020/new-branding-of.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2020/new-branding-of.md",
+    "title": "New branding of UT, embracing the...",
+    "date": "2020-06-07T07:57:57.000Z",
+    "excerpt": "New branding of UT, embracing the horse; write case study comparing different horses (GitHub issue in TwenteMe)",
+    "attributes": {}
+  },
+  {
+    "slug": "notes-section-on.md",
+    "path": "notes/2020/notes-section-on.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2020/notes-section-on.md",
+    "title": "Notes section on site. Bash profile....",
+    "date": "2020-06-17T09:09:48.000Z",
+    "excerpt": "Notes section on site. Bash profile. SES. etc.",
+    "attributes": {}
+  },
+  {
+    "slug": "https-opensource-com-article-20-6-sell-open-source-software.md",
+    "path": "notes/2020/https-opensource-com-article-20-6-sell-open-source-software.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2020/https-opensource-com-article-20-6-sell-open-source-software.md",
+    "title": "https://opensource.com/article/20/6/sell-open-source-software...",
+    "date": "2020-06-20T06:56:30.000Z",
+    "excerpt": "https://opensource.com/article/20/6/sell-open-source-software",
+    "attributes": {}
+  },
+  {
+    "slug": "readme-generator-from.md",
+    "path": "notes/2020/readme-generator-from.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2020/readme-generator-from.md",
+    "title": "README generator from template, import MD...",
+    "date": "2020-06-21T09:52:11.000Z",
+    "excerpt": "README generator from template, import MD modules from Gists, save readme-template.md in .github, Actions runs daily",
+    "attributes": {}
+  },
+  {
+    "slug": "git-hub-powered-markdown.md",
+    "path": "notes/2020/git-hub-powered-markdown.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2020/git-hub-powered-markdown.md",
+    "title": "GitHub powered markdown editor for blogs,...",
+    "date": "2020-07-01T03:28:39.000Z",
+    "excerpt": "GitHub powered markdown editor for blogs, like Netlify CMS but without Netlify, just editing MD files in the browser using API, and saving in local storage.",
+    "attributes": {}
+  },
+  {
+    "slug": "css-starter-on.md",
+    "path": "notes/2020/css-starter-on.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2020/css-starter-on.md",
+    "title": "CSS starter on top of Normalize...",
+    "date": "2020-07-01T03:29:53.000Z",
+    "excerpt": "CSS starter on top of Normalize with typography, accessibility, etc. with demo HTML page with no custom CSS excerpt for body max-width and margin auto.",
+    "attributes": {}
+  },
+  {
+    "slug": "document-the-class.md",
+    "path": "notes/2020/document-the-class.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2020/document-the-class.md",
+    "title": "Document the class rebels story on...",
+    "date": "2020-08-01T07:02:37.000Z",
+    "excerpt": "Document the class rebels story on blog",
+    "attributes": {}
+  },
+  {
+    "slug": "uptime-monitor-with.md",
+    "path": "notes/2020/uptime-monitor-with.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2020/uptime-monitor-with.md",
+    "title": "Uptime monitor with GitHub Actions scheduler...",
+    "date": "2020-08-08T13:51:23.000Z",
+    "excerpt": "Uptime monitor with GitHub Actions scheduler that opens issues when site is down. Use GitHub API to generate status page. Use commit history of file for page load ms response.",
+    "attributes": {}
+  },
+  {
+    "slug": "according-to-population.md",
+    "path": "notes/2020/according-to-population.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2020/according-to-population.md",
+    "title": "According to population growth statistics in...",
+    "date": "2020-09-15T19:03:40.000Z",
+    "excerpt": "According to population growth statistics in 2020, India's population in 2031 will be 1.52 billion. In 2100, it will also be 1.52 billion (it will peak in 2060s).",
+    "attributes": {}
+  },
+  {
+    "slug": "airtable-for-contacts.md",
+    "path": "notes/2020/airtable-for-contacts.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2020/airtable-for-contacts.md",
+    "title": "Airtable for contacts app. Algolia for...",
+    "date": "2020-09-21T05:40:06.000Z",
+    "excerpt": "Airtable for contacts app. Algolia for super fast search. Tags like event name, so you can search for “we met at this event last year”. Clearbit to find details about users. Hunter to find people based on name and domain. Open app, enter company name, enter user name, all details auto fetched.",
+    "attributes": {}
+  },
+  {
+    "slug": "the-5-files.md",
+    "path": "notes/2020/the-5-files.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2020/the-5-files.md",
+    "title": "The 5 files every repository needs....",
+    "date": "2020-10-07T18:24:48.000Z",
+    "excerpt": "The 5 files every repository needs. GitHub community health files examples.",
+    "attributes": {}
+  },
+  {
+    "slug": "visit-rue-de.md",
+    "path": "notes/2020/visit-rue-de.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2020/visit-rue-de.md",
+    "title": "Visit Rue de l'Abreuvoir (voted prettiest...",
+    "date": "2020-10-09T07:43:10.000Z",
+    "excerpt": "Visit Rue de l'Abreuvoir (voted prettiest street in Paris)",
+    "attributes": {}
+  },
+  {
+    "slug": "check-your-privilege.md",
+    "path": "notes/2020/check-your-privilege.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2020/check-your-privilege.md",
+    "title": "\"Check your privilege\" app, simple Q&A...",
+    "date": "2020-10-11T12:09:32.000Z",
+    "excerpt": "\"Check your privilege\" app, simple Q&A that shows how privileged you are. Are you male or female? -> Male -> You are more privileged that 50% of all people. Do you have any disabilities? -> No -> etc. etc. \"you are a white, able-bodied, straight, educated male\" so you have the highest privilege, with references to studies that prove the privilege",
+    "attributes": {}
+  },
+  {
+    "slug": "website-plugin-app.md",
+    "path": "notes/2021/website-plugin-app.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2021/website-plugin-app.md",
+    "title": "segment.io for website plugins; intercom-like interface...",
+    "date": "2021-07-16T11:31:31.000Z",
+    "excerpt": "segment.io for website plugins; intercom-like interface where you can connect any plugins you want like live chat, status page, accessibility, etc.",
+    "attributes": {}
+  },
+  {
+    "slug": "contacts-page.md",
+    "path": "notes/2021/contacts-page.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2021/contacts-page.md",
+    "title": "With contextual contacts, people connect their...",
+    "date": "2021-09-05T09:14:35.000Z",
+    "excerpt": "With contextual contacts, people connect their social media (LinkedIn, Twitter, etc.) to their profile to keep everything up to date and get a unique URL example.com/anand as the about.me/link in bio-type single page to see their content from all sites and links to contact them.",
+    "attributes": {}
+  },
+  {
+    "slug": "respond-to-dyslexia-article.md",
+    "path": "notes/2021/respond-to-dyslexia-article.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2021/respond-to-dyslexia-article.md",
+    "title": "Respond to https://www.linkedin.com/pulse/dyslexic-myths-presented-truths-gareth-ford-williams/...",
+    "date": "2021-12-27T18:30:00.000Z",
+    "excerpt": "Respond to https://www.linkedin.com/pulse/dyslexic-myths-presented-truths-gareth-ford-williams/",
+    "attributes": {}
+  },
+  {
+    "slug": "blog-post-is.md",
+    "path": "notes/2022/blog-post-is.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2022/blog-post-is.md",
+    "title": "Blog post: Is it lazy to...",
+    "date": "2022-02-14T18:30:00.000Z",
+    "excerpt": "Blog post: Is it lazy to build an 'open source alternate to X' company?, as asked on GitHub Stars Slack",
+    "attributes": {}
+  },
+  {
+    "slug": "write-blog-post.md",
+    "path": "notes/2022/write-blog-post.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2022/write-blog-post.md",
+    "title": "Write blog post on getting Dotcom...",
+    "date": "2022-03-23T18:30:00.000Z",
+    "excerpt": "Write blog post on getting Dotcom https://twitter.com/levelsio/status/1506716194359119872?s=21",
+    "attributes": {}
+  },
+  {
+    "slug": "maintainers-want-mrr.md",
+    "path": "notes/2022/maintainers-want-mrr.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2022/maintainers-want-mrr.md",
+    "title": "Maintainers want MRR...",
+    "date": "2022-03-24T18:30:00.000Z",
+    "excerpt": "Maintainers want MRR",
+    "attributes": {}
+  },
+  {
+    "slug": "idiosyncrasies-of-indian.md",
+    "path": "notes/2022/idiosyncrasies-of-indian.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2022/idiosyncrasies-of-indian.md",
+    "title": "Idiosyncrasies of Indian English - 'before'...",
+    "date": "2022-04-15T18:30:00.000Z",
+    "excerpt": "Idiosyncrasies of Indian English - 'before' means both sooner/earlier and before in Hindi (pehle): I wish I'd known this before -> I wish I'd known this earlier, or I wish I'd seen this before -> I wish I'd seen this sooner",
+    "attributes": {}
+  },
+  {
+    "slug": "create-react-framework.md",
+    "path": "notes/2022/create-react-framework.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2022/create-react-framework.md",
+    "title": "Create React framework with i18n routes...",
+    "date": "2022-04-20T18:30:00.000Z",
+    "excerpt": "Create React framework with i18n routes (e.g., /en/about-us & /nl/over-ons), i18next, language switcher, file-based routing, SSR, Remix-like  support",
+    "attributes": {}
+  },
+  {
+    "slug": "life-data-project.md",
+    "path": "notes/2022/life-data-project.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2022/life-data-project.md",
+    "title": "Life data project - Start by...",
+    "date": "2022-04-27T18:30:00.000Z",
+    "excerpt": "Life data project - Start by syncing all songs Spotify to one single SQLite and use remix Prisma to post update and get visualize",
+    "attributes": {}
+  },
+  {
+    "slug": "like-books-have.md",
+    "path": "notes/2022/like-books-have.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2022/like-books-have.md",
+    "title": "Like books have indices, have an...",
+    "date": "2022-06-13T18:30:00.000Z",
+    "excerpt": "Like books have indices, have an index of concepts on personal websites",
+    "attributes": {}
+  },
+  {
+    "slug": "open-startup-tools.md",
+    "path": "notes/2022/open-startup-tools.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2022/open-startup-tools.md",
+    "title": "Open startup tools, dashboard to show...",
+    "date": "2022-06-23T18:30:00.000Z",
+    "excerpt": "Open startup tools, dashboard to show Stripe revenue etc. for your open startup or side project",
+    "attributes": {}
+  },
+  {
+    "slug": "read-tdoet-summary.md",
+    "path": "notes/2022/read-tdoet-summary.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2022/read-tdoet-summary.md",
+    "title": "Read TDOET summary - https://elvischidera.com/2022-06-24-design-everyday-things...",
+    "date": "2022-07-17T18:30:00.000Z",
+    "excerpt": "Read TDOET summary - https://elvischidera.com/2022-06-24-design-everyday-things",
+    "attributes": {}
+  },
+  {
+    "slug": "coaching.md",
+    "path": "notes/2022/coaching.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2022/coaching.md",
+    "title": "Intention Focus Homework insight How bumpy...",
+    "date": "2022-07-28T06:25:26.000Z",
+    "excerpt": "Intention\n\nFocus",
+    "attributes": {}
+  },
+  {
+    "slug": "stable-diffusion-canva.md",
+    "path": "notes/2022/stable-diffusion-canva.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2022/stable-diffusion-canva.md",
+    "title": "Open-source Canva-like app powered by stable...",
+    "date": "2022-10-19T08:20:58.000Z",
+    "excerpt": "Open-source Canva-like app powered by stable diffusion, or Bannerbear-like API",
+    "attributes": {}
+  }
+]
