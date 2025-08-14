@@ -5,7 +5,7 @@
     "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2016/recreate-goofy-for.md",
     "title": "Recreate Goofy for Messenger in Swift....",
     "date": "2016-11-29T09:32:53.000Z",
-    "excerpt": "Recreate Goofy for Messenger in Swift. http://github.com/danielbuechele/goofy Thousands of applications, even Oswald-specific by injecting JS, Skype, Whatsapp, everything.",
+    "excerpt": "Recreate Goofy for Messenger in Swift. http://github.com/danielbuechele/goofy Thousands of applications, even Oswald-specific by injecting JS, Skype, Whatsapp, everything. Comment added in 2025:\n\nGoofy was a macOS client for Facebook Messenger, back when Messenger didn't have a native app. I thought of the idea of similarly embedding other chat clients like WhatsApp and Skype in a unified app, the MVP being just iframe-ing the web clients into a",
     "attributes": {}
   },
   {
@@ -23,16 +23,16 @@
     "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2017/agastya-load-features.md",
     "title": "Agastya load features from separate js...",
     "date": "2017-01-16T23:59:54.000Z",
-    "excerpt": "Agastya load features from separate js files based on user. Font size, dyslexia, etc., can be one basic.js and then all others or removing should be done externally. Footprint of initial file loaded for each user will be tiny.",
+    "excerpt": "Agastya load features from separate js files based on user. Font size, dyslexia, etc., can be one basic.js and then all others or removing should be done externally. Footprint of initial file loaded for each user will be tiny. Comment added in 2025:\n\nBack when I was working on Oswald Labs, Agastya was our we",
     "attributes": {}
   },
   {
     "slug": "bilingual-typography.md",
     "path": "notes/2017/bilingual-typography.md",
     "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2017/bilingual-typography.md",
-    "title": "Bilingual typography...",
+    "title": "Bilingual typography Comment added in 2025:...",
     "date": "2017-02-01T16:20:15.000Z",
-    "excerpt": "Bilingual typography",
+    "excerpt": "Bilingual typography\n\n\nComment added in 2025:\n\nAs a native English and Hindi speaker, I thought it would be cool to have more typography that combines multiple language. Most of India can read and write in 2-3 languages, so why is all design in one?",
     "attributes": {}
   },
   {
@@ -95,25 +95,25 @@
     "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2017/for-read-aloud.md",
     "title": "For read aloud, explode from period....",
     "date": "2017-03-12T07:52:52.000Z",
-    "excerpt": "For read aloud, explode from period. Sentence by sentence highlight and read aloud.",
+    "excerpt": "For read aloud, explode from period. Sentence by sentence highlight and read aloud. Comment added in 2025:\n\nBack when I was working on Oswald Labs, we built a product that can chunk paragraphs into sentences smartly and highlight the right sentence during screen reader-style read aloud for accessibility, so listeners can follow more easily.",
     "attributes": {}
   },
   {
     "slug": "publish-zomato-medium.md",
     "path": "notes/2017/publish-zomato-medium.md",
     "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2017/publish-zomato-medium.md",
-    "title": "Publish Zomato medium article...",
+    "title": "Publish Zomato medium article Comment added...",
     "date": "2017-03-25T17:12:48.000Z",
-    "excerpt": "Publish Zomato medium article",
+    "excerpt": "Publish Zomato medium article\n\n\nComment added in 2025:\n\nI wrote the article Zomato for Android Redesign in 2016 and published it a year later.",
     "attributes": {}
   },
   {
     "slug": "agastya-widget-php-for.md",
     "path": "notes/2017/agastya-widget-php-for.md",
     "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2017/agastya-widget-php-for.md",
-    "title": "Agastya widget.php for analytics...",
+    "title": "Agastya widget.php for analytics Comment added...",
     "date": "2017-03-27T13:46:53.000Z",
-    "excerpt": "Agastya widget.php for analytics",
+    "excerpt": "Agastya widget.php for analytics\n\n\nComment added in 2025:\n\nBack when I was working on Oswald Labs, Agastya was our web accessibility plugin. I had the idea of server-side analytics that instead of sending a beacon or fetch request on load, we could do web analytics on the server-side by storing the user agent and IP geolocation directly from the widget.php request. This would reduce latency and be more privacy-friendly, which exists today as Cloudflare Analytics.",
     "attributes": {}
   },
   {
@@ -138,9 +138,9 @@
     "slug": "news-summarizer.md",
     "path": "notes/2017/news-summarizer.md",
     "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2017/news-summarizer.md",
-    "title": "News summarizer...",
+    "title": "News summarizer Comment added in 2025:...",
     "date": "2017-04-15T13:54:15.000Z",
-    "excerpt": "News summarizer",
+    "excerpt": "News summarizer\n\n\nComment added in 2025:\n\nI had the idea of creating a news summary app, like Perplexity does today with LLMs or Inshorts did with humans. I used a Python summarizer and called it Quickie News.",
     "attributes": {}
   },
   {
@@ -176,7 +176,7 @@
     "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2017/made-with-love.md",
     "title": "Made with Love in India like...",
     "date": "2017-05-16T19:33:29.000Z",
-    "excerpt": "Made with Love in India like F6S Alpha card with partner benefits",
+    "excerpt": "Made with Love in India like F6S Alpha card with partner benefits\n\n\nComment added in 2025:\n\nOne of my side longest-running projects is Made with Love in India (madewithloveinindia.org) where startups and businesses made in India embed a \"Made with Love in India\" badge in their footers and on products to be featured on that website. I thought it's a good idea to add a program where startups part of the program can get many benefits like cloud cr",
     "attributes": {}
   },
   {
@@ -185,16 +185,16 @@
     "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2017/kaksha-like-microsoft.md",
     "title": "Kaksha, like Microsoft dyslexia friendly sentence...",
     "date": "2017-05-16T19:33:46.000Z",
-    "excerpt": "Kaksha, like Microsoft dyslexia friendly sentence by sentence ncert",
+    "excerpt": "Kaksha, like Microsoft dyslexia friendly sentence by sentence ncert\n\n\nComment added in 2025:\n\nWhen I was working on my highschool startup ClassRebels, I built a platform Kaksha where students could study NCERT content (K-12 in India) by sharing notes, question papers, and videos online, and it included dyslexia-friendly mode and sentence-by-sentence read aloud. I passed using Kaksha.",
     "attributes": {}
   },
   {
     "slug": "agastya-seal.md",
     "path": "notes/2017/agastya-seal.md",
     "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2017/agastya-seal.md",
-    "title": "Agastya Seal...",
+    "title": "Agastya Seal Comment added in 2025:...",
     "date": "2017-05-18T13:00:07.000Z",
-    "excerpt": "Agastya Seal",
+    "excerpt": "Agastya Seal\n\n\nComment added in 2025:\n\nBack when I was working on Oswald Labs, Agastya was our web accessibility plugin. The idea was that many websites used to have a \"Validated by W3C\" badge in the footer that was a symbol of pride that the HTML is valid. I figured similarly we could have a brand for a badge that shows that the website is also accessible.",
     "attributes": {}
   },
   {
@@ -203,7 +203,7 @@
     "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2017/read-aloud-arrow.md",
     "title": "read aloud Arrow keys to navigate...",
     "date": "2017-05-22T07:01:02.000Z",
-    "excerpt": "read aloud Arrow keys to navigate",
+    "excerpt": "read aloud Arrow keys to navigate\n\n\nComment added in 2025:\n\nBack when I was working on Oswald Labs, we built a product that can chunk paragraphs into sentences smartly and highlight the right sentence during screen reader-style read aloud for accessibility, so listeners can follow more easily. This note is the idea that you should be able to use keyboard navigation (left-right keys) to seek between sentences like music in a playlist.",
     "attributes": {}
   },
   {
@@ -248,25 +248,25 @@
     "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2017/invisible-translate-widget.md",
     "title": "Invisible Translate (widget, iframe invisible, custom...",
     "date": "2017-07-11T14:11:38.000Z",
-    "excerpt": "Invisible Translate (widget, iframe invisible, custom styling, etc.)",
+    "excerpt": "Invisible Translate (widget, iframe invisible, custom styling, etc.)\n\n\nComment added in 2025:\n\nI built a way to embed the Google Translate widget with custom styling (when you click on the language selection, it fake-clicks on the hidden Google Translate embed) so all websites could embed a free translation widget in their own style.",
     "attributes": {}
   },
   {
     "slug": "agastya-affiliate.md",
     "path": "notes/2017/agastya-affiliate.md",
     "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2017/agastya-affiliate.md",
-    "title": "Agastya affiliate...",
+    "title": "Agastya affiliate Comment added in 2025:...",
     "date": "2017-08-04T14:48:31.000Z",
-    "excerpt": "Agastya affiliate",
+    "excerpt": "Agastya affiliate\n\n\nComment added in 2025:\n\nBack when I was working on Oswald Labs, Agastya was our web accessibility plugin. The idea was to set up an affiliate program, and the idea behind the idea was to set up a platform where developers can create affiliate programs easily and track conversions and automate payouts. Today, this exists as Dub.",
     "attributes": {}
   },
   {
     "slug": "eye-d.md",
     "path": "notes/2017/eye-d.md",
     "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2017/eye-d.md",
-    "title": "EyeD...",
+    "title": "EyeD Comment added in 2025: Back...",
     "date": "2017-08-05T09:01:10.000Z",
-    "excerpt": "EyeD",
+    "excerpt": "EyeD\n\n\nComment added in 2025:\n\nBack in 2017, I was running Oswald Labs and we got incubated by EyeFocus Accelerator, and I met several startups working on preventing, curing, and living with blindness. Cool space.",
     "attributes": {}
   },
   {
@@ -275,7 +275,7 @@
     "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2017/oswald-accelerator-in.md",
     "title": "Oswald accelerator in partnership with nobility...",
     "date": "2017-08-13T10:00:28.000Z",
-    "excerpt": "Oswald accelerator in partnership with nobility accelerator and I focus accelerators",
+    "excerpt": "Oswald accelerator in partnership with nobility accelerator and I focus accelerators\n\n\nComment added in 2025:\n\nI had the idea of creating a free, remote, global startup accelerator. YC for the next billion founders, 0% equity, self-taught.",
     "attributes": {}
   },
   {
@@ -284,7 +284,7 @@
     "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2017/libri-vox-material.md",
     "title": "LibriVox + Material Design (Saga like)...",
     "date": "2017-08-16T09:45:01.000Z",
-    "excerpt": "LibriVox + Material Design (Saga like) = Free Audible: React Native Music Player?",
+    "excerpt": "LibriVox + Material Design (Saga like) = Free Audible: React Native Music Player? Comment added in 2025:\n\nLibriVox has public-domain audiobooks, so I had the idea of building a free Audible with great UX sourced from there. I already built Saga Music that did the same using youtube-dl for free music streaming.",
     "attributes": {}
   },
   {
@@ -302,7 +302,7 @@
     "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2017/eu-cookie-js.md",
     "title": "EU Cookie JS plugin, one yes...",
     "date": "2017-08-27T07:23:24.000Z",
-    "excerpt": "EU Cookie JS plugin, one yes for all websites, internationalisation",
+    "excerpt": "EU Cookie JS plugin, one yes for all websites, internationalisation\n\n\nComment added in 2025:\n\nI had this idea for a plugin that stores your EU cookie law preferences cross-website so you don't have to accept cookies everywhere, you could just say \"Accept cookies on all websites\" (that implement this unified plugin) and it would be well localized.",
     "attributes": {}
   },
   {
@@ -318,9 +318,9 @@
     "slug": "hindi-ligature.md",
     "path": "notes/2017/hindi-ligature.md",
     "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2017/hindi-ligature.md",
-    "title": "Hindi ligature...",
+    "title": "Hindi ligature Comment added in 2025:...",
     "date": "2017-09-15T10:11:45.000Z",
-    "excerpt": "Hindi ligature",
+    "excerpt": "Hindi ligature\n\n\nComment added in 2025:\n\nLigatures in Hindi are awesome, like \"dya\". We always talk about ligatures like \"ffl\" in the Latin script but not nearly enough in Devanagari.",
     "attributes": {}
   },
   {
@@ -336,9 +336,9 @@
     "slug": "auto-alt-using-aws.md",
     "path": "notes/2017/auto-alt-using-aws.md",
     "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2017/auto-alt-using-aws.md",
-    "title": "AutoALT using AWS...",
+    "title": "AutoALT using AWS Comment added in...",
     "date": "2017-09-25T05:40:57.000Z",
-    "excerpt": "AutoALT using AWS",
+    "excerpt": "AutoALT using AWS\n\n\nComment added in 2025:\n\nBack when I was working on Oswald Labs, I was in the accessibility space, and I noticed that many websites didn't have alt text for images. I thought we should use a cloud computer vision model to auto-generate alt tags and we added that as a feature called AutoALT. Today, major apps like Instagram do this by default.",
     "attributes": {}
   },
   {
@@ -356,16 +356,16 @@
     "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2017/amy-for-following.md",
     "title": "Amy for following up and introductions,...",
     "date": "2017-10-03T16:37:53.000Z",
-    "excerpt": "Amy for following up and introductions, personal assistant with invisible AI",
+    "excerpt": "Amy for following up and introductions, personal assistant with invisible AI\n\n\nComment added in 2025:\n\nAmy (x.ai) was a personal assistant over email for scheduling. I thought it we should build one that works for two of the most common use cases for sales: automated follow-ups and intros, because that's where the money is. Today, Superhuman does that, and so does my startup FirstQuadrant.",
     "attributes": {}
   },
   {
     "slug": "chrome-vox-light.md",
     "path": "notes/2017/chrome-vox-light.md",
     "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2017/chrome-vox-light.md",
-    "title": "ChromeVox light...",
+    "title": "ChromeVox light Comment added in 2025:...",
     "date": "2017-10-05T13:02:15.000Z",
-    "excerpt": "ChromeVox light",
+    "excerpt": "ChromeVox light\n\n\nComment added in 2025:\n\nBack when I was working on Oswald Labs, I built a screen reader in JavaScript inspired by an open source project by Google that can be embedded in any website.",
     "attributes": {}
   },
   {
@@ -374,16 +374,16 @@
     "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2017/places-on-mwlii.md",
     "title": "Places on MWLII: List co-working places...",
     "date": "2017-10-09T09:59:57.000Z",
-    "excerpt": "Places on MWLII: List co-working places",
+    "excerpt": "Places on MWLII: List co-working places\n\n\nComment added in 2025:\n\nI had the idea of creating a coworking listing site for founders in India.",
     "attributes": {}
   },
   {
     "slug": "events-on-mwlii.md",
     "path": "notes/2017/events-on-mwlii.md",
     "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2017/events-on-mwlii.md",
-    "title": "Events on MWLII...",
+    "title": "Events on MWLII Comment added in...",
     "date": "2017-10-14T14:59:50.000Z",
-    "excerpt": "Events on MWLII",
+    "excerpt": "Events on MWLII\n\n\nComment added in 2025:\n\nOne of my side longest-running projects is Made with Love in India (madewithloveinindia.org) where startups and businesses made in India embed a \"Made with Love in India\" badge in their footers and on products to be featured on that website. I thought it's a good idea to add community events on that website too, though I never got around to doing it.",
     "attributes": {}
   },
   {
@@ -399,9 +399,9 @@
     "slug": "mwlii-add-amp.md",
     "path": "notes/2017/mwlii-add-amp.md",
     "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2017/mwlii-add-amp.md",
-    "title": "MWLII: Add AMP version (static)...",
+    "title": "MWLII: Add AMP version (static) Comment...",
     "date": "2017-10-31T12:50:39.000Z",
-    "excerpt": "MWLII: Add AMP version (static)",
+    "excerpt": "MWLII: Add AMP version (static)\n\n\nComment added in 2025:\n\nThis note was to remind me to add AMP (Accelerated Mobile Pages), though that's no longer a good idea.",
     "attributes": {}
   },
   {
@@ -428,7 +428,7 @@
     "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2017/mwlii-seo-image.md",
     "title": "MWLII: SEO image generator using PHP,...",
     "date": "2017-11-10T12:43:19.000Z",
-    "excerpt": "MWLII: SEO image generator using PHP, text on background image generation",
+    "excerpt": "MWLII: SEO image generator using PHP, text on background image generation\n\n\nComment added in 2025:\n\nI had the idea of creating a SEO image generator which is what Vercel does today with og-image.",
     "attributes": {}
   },
   {
@@ -437,7 +437,7 @@
     "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2017/mwlii-generate-slugs.md",
     "title": "MWLII: Generate slugs for user-defined inputs...",
     "date": "2017-11-10T13:09:12.000Z",
-    "excerpt": "MWLII: Generate slugs for user-defined inputs like tags, university, hobby, etc., and add slug to title table with categories (\"tag\", \"institute\") for autocomplete",
+    "excerpt": "MWLII: Generate slugs for user-defined inputs like tags, university, hobby, etc., and add slug to title table with categories (\"tag\", \"institute\") for autocomplete\n\n\nComment added in 2025:\n\nThe idea of slugifying user-defined tags like which school they go to in a social network means that you can create dedicated topic pages automatically and benefit SEO-wise, like GitHub does today.",
     "attributes": {}
   },
   {
@@ -446,7 +446,7 @@
     "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2017/have-permissions-as.md",
     "title": "Have permissions as a flow. if...",
     "date": "2017-11-15T10:35:35.000Z",
-    "excerpt": "Have permissions as a flow. if (hasPermission(\"admin\", STARTUPID)) then let her do things; is_su, is_founder, is_owner, etc. Can also add permission manager.",
+    "excerpt": "Have permissions as a flow. if (hasPermission(\"admin\", STARTUPID)) then let her do things; is_su, is_founder, is_owner, etc. Can also add permission manager. Comment added in 2025:\n\nI had this idea of building a unified RBAC layer; today several startups do this.",
     "attributes": {}
   },
   {
@@ -455,7 +455,7 @@
     "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2017/one-cms-for.md",
     "title": "One CMS for Oswald Accelerator and...",
     "date": "2017-11-22T16:26:42.000Z",
-    "excerpt": "One CMS for Oswald Accelerator and MWLII. GitHub project. Backend for editing users + \"Send password reset link\", \"send email to everyone\", etc. CodeIgniter.",
+    "excerpt": "One CMS for Oswald Accelerator and MWLII. GitHub project. Backend for editing users + \"Send password reset link\", \"send email to everyone\", etc. CodeIgniter. Comment added in 2025:\n\nI had the idea of creating a new CMS for all my projects which uses git as the backend.",
     "attributes": {}
   },
   {
@@ -473,7 +473,7 @@
     "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2017/for-mwlii-profiles.md",
     "title": "For MWLII profiles, Facebook friends' emails...",
     "date": "2017-11-29T11:06:51.000Z",
-    "excerpt": "For MWLII profiles, Facebook friends' emails by connecting Yahoo! Mail to Facebook",
+    "excerpt": "For MWLII profiles, Facebook friends' emails by connecting Yahoo! Mail to Facebook\n\n\nComment added in 2025:\n\nOne of my side longest-running projects is Made with Love in India (madewithloveinindia.org) where startups and businesses made in India embed a \"Made with Love in India\" badge in their footers and on products to be featured on that website. I thought it's a good idea to add a way to connect your social profiles to create a single source of truth for founder profiles in Ind",
     "attributes": {}
   },
   {
@@ -491,7 +491,7 @@
     "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2017/image-api-from.md",
     "title": "Image API from keyword -- Wikimedia,...",
     "date": "2017-12-28T08:33:41.000Z",
-    "excerpt": "Image API from keyword -- Wikimedia, Unspash, etc., with alt tag, license as JSON response",
+    "excerpt": "Image API from keyword -- Wikimedia, Unspash, etc., with alt tag, license as JSON response\n\n\nComment added in 2025:\n\nAn idea for a unified image API that sources images from free sources.",
     "attributes": {}
   },
   {
@@ -1148,7 +1148,7 @@
     "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2019/ara-people-database.md",
     "title": "Ara: People database to match emails...",
     "date": "2019-04-04T07:59:05.000Z",
-    "excerpt": "Ara: People database to match emails with humans, use things like &#102;&#105;&#114;&#x73;&#116;&#76;&#101;&#x74;&#x74;&#101;&#x72;&#x2e;&#115;&#x75;&#x72;&#x6e;&#97;&#109;&#101;&#x40;&#x65;&#120;&#97;&#109;&#112;&#108;&#101;&#x2e;&#99;&#x6f;&#109; for names in emails, plus Clearbit APIs. Then we can have Slack Ara too who understands @anand means my email",
+    "excerpt": "Ara: People database to match emails with humans, use things like &#102;&#105;&#114;&#115;&#116;&#76;&#x65;&#116;&#x74;&#x65;&#114;&#46;&#x73;&#x75;&#x72;&#x6e;&#97;&#x6d;&#x65;&#64;&#x65;&#x78;&#x61;&#109;&#112;&#108;&#x65;&#x2e;&#99;&#x6f;&#109; for names in emails, plus Clearbit APIs. Then we can have Slack Ara too who understands @anand means my email",
     "attributes": {}
   },
   {
