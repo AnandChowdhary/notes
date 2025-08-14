@@ -1,0 +1,1 @@
+There are two physical devices with AI that I use every single day. RayBan Meta Smart Glasses and Limitless pendant. I am surprised at how quickly we went from LLMs being invented a few years ago to real physical devices that I wear every single day.
