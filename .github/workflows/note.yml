@@ -1,0 +1,53 @@
+name: Note
+
+on:
+  workflow_dispatch:
+    inputs:
+      note:
+        description: "Note content"
+        required: true
+        type: string
+
+jobs:
+  note:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "lts/*"
+          cache: "npm"
+
+      - name: Create note file
+        run: |
+          # Get current date
+          YEAR=$(date +%Y)
+
+          # Create year folder if it doesn't exist
+          mkdir -p "notes/$YEAR"
+
+          # Generate filename from note content (first few words, lowercase, hyphenated)
+          NOTE_CONTENT="${{ github.event.inputs.note }}"
+          FILENAME=$(echo "$NOTE_CONTENT" | head -c 50 | tr '[:upper:]' '[:lower:]' | sed 's/[^a-z0-9]/ /g' | sed 's/ \+/-/g' | sed 's/^-\|-$//g')
+
+          # Create the markdown file
+          FILEPATH="notes/$YEAR/$FILENAME.md"
+
+          # Write note content to file
+          echo "$NOTE_CONTENT" > "$FILEPATH"
+
+          echo "Created note file: $FILEPATH"
+
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "mail@anandchowdhary.com"
+          git config --local user.name "Anand Chowdhary"
+          git add notes/
+          git commit -m ":memo: Add new note for $(date +%Y-%m-%d)" || echo "No changes to commit"
+          git push
