@@ -26,8 +26,9 @@ const data = async () => {
   const data = await response.json();
   console.log("Found", data.length, "drafts");
   await mkdir("./threads", { recursive: true });
-
-  const api = [];
+  const existing = await readFile("./threads/api.json", "utf-8");
+  const existingApi = JSON.parse(existing);
+  const api = [...existingApi];
 
   for (const draft of data) {
     if (!draft.twitter_url) continue;
@@ -55,7 +56,20 @@ ${NodeHtmlMarkdown.translate(draft.html)}`
     );
   }
 
-  await writeFile("./threads/api.json", JSON.stringify(api, null, 2));
+  await writeFile(
+    "./threads/api.json",
+    JSON.stringify(
+      api
+        .sort((a, b) => new Date(b.date) - new Date(a.date))
+        // Deduplicate by slug
+        .filter(
+          (item, index, array) =>
+            array.findIndex((i) => i.slug === item.slug) === index
+        ),
+      null,
+      2
+    )
+  );
 };
 
 data();
