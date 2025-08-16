@@ -1,0 +1,37 @@
+name: Threads
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  note:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "lts/*"
+
+      - name: Install dependencies
+        run: npm install node-html-markdown
+
+      - name: Add threads
+        run: node scripts/import-typefully.mjs
+        env:
+          TYPEFULLY_API_KEY: ${{ secrets.TYPEFULLY_API_KEY }}
+
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "mail@anandchowdhary.com"
+          git config --local user.name "Anand Chowdhary"
+          git add threads/
+          git commit -m ":memo: Add new threads $(date +%Y-%m-%d)" || echo "No changes to commit"
+          git push
