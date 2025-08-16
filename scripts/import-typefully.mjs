@@ -27,13 +27,25 @@ const data = async () => {
   console.log("Found", data.length, "drafts");
   await mkdir("./threads", { recursive: true });
 
+  const api = [];
+
   for (const draft of data) {
     if (!draft.twitter_url) continue;
     console.log(draft.twitter_url);
+    const slug = `${new Date(draft.published_on)
+      .toISOString()
+      .substring(0, 10)}-${draft.twitter_url.split("/").pop()}`;
+    api.push({
+      slug,
+      path: `threads/${slug}.md`,
+      source: `https://github.com/AnandChowdhary/notes/blob/main/threads/${slug}.md`,
+      title: draft.text_first_tweet.substring(0, 100).trim() + "...",
+      date: draft.published_on,
+      excerpt: draft.text_first_tweet,
+      attributes: { twitter: draft.twitter_url },
+    });
     await writeFile(
-      `./threads/${new Date(draft.published_on)
-        .toISOString()
-        .substring(0, 10)}-${draft.twitter_url.split("/").pop()}.md`,
+      `./threads/${slug}.md`,
       `---
 date: ${new Date(draft.published_on).toISOString()}
 url: ${draft.twitter_url}
@@ -42,6 +54,8 @@ url: ${draft.twitter_url}
 ${NodeHtmlMarkdown.translate(draft.html)}`
     );
   }
+
+  await writeFile("./threads/api.json", JSON.stringify(api, null, 2));
 };
 
 data();
