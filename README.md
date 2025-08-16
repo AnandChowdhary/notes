@@ -8,7 +8,11 @@ This repository contains quick notes that I've made, including ideas for future 
 
 ## 🌯 Summary
 
-- 223 notes in 7 years
+- 224 notes in 8 years
+
+### 2025
+
+- [There are two physical devices with...](./notes/2025/there-are-two-physical-devices-with-ai-that-i-use.md)
 
 ### 2022
 

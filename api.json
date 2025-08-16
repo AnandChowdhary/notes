@@ -1148,7 +1148,7 @@
     "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2019/ara-people-database.md",
     "title": "Ara: People database to match emails...",
     "date": "2019-04-04T07:59:05.000Z",
-    "excerpt": "Ara: People database to match emails with humans, use things like &#x66;&#105;&#114;&#115;&#116;&#x4c;&#101;&#116;&#116;&#101;&#114;&#46;&#x73;&#117;&#114;&#110;&#x61;&#x6d;&#101;&#x40;&#101;&#x78;&#x61;&#109;&#112;&#x6c;&#101;&#x2e;&#x63;&#111;&#109; for names in emails, plus Clearbit APIs. Then we can have Slack Ara too who understands @anand means my email",
+    "excerpt": "Ara: People database to match emails with humans, use things like &#x66;&#x69;&#x72;&#x73;&#x74;&#x4c;&#x65;&#x74;&#x74;&#101;&#114;&#x2e;&#115;&#117;&#114;&#110;&#97;&#x6d;&#101;&#64;&#x65;&#x78;&#x61;&#x6d;&#112;&#x6c;&#x65;&#x2e;&#99;&#x6f;&#109; for names in emails, plus Clearbit APIs. Then we can have Slack Ara too who understands @anand means my email",
     "attributes": {}
   },
   {
@@ -2004,6 +2004,15 @@
     "title": "Open-source Canva-like app powered by stable...",
     "date": "2022-10-19T08:20:58.000Z",
     "excerpt": "Open-source Canva-like app powered by stable diffusion, or Bannerbear-like API",
+    "attributes": {}
+  },
+  {
+    "slug": "there-are-two-physical-devices-with-ai-that-i-use.md",
+    "path": "notes/2025/there-are-two-physical-devices-with-ai-that-i-use.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2025/there-are-two-physical-devices-with-ai-that-i-use.md",
+    "title": "There are two physical devices with...",
+    "date": "2025-08-14T10:44:26.000Z",
+    "excerpt": "There are two physical devices with AI that I use every single day. RayBan Meta Smart Glasses and Limitless pendant. I am surprised at how quickly we went from LLMs being invented a few years ago to real physical devices that I wear every single day.",
     "attributes": {}
   }
 ]
