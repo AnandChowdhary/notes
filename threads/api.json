@@ -1,5 +1,71 @@
 [
   {
+    "slug": "2025-08-18-1957438589610119557",
+    "path": "threads/2025-08-18-1957438589610119557.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2025-08-18-1957438589610119557.md",
+    "title": "Small core, big empathy: ship a tiny bootstrap, then load accessibility modules only when someone sw...",
+    "date": "2025-08-18T13:45:08.137107Z",
+    "excerpt": "Small core, big empathy: ship a tiny bootstrap, then load accessibility modules only when someone switches them on. You keep the first hit light and still give folks real controls when they ask, this is how we built our web accessibility plugin in 2017 at @OswaldLabs ♿👇",
+    "attributes": {
+      "twitter": "https://x.com/AnandChowdhary/status/1957438589610119557"
+    }
+  },
+  {
+    "slug": "2025-08-18-1957378188365209800",
+    "path": "threads/2025-08-18-1957378188365209800.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2025-08-18-1957378188365209800.md",
+    "title": "Just read @JosvdWest's write-up on acquiring the Unity MCP repo... you don't get to see repo acquisi...",
+    "date": "2025-08-18T09:45:07.177112Z",
+    "excerpt": "Just read @JosvdWest's write-up on acquiring the Unity MCP repo... you don't get to see repo acquisitions often - buying distribution in OSS means you're migrating SEO signals and trust. I've gotten offers for some of my more popular projects and it's... interesting?",
+    "attributes": {
+      "twitter": "https://x.com/AnandChowdhary/status/1957378188365209800"
+    }
+  },
+  {
+    "slug": "2025-08-18-1957317795974369441",
+    "path": "threads/2025-08-18-1957317795974369441.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2025-08-18-1957317795974369441.md",
+    "title": "Back in 2014 I shipped Aptitude, a tiny theme to publish a clean one page articles in minutes. Three...",
+    "date": "2025-08-18T05:45:08.729563Z",
+    "excerpt": "Back in 2014 I shipped Aptitude, a tiny theme to publish a clean one page articles in minutes. Three CSS files, copy the demo, hit deploy, then let the words breathe. The real goal was less build, more writing. A decade later I revisited it to see how small front end choices age... 📄👇",
+    "attributes": {
+      "twitter": "https://x.com/AnandChowdhary/status/1957317795974369441"
+    }
+  },
+  {
+    "slug": "2025-08-17-1957098847198707835",
+    "path": "threads/2025-08-17-1957098847198707835.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2025-08-17-1957098847198707835.md",
+    "title": "I just read @josefprusa's piece on 3D printing hardware and the pipeline that turns cheap filings in...",
+    "date": "2025-08-17T15:15:01.304725Z",
+    "excerpt": "I just read @josefprusa's piece on 3D printing hardware and the pipeline that turns cheap filings into chokepoints for open hardware: utility models, Paris priority, fast border actions.\n\nA patent can be weak and still wreck your supply chain. CN and DE utility models are fast and cheap with no real exam. You can file a bunch and see what sticks. You then get a 12 month Paris priority window to refile abroad. In the US, a Section 337 ITC case can block imports in roughly 16 to 18 months. That is faster than most challenges land, and open hardware feels that first.\n\nThe asymmetry on cost and time is the kicker. In China, a utility model filing is around ¥500. In Europe, oppositions run for years. In the US, an ex parte reexam starts around 6.3k to 12.6k dollars before counsel. An ITC exclusion order keeps biting until it is lifted. That chills open manufacturing.\n\nPolicy makes it worse. China's R and D super deduction sits around 200 percent in many cases. You do not need patents to claim it, but codifying R and D helps, so filings pile up. AM patents grew fast from 2013 to 2020, yet domestic utility models and local filings often do not show up in international family stats. The spike may be hiding in a different dataset.\n\nWhat we can do next: Use CERN OHL v2 with patent retaliation. Publish defensively at scale so prior art is easy to find. Build a hardware OIN or LOT style group with pooled defense and prior art bounties. And yes, use AI to help with search and drafting, with humans in the loop.\n\nLink: https://www.josefprusa.com/articles/open-hardware-in-3d-printing-is-dead/\n\nWho funds a hardware patent defense league that small shops can join? How do we standardize AI assisted defensive publishing across languages?  When we have AI patent clerks, can we make IP protection free, so open source maintainers can protect their good ideas like the big guys can?",
+    "attributes": {
+      "twitter": "https://x.com/AnandChowdhary/status/1957098847198707835"
+    }
+  },
+  {
+    "slug": "2025-08-17-1957015799744569379",
+    "path": "threads/2025-08-17-1957015799744569379.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2025-08-17-1957015799744569379.md",
+    "title": "This week YC S25’s Cyberdesk launched on HN and I realized how far we've come from LLMs clicking UIs...",
+    "date": "2025-08-17T09:45:06.921942Z",
+    "excerpt": "This week YC S25’s Cyberdesk launched on HN and I realized how far we've come from LLMs clicking UIs - trajectory caching and deterministic replay with a tight break glass to computer use. That feels right. The threshold policy is basically the product. 🖱️👇",
+    "attributes": {
+      "twitter": "https://x.com/AnandChowdhary/status/1957015799744569379"
+    }
+  },
+  {
+    "slug": "2025-08-16-1956827055469064327",
+    "path": "threads/2025-08-16-1956827055469064327.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2025-08-16-1956827055469064327.md",
+    "title": "Reading @Dries on funding OSS like public infrastructure - this might be one of the defining ideas o...",
+    "date": "2025-08-16T21:15:06.979531Z",
+    "excerpt": "Reading @Dries on funding OSS like public infrastructure - this might be one of the defining ideas of our time. Instead of \"more money\", making maintainers of critical deps funded operators with SLOs, reinforced by upstream first procurement. Finally, risk and incentives line up!",
+    "attributes": {
+      "twitter": "https://x.com/AnandChowdhary/status/1956827055469064327"
+    }
+  },
+  {
     "slug": "2025-08-16-1956713809214951723",
     "path": "threads/2025-08-16-1956713809214951723.md",
     "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2025-08-16-1956713809214951723.md",
