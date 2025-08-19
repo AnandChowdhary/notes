@@ -1,5 +1,27 @@
 [
   {
+    "slug": "2025-08-18-1957582030767837330",
+    "path": "threads/2025-08-18-1957582030767837330.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2025-08-18-1957582030767837330.md",
+    "title": "Reading Sean Goedecke on system design is such a great experience. It is all about owning state. Fan...",
+    "date": "2025-08-18T23:15:06.927036Z",
+    "excerpt": "Reading Sean Goedecke on system design is such a great experience. It is all about owning state. Fancy setups often hide unclear write ownership. The boring win.",
+    "attributes": {
+      "twitter": "https://x.com/AnandChowdhary/status/1957582030767837330"
+    }
+  },
+  {
+    "slug": "2025-08-18-1957551831393136778",
+    "path": "threads/2025-08-18-1957551831393136778.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2025-08-18-1957551831393136778.md",
+    "title": "Been tinkering with avatar agents lately, and this project is pretty neat. StableAvatar is an end to...",
+    "date": "2025-08-18T21:15:01.110485Z",
+    "excerpt": "Been tinkering with avatar agents lately, and this project is pretty neat. StableAvatar is an end to end video diffusion transformer that makes infinite length audio driven avatar videos from a single reference image and audio - no post processing. The identity stays intact.\n\nThe clever bit is a time step-aware audio adapter. It modulates the denoiser at every diffusion step so the audio control stays stable across segments, which stops the usual drift you get when you pipe in off the shelf audio embeddings through cross attention.\n\nDuring inference, they add Audio Native Guidance to tighten lip sync and prosody. No face swap or face restore tricks here (FaceFusion, GFP GAN, CodeFormer).\n\nEnd result: long, stable, high quality, ID consistent renders for lectures, dubbing, and agents. And, open source!\n\nIf you are building realistic avatar or video agents, start here: https://github.com/Francis-Rings/StableAvatar",
+    "attributes": {
+      "twitter": "https://x.com/AnandChowdhary/status/1957551831393136778"
+    }
+  },
+  {
     "slug": "2025-08-18-1957438589610119557",
     "path": "threads/2025-08-18-1957438589610119557.md",
     "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2025-08-18-1957438589610119557.md",
