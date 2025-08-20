@@ -1,5 +1,49 @@
 [
   {
+    "slug": "2025-08-19-1957944420369920195",
+    "path": "threads/2025-08-19-1957944420369920195.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2025-08-19-1957944420369920195.md",
+    "title": "Been thinking about moving more of my workflow to local-first tools this year, and @epicenter_so fro...",
+    "date": "2025-08-19T23:15:01.732955Z",
+    "excerpt": "Been thinking about moving more of my workflow to local-first tools this year, and @epicenter_so from YC S25 seems like it may hit the sweet spot for me. Press shortcut → speak → get text, and everything lands in one shared memory folder, plain text plus SQLite. You own the data, can use any model, and it is open source. Fast and simple.\n\nWhispering is the headliner: Desktop transcription that lives on your machine is great. Hit a hotkey, talk, get text. Bring your own API key, keep files local, and it runs on macOS, Windows, and Linux in a Tauri plus Rust shell. No web round trip.\n\nSince it is just text and SQLite, you can grep it, open it in Obsidian, or sync it however you like. No silos.\n\nWhy devs might enjoy this: unified open storage instead of app silos, model agnostic by design, and a modern stack with Svelte 5 and SvelteKit, TypeScript, Tauri and Rust, Tailwind, TanStack Query: https://github.com/epicenter-so/epicenter",
+    "attributes": {
+      "twitter": "https://x.com/AnandChowdhary/status/1957944420369920195"
+    }
+  },
+  {
+    "slug": "2025-08-19-1957914221435580495",
+    "path": "threads/2025-08-19-1957914221435580495.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2025-08-19-1957914221435580495.md",
+    "title": "Bilingual typography shouldn't be an afterthought. I wrote a note in 2017 because mixing Latin and D...",
+    "date": "2025-08-19T21:15:10.315041Z",
+    "excerpt": "Bilingual typography shouldn't be an afterthought. I wrote a note in 2017 because mixing Latin and Devanagari kept feeling like a hack. It's about metrics, shaping, numerals, emphasis, and readability from billboards to chat apps. The tooling is ready. Our defaults should be too. 🔤 👇",
+    "attributes": {
+      "twitter": "https://x.com/AnandChowdhary/status/1957914221435580495"
+    }
+  },
+  {
+    "slug": "2025-08-19-1957823630374814074",
+    "path": "threads/2025-08-19-1957823630374814074.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2025-08-19-1957823630374814074.md",
+    "title": "In 2013 I worked on a project to redesign Internet.org and I learned a bigger truth - design for \"co...",
+    "date": "2025-08-19T15:15:09.004055Z",
+    "excerpt": "In 2013 I worked on a project to redesign Internet.org and I learned a bigger truth - design for \"connect the world\" is never neutral. Visual systems can signal openness, agency, and power. Pixels were easy, but purpose was hard. 🌍👇",
+    "attributes": {
+      "twitter": "https://x.com/AnandChowdhary/status/1957823630374814074"
+    }
+  },
+  {
+    "slug": "2025-08-19-1957740576574697702",
+    "path": "threads/2025-08-19-1957740576574697702.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2025-08-19-1957740576574697702.md",
+    "title": "Skimming @nodejs v22.18 LTS notes and I'm so excited about TypeScript type stripping on by default....",
+    "date": "2025-08-19T09:45:07.287112Z",
+    "excerpt": "Skimming @nodejs v22.18 LTS notes and I'm so excited about TypeScript type stripping on by default. Erase-only, position-preserving, no tsconfig or source maps. Small runtime surface. Big DX win for TS devs!",
+    "attributes": {
+      "twitter": "https://x.com/AnandChowdhary/status/1957740576574697702"
+    }
+  },
+  {
     "slug": "2025-08-18-1957582030767837330",
     "path": "threads/2025-08-18-1957582030767837330.md",
     "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2025-08-18-1957582030767837330.md",
