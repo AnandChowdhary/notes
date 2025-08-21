@@ -1,5 +1,49 @@
 [
   {
+    "slug": "2025-08-20-1958306807899934738",
+    "path": "threads/2025-08-20-1958306807899934738.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2025-08-20-1958306807899934738.md",
+    "title": "Been deep in Claude Code for months now, so this from @PatOakEllis hit home: Practical workflows fro...",
+    "date": "2025-08-20T23:15:01.632581Z",
+    "excerpt": "Been deep in Claude Code for months now, so this from @PatOakEllis hit home: Practical workflows from an AI-native startup.\n\nThe Design Review workflow is kinda cool: Automated feedback on frontend PRs for UI and UX consistency and accessibility before merge. Less guesswork, more signal.\n\nUnder the hood, it drives a real browser with Playwright MCP and pairs it with Claude Code agents. It looks at the rendered UI, checks against standards, and catches visual issues early.\n\nThis turns design QA into a repeatable step teams can share, not a last minute ping. Handy when you are growing a design system or shipping fast.\n\nPatrick Ellis has solid tutorials and demos on YouTube. Worth a look: https://github.com/OneRedOak/claude-code-workflows",
+    "attributes": {
+      "twitter": "https://x.com/AnandChowdhary/status/1958306807899934738"
+    }
+  },
+  {
+    "slug": "2025-08-20-1958186013031088175",
+    "path": "threads/2025-08-20-1958186013031088175.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2025-08-20-1958186013031088175.md",
+    "title": "Watched the new YC interview with Anthropic's @nottombrown and my big takeaway: Claude Code didn't n...",
+    "date": "2025-08-20T15:15:07.982437Z",
+    "excerpt": "Watched the new YC interview with Anthropic's @nottombrown and my big takeaway: Claude Code didn't need secret sauce - any solid team could ship a CLI on the Claude API, but the leap was empathy for the model. Build a coding tool for Claude, and you get a better tool for us. 💻👇",
+    "attributes": {
+      "twitter": "https://x.com/AnandChowdhary/status/1958186013031088175"
+    }
+  },
+  {
+    "slug": "2025-08-20-1958163364489887944",
+    "path": "threads/2025-08-20-1958163364489887944.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2025-08-20-1958163364489887944.md",
+    "title": "Reading @mooreds’s take on making to the HN front page: The traffic spike is fun, but the real value...",
+    "date": "2025-08-20T13:45:10.788945Z",
+    "excerpt": "Reading @mooreds’s take on making to the HN front page: The traffic spike is fun, but the real value sits in the comments and the follow on links. Having been featured a few times myself, I agree - treat HN as a one day load test and peer review, not a growth channel.",
+    "attributes": {
+      "twitter": "https://x.com/AnandChowdhary/status/1958163364489887944"
+    }
+  },
+  {
+    "slug": "2025-08-20-1958042565846180270",
+    "path": "threads/2025-08-20-1958042565846180270.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2025-08-20-1958042565846180270.md",
+    "title": "Uplift AI launched on HN yesterday and I'm a fan! It's more than just Urdu TTS: it's full-stack so i...",
+    "date": "2025-08-20T05:45:07.041155Z",
+    "excerpt": "Uplift AI launched on HN yesterday and I'm a fan! It's more than just Urdu TTS: it's full-stack so it's about owning the data, fixing orthography and code switching, and shipping a real time voice UX where the big players still feel clunky.\n\nOn the tech side, they expose WebSocket TTS with chunked streaming and a LiveKit plugin. Goal is conversational latency and getting the first audio out quickly. There is a phrase replacement API to normalize brand names and transliterations.\n\nDocs read like a product: Cancel semantics, multi stream synthesis, 22.05 kHz, MP3 or OGG or PCM; these are the small details I look for when shipping voice agents.",
+    "attributes": {
+      "twitter": "https://x.com/AnandChowdhary/status/1958042565846180270"
+    }
+  },
+  {
     "slug": "2025-08-19-1957944420369920195",
     "path": "threads/2025-08-19-1957944420369920195.md",
     "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2025-08-19-1957944420369920195.md",
