@@ -1,5 +1,38 @@
 [
   {
+    "slug": "2025-08-21-1958638994792882408",
+    "path": "threads/2025-08-21-1958638994792882408.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2025-08-21-1958638994792882408.md",
+    "title": "Sharing another one from 2013: I see design as expressing thought. It is the discipline that makes p...",
+    "date": "2025-08-21T21:15:09.800361Z",
+    "excerpt": "Sharing another one from 2013: I see design as expressing thought. It is the discipline that makes purpose, form, and timing click. The aim isn't perfect symmetry, it is clarity that fits the user's moment. Make things useful. Build experiences, not interfaces. 🎨👇",
+    "attributes": {
+      "twitter": "https://x.com/AnandChowdhary/status/1958638994792882408"
+    }
+  },
+  {
+    "slug": "2025-08-21-1958548401110602035",
+    "path": "threads/2025-08-21-1958548401110602035.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2025-08-21-1958548401110602035.md",
+    "title": "Sharing a neat Swift SDK for @ClaudeAI Code by my friend @aruneshsingh99: Pure Swift, type safe mode...",
+    "date": "2025-08-21T15:15:01.899512Z",
+    "excerpt": "Sharing a neat Swift SDK for @ClaudeAI Code by my friend @aruneshsingh99: Pure Swift, type safe models, and async/await with real streaming. The fun part is two way conversations, so you can build an interactive code assistant right in Swift.\n\nThings that stood out to me: typed message and block models, AsyncSequence streaming, tool support for Read, Write, and Bash, interrupt support, permission controls, zero dependencies. Swift 6 strict concurrency, plus MCP integration.\n\nI also like the small quality of life bits: You can change settings mid conversation and the session stays alive. updatePermissionMode, updateSystemPrompt, updateAllowedTools. The client API reads well too with queryStream and receiveResponse yielding TextBlock or ToolUseBlock.\n\nI can see this powering editor plugins, macOS apps, or server side Swift agents that read and write code and run bash safely. It is SPM-friendly and uses the Claude Code CLI under the hood: https://github.com/AruneshSingh/ClaudeCodeSwiftSDK",
+    "attributes": {
+      "twitter": "https://x.com/AnandChowdhary/status/1958548401110602035"
+    }
+  },
+  {
+    "slug": "2025-08-21-1958465351471268247",
+    "path": "threads/2025-08-21-1958465351471268247.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2025-08-21-1958465351471268247.md",
+    "title": "I just read Dr. Selim Raihan's piece. The real risk in a 50% tariff shock is a nudge toward China/RC...",
+    "date": "2025-08-21T09:45:12.839674Z",
+    "excerpt": "I just read Dr. Selim Raihan's piece. The real risk in a 50% tariff shock is a nudge toward China/RCEP - the opposite of friendshoring. https://www.tbsnews.net/features/panorama/will-us-tariffs-push-india-closer-china-1207586?utm_source=chatgpt.com",
+    "attributes": {
+      "twitter": "https://x.com/AnandChowdhary/status/1958465351471268247"
+    }
+  },
+  {
     "slug": "2025-08-20-1958306807899934738",
     "path": "threads/2025-08-20-1958306807899934738.md",
     "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2025-08-20-1958306807899934738.md",
