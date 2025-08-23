@@ -1,5 +1,39 @@
 import { NodeHtmlMarkdown } from "node-html-markdown";
-import { mkdir, writeFile, readFile } from "node:fs/promises";
+import { mkdir, readFile, writeFile } from "node:fs/promises";
+
+const generateTitle = async (text) => {
+  const token = process.env.OPENAI_API_KEY;
+  const model = "gpt-5-nano";
+
+  if (token)
+    try {
+      const response = await fetch(
+        "https://api.openai.com/v1/chat/completions",
+        {
+          method: "POST",
+          headers: {
+            "Content-Type": "application/json",
+            Authorization: `Bearer ${token}`,
+          },
+          body: JSON.stringify({
+            model,
+            messages: [
+              {
+                role: "system",
+                content: `Generate a short title for the given article. The title should be in sentence case with no punctuation and no more than 4-5 words. Respond only with the title, no other text.`,
+              },
+              { role: "user", content: text },
+            ],
+          }),
+        }
+      );
+      const data = await response.json();
+      return data.choices[0].message.content.trim();
+    } catch (error) {
+      console.error(error);
+      return undefined;
+    }
+};
 
 const data = async () => {
   const response = await fetch(
@@ -36,11 +70,16 @@ const data = async () => {
     const slug = `${new Date(draft.published_on)
       .toISOString()
       .substring(0, 10)}-${draft.twitter_url.split("/").pop()}`;
+
+    const existingItem = api.find((item) => item.slug === slug);
+    const title =
+      existingItem?.title || (await generateTitle(draft.text_first_tweet));
+
     api.push({
       slug,
       path: `threads/${slug}.md`,
       source: `https://github.com/AnandChowdhary/notes/blob/main/threads/${slug}.md`,
-      title: draft.text_first_tweet.substring(0, 100).trim() + "...",
+      title,
       date: draft.published_on,
       excerpt: draft.text_first_tweet,
       attributes: { twitter: draft.twitter_url },
