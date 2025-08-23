@@ -72,49 +72,60 @@ const data = async () => {
   for (const draft of data) {
     if (!draft.twitter_url) continue;
     console.log(draft.twitter_url);
-    const slug = `${new Date(draft.published_on)
-      .toISOString()
-      .substring(0, 10)}-${draft.twitter_url.split("/").pop()}`;
 
-    const existingItem = api.find((item) => item.slug === slug);
+    const existingItem = api.find(
+      (item) => item.attributes.twitter === draft.twitter_url
+    );
     const title =
       existingItem?.title ??
       (await generateTitle(draft.text_first_tweet, examples));
+    const slug = title.toLowerCase().replace(/[^a-z0-9]+/g, "-");
 
     api.push({
       slug,
-      path: `threads/${slug}.md`,
-      source: `https://github.com/AnandChowdhary/notes/blob/main/threads/${slug}.md`,
+      path: `threads/${new Date(
+        draft.published_on
+      ).getUTCFullYear()}/${slug}.md`,
+      source: `https://github.com/AnandChowdhary/notes/blob/main/threads/${new Date(
+        draft.published_on
+      ).getUTCFullYear()}/${slug}.md`,
       title,
       date: draft.published_on,
       excerpt: draft.text_first_tweet,
       attributes: { twitter: draft.twitter_url },
     });
+
+    await mkdir(`./threads/${new Date(draft.published_on).getUTCFullYear()}`, {
+      recursive: true,
+    });
     await writeFile(
-      `./threads/${slug}.md`,
+      `./threads/${new Date(draft.published_on).getUTCFullYear()}/${slug}.md`,
       `---
+title: ${title}
 date: ${new Date(draft.published_on).toISOString()}
 url: ${draft.twitter_url}
 ---
 
-${NodeHtmlMarkdown.translate(draft.html)}`
+${NodeHtmlMarkdown.translate(draft.html)}\n`
+    );
+
+    await writeFile(
+      "./threads/api.json",
+      JSON.stringify(
+        api
+          .sort((a, b) => new Date(b.date) - new Date(a.date))
+          // Deduplicate by Twitter URL
+          .filter(
+            (item, index, array) =>
+              array.findIndex(
+                (i) => i.attributes.twitter === item.attributes.twitter
+              ) === index
+          ),
+        null,
+        2
+      )
     );
   }
-
-  await writeFile(
-    "./threads/api.json",
-    JSON.stringify(
-      api
-        .sort((a, b) => new Date(b.date) - new Date(a.date))
-        // Deduplicate by slug
-        .filter(
-          (item, index, array) =>
-            array.findIndex((i) => i.slug === item.slug) === index
-        ),
-      null,
-      2
-    )
-  );
 };
 
 data();
