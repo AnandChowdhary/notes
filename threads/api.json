@@ -1,1 +1,332 @@
-[]
+[
+  {
+    "slug": "openai-india-go-tier",
+    "path": "threads/2025/openai-india-go-tier.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2025/openai-india-go-tier.md",
+    "title": "OpenAI's India-first Go tier",
+    "date": "2025-08-22T21:15:09.761570Z",
+    "excerpt": "To me, @OpenAI's 🇮🇳-first Go tier is a live experiment in LLM unit economics, not a land grab. ₹399 with @UPI_NPCI removes payment friction while they test how much GPT‑5 you can subsidize with rate limit shaping and model cascades.👇",
+    "attributes": {
+      "twitter": "https://x.com/AnandChowdhary/status/1959001382759145960"
+    }
+  },
+  {
+    "slug": "agents-md-standard",
+    "path": "threads/2025/agents-md-standard.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2025/agents-md-standard.md",
+    "title": "AGENTS.md standard",
+    "date": "2025-08-22T13:45:13.724091Z",
+    "excerpt": "We finally have a standard! Repos declare agent intent: drop an AGENTS.md at the root and pair it with MCP. That turns prompt glue into config and policy you can move across IDEs and runtimes. Less guesswork. More contracts.",
+    "attributes": {
+      "twitter": "https://x.com/AnandChowdhary/status/1958888139814313987"
+    }
+  },
+  {
+    "slug": "agents-as-first-class-users",
+    "path": "threads/2025/agents-as-first-class-users.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2025/agents-as-first-class-users.md",
+    "title": "Agents as first-class users",
+    "date": "2025-08-22T09:45:12.803046Z",
+    "excerpt": "Agents as first-class users is the story the brings @Databricks to $100B reads. Lakebase brings OLTP into the lakehouse, Agent Bricks tackles agent quality. That's the bet, and it's a big one.",
+    "attributes": {
+      "twitter": "https://x.com/AnandChowdhary/status/1958827739206885690"
+    }
+  },
+  {
+    "slug": "firstquadrant-x-cal-com",
+    "path": "threads/2025/firstquadrant-x-cal-com.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2025/firstquadrant-x-cal-com.md",
+    "title": "FirstQuadrant x Cal.com",
+    "date": "2025-08-22T05:45:12.535827Z",
+    "excerpt": "This week at @FirstQuadrant, we shipped a @calcom integration: Connect it once and every new booking becomes a qualified inbound lead with event details, organizer info, and attendee responses. Contacts are created or updated instantly, so you can follow up right away. 📅👇",
+    "attributes": {
+      "twitter": "https://x.com/AnandChowdhary/status/1958767340121989343"
+    }
+  },
+  {
+    "slug": "design-that-expresses-thought",
+    "path": "threads/2025/design-that-expresses-thought.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2025/design-that-expresses-thought.md",
+    "title": "Design that expresses thought",
+    "date": "2025-08-21T21:15:09.800361Z",
+    "excerpt": "Sharing another one from 2013: I see design as expressing thought. It is the discipline that makes purpose, form, and timing click. The aim isn't perfect symmetry, it is clarity that fits the user's moment. Make things useful. Build experiences, not interfaces. 🎨👇",
+    "attributes": {
+      "twitter": "https://x.com/AnandChowdhary/status/1958638994792882408"
+    }
+  },
+  {
+    "slug": "swift-claude-code-sdk",
+    "path": "threads/2025/swift-claude-code-sdk.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2025/swift-claude-code-sdk.md",
+    "title": "Swift Claude Code SDK",
+    "date": "2025-08-21T15:15:01.899512Z",
+    "excerpt": "Sharing a neat Swift SDK for @ClaudeAI Code by my friend @aruneshsingh99: Pure Swift, type safe models, and async/await with real streaming. The fun part is two way conversations, so you can build an interactive code assistant right in Swift.\n\nThings that stood out to me: typed message and block models, AsyncSequence streaming, tool support for Read, Write, and Bash, interrupt support, permission controls, zero dependencies. Swift 6 strict concurrency, plus MCP integration.\n\nI also like the small quality of life bits: You can change settings mid conversation and the session stays alive. updatePermissionMode, updateSystemPrompt, updateAllowedTools. The client API reads well too with queryStream and receiveResponse yielding TextBlock or ToolUseBlock.\n\nI can see this powering editor plugins, macOS apps, or server side Swift agents that read and write code and run bash safely. It is SPM-friendly and uses the Claude Code CLI under the hood: https://github.com/AruneshSingh/ClaudeCodeSwiftSDK",
+    "attributes": {
+      "twitter": "https://x.com/AnandChowdhary/status/1958548401110602035"
+    }
+  },
+  {
+    "slug": "tariffs-push-india-toward-china",
+    "path": "threads/2025/tariffs-push-india-toward-china.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2025/tariffs-push-india-toward-china.md",
+    "title": "Tariffs push India toward China",
+    "date": "2025-08-21T09:45:12.839674Z",
+    "excerpt": "I just read Dr. Selim Raihan's piece. The real risk in a 50% tariff shock is a nudge toward China/RCEP - the opposite of friendshoring. https://www.tbsnews.net/features/panorama/will-us-tariffs-push-india-closer-china-1207586?utm_source=chatgpt.com",
+    "attributes": {
+      "twitter": "https://x.com/AnandChowdhary/status/1958465351471268247"
+    }
+  },
+  {
+    "slug": "automated-design-review-with-claude",
+    "path": "threads/2025/automated-design-review-with-claude.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2025/automated-design-review-with-claude.md",
+    "title": "Automated design review with Claude",
+    "date": "2025-08-20T23:15:01.632581Z",
+    "excerpt": "Been deep in Claude Code for months now, so this from @PatOakEllis hit home: Practical workflows from an AI-native startup.\n\nThe Design Review workflow is kinda cool: Automated feedback on frontend PRs for UI and UX consistency and accessibility before merge. Less guesswork, more signal.\n\nUnder the hood, it drives a real browser with Playwright MCP and pairs it with Claude Code agents. It looks at the rendered UI, checks against standards, and catches visual issues early.\n\nThis turns design QA into a repeatable step teams can share, not a last minute ping. Handy when you are growing a design system or shipping fast.\n\nPatrick Ellis has solid tutorials and demos on YouTube. Worth a look: https://github.com/OneRedOak/claude-code-workflows",
+    "attributes": {
+      "twitter": "https://x.com/AnandChowdhary/status/1958306807899934738"
+    }
+  },
+  {
+    "slug": "empathy-unlocks-claude-code",
+    "path": "threads/2025/empathy-unlocks-claude-code.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2025/empathy-unlocks-claude-code.md",
+    "title": "Empathy unlocks Claude Code",
+    "date": "2025-08-20T15:15:07.982437Z",
+    "excerpt": "Watched the new YC interview with Anthropic's @nottombrown and my big takeaway: Claude Code didn't need secret sauce - any solid team could ship a CLI on the Claude API, but the leap was empathy for the model. Build a coding tool for Claude, and you get a better tool for us. 💻👇",
+    "attributes": {
+      "twitter": "https://x.com/AnandChowdhary/status/1958186013031088175"
+    }
+  },
+  {
+    "slug": "treat-hn-as-load-test",
+    "path": "threads/2025/treat-hn-as-load-test.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2025/treat-hn-as-load-test.md",
+    "title": "Treat HN as load test",
+    "date": "2025-08-20T13:45:10.788945Z",
+    "excerpt": "Reading @mooreds’s take on making to the HN front page: The traffic spike is fun, but the real value sits in the comments and the follow on links. Having been featured a few times myself, I agree - treat HN as a one day load test and peer review, not a growth channel.",
+    "attributes": {
+      "twitter": "https://x.com/AnandChowdhary/status/1958163364489887944"
+    }
+  },
+  {
+    "slug": "uplift-ai-urdu-tts-launched",
+    "path": "threads/2025/uplift-ai-urdu-tts-launched.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2025/uplift-ai-urdu-tts-launched.md",
+    "title": "Uplift AI Urdu TTS launched",
+    "date": "2025-08-20T05:45:07.041155Z",
+    "excerpt": "Uplift AI launched on HN yesterday and I'm a fan! It's more than just Urdu TTS: it's full-stack so it's about owning the data, fixing orthography and code switching, and shipping a real time voice UX where the big players still feel clunky.\n\nOn the tech side, they expose WebSocket TTS with chunked streaming and a LiveKit plugin. Goal is conversational latency and getting the first audio out quickly. There is a phrase replacement API to normalize brand names and transliterations.\n\nDocs read like a product: Cancel semantics, multi stream synthesis, 22.05 kHz, MP3 or OGG or PCM; these are the small details I look for when shipping voice agents.",
+    "attributes": {
+      "twitter": "https://x.com/AnandChowdhary/status/1958042565846180270"
+    }
+  },
+  {
+    "slug": "local-first-transcription-tools",
+    "path": "threads/2025/local-first-transcription-tools.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2025/local-first-transcription-tools.md",
+    "title": "Local first transcription tools",
+    "date": "2025-08-19T23:15:01.732955Z",
+    "excerpt": "Been thinking about moving more of my workflow to local-first tools this year, and @epicenter_so from YC S25 seems like it may hit the sweet spot for me. Press shortcut → speak → get text, and everything lands in one shared memory folder, plain text plus SQLite. You own the data, can use any model, and it is open source. Fast and simple.\n\nWhispering is the headliner: Desktop transcription that lives on your machine is great. Hit a hotkey, talk, get text. Bring your own API key, keep files local, and it runs on macOS, Windows, and Linux in a Tauri plus Rust shell. No web round trip.\n\nSince it is just text and SQLite, you can grep it, open it in Obsidian, or sync it however you like. No silos.\n\nWhy devs might enjoy this: unified open storage instead of app silos, model agnostic by design, and a modern stack with Svelte 5 and SvelteKit, TypeScript, Tauri and Rust, Tailwind, TanStack Query: https://github.com/epicenter-so/epicenter",
+    "attributes": {
+      "twitter": "https://x.com/AnandChowdhary/status/1957944420369920195"
+    }
+  },
+  {
+    "slug": "bilingual-typography-should-be-standard",
+    "path": "threads/2025/bilingual-typography-should-be-standard.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2025/bilingual-typography-should-be-standard.md",
+    "title": "Bilingual typography should be standard",
+    "date": "2025-08-19T21:15:10.315041Z",
+    "excerpt": "Bilingual typography shouldn't be an afterthought. I wrote a note in 2017 because mixing Latin and Devanagari kept feeling like a hack. It's about metrics, shaping, numerals, emphasis, and readability from billboards to chat apps. The tooling is ready. Our defaults should be too. 🔤 👇",
+    "attributes": {
+      "twitter": "https://x.com/AnandChowdhary/status/1957914221435580495"
+    }
+  },
+  {
+    "slug": "designing-the-politics-of-connectivity",
+    "path": "threads/2025/designing-the-politics-of-connectivity.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2025/designing-the-politics-of-connectivity.md",
+    "title": "Designing the politics of connectivity",
+    "date": "2025-08-19T15:15:09.004055Z",
+    "excerpt": "In 2013 I worked on a project to redesign Internet.org and I learned a bigger truth - design for \"connect the world\" is never neutral. Visual systems can signal openness, agency, and power. Pixels were easy, but purpose was hard. 🌍👇",
+    "attributes": {
+      "twitter": "https://x.com/AnandChowdhary/status/1957823630374814074"
+    }
+  },
+  {
+    "slug": "typescript-type-stripping-by-default",
+    "path": "threads/2025/typescript-type-stripping-by-default.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2025/typescript-type-stripping-by-default.md",
+    "title": "TypeScript type stripping by default",
+    "date": "2025-08-19T09:45:07.287112Z",
+    "excerpt": "Skimming @nodejs v22.18 LTS notes and I'm so excited about TypeScript type stripping on by default. Erase-only, position-preserving, no tsconfig or source maps. Small runtime surface. Big DX win for TS devs!",
+    "attributes": {
+      "twitter": "https://x.com/AnandChowdhary/status/1957740576574697702"
+    }
+  },
+  {
+    "slug": "owning-state-in-system-design",
+    "path": "threads/2025/owning-state-in-system-design.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2025/owning-state-in-system-design.md",
+    "title": "Owning state in system design",
+    "date": "2025-08-18T23:15:06.927036Z",
+    "excerpt": "Reading Sean Goedecke on system design is such a great experience. It is all about owning state. Fancy setups often hide unclear write ownership. The boring win.",
+    "attributes": {
+      "twitter": "https://x.com/AnandChowdhary/status/1957582030767837330"
+    }
+  },
+  {
+    "slug": "stableavatar-for-avatar-videos",
+    "path": "threads/2025/stableavatar-for-avatar-videos.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2025/stableavatar-for-avatar-videos.md",
+    "title": "StableAvatar for avatar videos",
+    "date": "2025-08-18T21:15:01.110485Z",
+    "excerpt": "Been tinkering with avatar agents lately, and this project is pretty neat. StableAvatar is an end to end video diffusion transformer that makes infinite length audio driven avatar videos from a single reference image and audio - no post processing. The identity stays intact.\n\nThe clever bit is a time step-aware audio adapter. It modulates the denoiser at every diffusion step so the audio control stays stable across segments, which stops the usual drift you get when you pipe in off the shelf audio embeddings through cross attention.\n\nDuring inference, they add Audio Native Guidance to tighten lip sync and prosody. No face swap or face restore tricks here (FaceFusion, GFP GAN, CodeFormer).\n\nEnd result: long, stable, high quality, ID consistent renders for lectures, dubbing, and agents. And, open source!\n\nIf you are building realistic avatar or video agents, start here: https://github.com/Francis-Rings/StableAvatar",
+    "attributes": {
+      "twitter": "https://x.com/AnandChowdhary/status/1957551831393136778"
+    }
+  },
+  {
+    "slug": "small-core-big-empathy",
+    "path": "threads/2025/small-core-big-empathy.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2025/small-core-big-empathy.md",
+    "title": "Small core big empathy",
+    "date": "2025-08-18T13:45:08.137107Z",
+    "excerpt": "Small core, big empathy: ship a tiny bootstrap, then load accessibility modules only when someone switches them on. You keep the first hit light and still give folks real controls when they ask, this is how we built our web accessibility plugin in 2017 at @OswaldLabs ♿👇",
+    "attributes": {
+      "twitter": "https://x.com/AnandChowdhary/status/1957438589610119557"
+    }
+  },
+  {
+    "slug": "acquiring-the-unity-mcp-repo",
+    "path": "threads/2025/acquiring-the-unity-mcp-repo.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2025/acquiring-the-unity-mcp-repo.md",
+    "title": "Acquiring the Unity MCP repo",
+    "date": "2025-08-18T09:45:07.177112Z",
+    "excerpt": "Just read @JosvdWest's write-up on acquiring the Unity MCP repo... you don't get to see repo acquisitions often - buying distribution in OSS means you're migrating SEO signals and trust. I've gotten offers for some of my more popular projects and it's... interesting?",
+    "attributes": {
+      "twitter": "https://x.com/AnandChowdhary/status/1957378188365209800"
+    }
+  },
+  {
+    "slug": "aptitude-revisited-after-a-decade",
+    "path": "threads/2025/aptitude-revisited-after-a-decade.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2025/aptitude-revisited-after-a-decade.md",
+    "title": "Aptitude revisited after a decade",
+    "date": "2025-08-18T05:45:08.729563Z",
+    "excerpt": "Back in 2014 I shipped Aptitude, a tiny theme to publish a clean one page articles in minutes. Three CSS files, copy the demo, hit deploy, then let the words breathe. The real goal was less build, more writing. A decade later I revisited it to see how small front end choices age... 📄👇",
+    "attributes": {
+      "twitter": "https://x.com/AnandChowdhary/status/1957317795974369441"
+    }
+  },
+  {
+    "slug": "open-hardware-patent-defense",
+    "path": "threads/2025/open-hardware-patent-defense.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2025/open-hardware-patent-defense.md",
+    "title": "Open hardware patent defense",
+    "date": "2025-08-17T15:15:01.304725Z",
+    "excerpt": "I just read @josefprusa's piece on 3D printing hardware and the pipeline that turns cheap filings into chokepoints for open hardware: utility models, Paris priority, fast border actions.\n\nA patent can be weak and still wreck your supply chain. CN and DE utility models are fast and cheap with no real exam. You can file a bunch and see what sticks. You then get a 12 month Paris priority window to refile abroad. In the US, a Section 337 ITC case can block imports in roughly 16 to 18 months. That is faster than most challenges land, and open hardware feels that first.\n\nThe asymmetry on cost and time is the kicker. In China, a utility model filing is around ¥500. In Europe, oppositions run for years. In the US, an ex parte reexam starts around 6.3k to 12.6k dollars before counsel. An ITC exclusion order keeps biting until it is lifted. That chills open manufacturing.\n\nPolicy makes it worse. China's R and D super deduction sits around 200 percent in many cases. You do not need patents to claim it, but codifying R and D helps, so filings pile up. AM patents grew fast from 2013 to 2020, yet domestic utility models and local filings often do not show up in international family stats. The spike may be hiding in a different dataset.\n\nWhat we can do next: Use CERN OHL v2 with patent retaliation. Publish defensively at scale so prior art is easy to find. Build a hardware OIN or LOT style group with pooled defense and prior art bounties. And yes, use AI to help with search and drafting, with humans in the loop.\n\nLink: https://www.josefprusa.com/articles/open-hardware-in-3d-printing-is-dead/\n\nWho funds a hardware patent defense league that small shops can join? How do we standardize AI assisted defensive publishing across languages?  When we have AI patent clerks, can we make IP protection free, so open source maintainers can protect their good ideas like the big guys can?",
+    "attributes": {
+      "twitter": "https://x.com/AnandChowdhary/status/1957098847198707835"
+    }
+  },
+  {
+    "slug": "cyberdesk-launch-signals-new-era",
+    "path": "threads/2025/cyberdesk-launch-signals-new-era.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2025/cyberdesk-launch-signals-new-era.md",
+    "title": "Cyberdesk launch signals new era",
+    "date": "2025-08-17T09:45:06.921942Z",
+    "excerpt": "This week YC S25’s Cyberdesk launched on HN and I realized how far we've come from LLMs clicking UIs - trajectory caching and deterministic replay with a tight break glass to computer use. That feels right. The threshold policy is basically the product. 🖱️👇",
+    "attributes": {
+      "twitter": "https://x.com/AnandChowdhary/status/1957015799744569379"
+    }
+  },
+  {
+    "slug": "funding-oss-like-public-infrastructure",
+    "path": "threads/2025/funding-oss-like-public-infrastructure.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2025/funding-oss-like-public-infrastructure.md",
+    "title": "Funding OSS like public infrastructure",
+    "date": "2025-08-16T21:15:06.979531Z",
+    "excerpt": "Reading @Dries on funding OSS like public infrastructure - this might be one of the defining ideas of our time. Instead of \"more money\", making maintainers of critical deps funded operators with SLOs, reinforced by upstream first procurement. Finally, risk and incentives line up!",
+    "attributes": {
+      "twitter": "https://x.com/AnandChowdhary/status/1956827055469064327"
+    }
+  },
+  {
+    "slug": "the-shift-to-wearables",
+    "path": "threads/2025/the-shift-to-wearables.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2025/the-shift-to-wearables.md",
+    "title": "The shift to wearables",
+    "date": "2025-08-16T13:45:07.032734Z",
+    "excerpt": "The big shift for me this year: LLMs left the browser and moved into things I wear. I use Ray‑Ban Meta glasses and a Limitless pendant every day (yes, really!). It happened fast, and it already changes how I look, listen, and decide in the moment. 🕶️👇",
+    "attributes": {
+      "twitter": "https://x.com/AnandChowdhary/status/1956713809214951723"
+    }
+  },
+  {
+    "slug": "channels-beat-features",
+    "path": "threads/2025/channels-beat-features.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2025/channels-beat-features.md",
+    "title": "Channels beat features",
+    "date": "2025-08-15T21:15:07.085011Z",
+    "excerpt": "Back in 2016, \"local-language Android for India\" felt like the product. I thought the OS was the story. Turns out language was the wedge and distribution the business. @IndusOS looked like an India-first Android fork. By 2025 the gravity is app stores, billing, and OEM pipes. Channels beat features. 👇",
+    "attributes": {
+      "twitter": "https://x.com/AnandChowdhary/status/1956464668022906980"
+    }
+  },
+  {
+    "slug": "omnara-mission-control-for-ai",
+    "path": "threads/2025/omnara-mission-control-for-ai.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2025/omnara-mission-control-for-ai.md",
+    "title": "Omnara mission control for AI",
+    "date": "2025-08-15T13:45:09.146077Z",
+    "excerpt": "This week, @IshSup launched Omnara (YC S25), a mission control for AI agents. It turns Claude Code, Cursor, and Copilot from quiet background workers into teammates you can guide from your phone w/ real time updates and actionable nudges for those long running jobs. 💻👇",
+    "attributes": {
+      "twitter": "https://x.com/AnandChowdhary/status/1956351431012986963"
+    }
+  },
+  {
+    "slug": "india-rewrites-made-in-signals",
+    "path": "threads/2025/india-rewrites-made-in-signals.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2025/india-rewrites-made-in-signals.md",
+    "title": "India rewrites made in signals",
+    "date": "2025-08-15T09:45:06.942731Z",
+    "excerpt": "Country-of-origin labels are really proxies for trust. They hint at process, standards, and service more than a dot on a map. In the last decade, India showed how open digital rails plus targeted manufacturing policy can rewrite what \"made in\" signals. 🇮🇳👇",
+    "attributes": {
+      "twitter": "https://x.com/AnandChowdhary/status/1956291023795364209"
+    }
+  },
+  {
+    "slug": "github-mcp-server-in-navbar",
+    "path": "threads/2025/github-mcp-server-in-navbar.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2025/github-mcp-server-in-navbar.md",
+    "title": "GitHub MCP server in navbar",
+    "date": "2025-08-15T05:45:07.910662Z",
+    "excerpt": "GitHub added their MCP server in the navbar, so I was curious about how they built it. It plugs real GitHub context into AI agents. Read code, search repos, manage issues and PRs, and trigger workflows with plain English. \n👨‍💻👇",
+    "attributes": {
+      "twitter": "https://x.com/AnandChowdhary/status/1956230629638668476"
+    }
+  },
+  {
+    "slug": "ioi-gold-transfer",
+    "path": "threads/2025/ioi-gold-transfer.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2025/ioi-gold-transfer.md",
+    "title": "IOI gold transfer",
+    "date": "2025-08-14T21:15:09.815644Z",
+    "excerpt": "The headline is IOI gold - the story is transfer. The same general reasoning stack that hit IMO gold, with zero IOI training, then landed roughly 6th against humans under normal rules. Proofs to programs with the same brain. That is the wow. 🥇👇",
+    "attributes": {
+      "twitter": "https://x.com/AnandChowdhary/status/1956102280496996616"
+    }
+  },
+  {
+    "slug": "contact-summaries-and-duplicate-cleanup",
+    "path": "threads/2025/contact-summaries-and-duplicate-cleanup.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2025/contact-summaries-and-duplicate-cleanup.md",
+    "title": "Contact summaries and duplicate cleanup",
+    "date": "2025-08-14T15:15:12.907981Z",
+    "excerpt": "This week at @FirstQuadrant: Contact Summaries and cleaner duplicate merging: One click to know who you're talking to, one click to keep your sales stack tidy 📝👇",
+    "attributes": {
+      "twitter": "https://x.com/AnandChowdhary/status/1956011683408961698"
+    }
+  }
+]

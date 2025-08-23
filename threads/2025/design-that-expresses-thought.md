@@ -1,0 +1,15 @@
+---
+title: Design that expresses thought
+date: 2025-08-21T21:15:09.800Z
+url: https://x.com/AnandChowdhary/status/1958638994792882408
+---
+
+Sharing another one from 2013: I see design as expressing thought. It is the discipline that makes purpose, form, and timing click. The aim isn't perfect symmetry, it is clarity that fits the user's moment. Make things useful. Build experiences, not interfaces. 🎨👇  
+  
+That Why and How split maps cleanly today: Why lives in strategy, outcomes, ethics, and constraints. How lives in tokens, components, and behaviors. Think Material motion and color, iOS superellipse and progressive disclosure, Tailwind utilities, React, SwiftUI, Compose. Real simplicity is strong defaults, clear hierarchy, resilient states, and latency aware flows that reveal complexity only when needed.  
+  
+Surprises: Standardization helped and hurt. Tokens and Figma variables increased coherence, but need governance, accessibility checks like WCAG and ARIA, and performance budgets or you end up with clean looking yet brittle systems. Flat UIs did not erase skeuomorphism. We still lean on learned metaphors in voice, chat, and spatial. With AI copilots, interface becomes model behavior, so error handling, provenance, and reversibility are first class.  
+  
+Implications: Design still reacts to the tech of its time, but the craft now is choreographing interdependence between models, data, policy, and people. What belongs in tokens versus policy. How should systems expose uncertainty without freezing users.  
+  
+Re reading 2013, useful over usable and experiences over interfaces. <https://anandchowdhary.com/blog/2013/design>

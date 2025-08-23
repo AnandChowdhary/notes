@@ -1,0 +1,33 @@
+---
+title: Bilingual typography should be standard
+date: 2025-08-19T21:15:10.315Z
+url: https://x.com/AnandChowdhary/status/1957914221435580495
+---
+
+Bilingual typography shouldn't be an afterthought. I wrote a note in 2017 because mixing Latin and Devanagari kept feeling like a hack. It's about metrics, shaping, numerals, emphasis, and readability from billboards to chat apps. The tooling is ready. Our defaults should be too. 🔤 👇  
+  
+Context in 2017: Noto was reframing multi‑script coherence, and OpenType variable fonts had just shipped.  
+  
+Context in 2025:  
+\- Shaping got consistent. HarfBuzz became the common engine across Chrome, Firefox, and Edge, so complex Indic behaves the same more often.  
+\- Metrics got love. Families align Devanagari's headline with Latin x‑height or caps. Hind is a clear example and one of my favorite fonts.  
+\- Families became systems. Mukta spans multiple scripts for text. Baloo 2 is now variable and covers 10 Indic scripts plus Latin. Anek brought a unified voice across scripts.  
+  
+Adoption and practice:  
+\- Variable fonts went from a 2017 demo to about a third of the web by 2024\. That made bilingual systems faster and simpler to ship.  
+\- Big multiscript families landed in campaigns and apps. Anek, Noto, Mukta, and friends show up in UIs and signage.  
+\- 2011 data shows \~26% bilingual and \~7% trilingual nationwide, with higher rates in cities and youth. Design for multilingual contexts, but don't assume universality.  
+  
+Practical principles I use now:  
+1) Pick matched families. Hind, Mukta, Anek, Tiro Devanagari all pair Latin and Devanagari with care.  
+2) Align metrics. Match Latin x‑height to the Devanagari headline. font-size-adjust helps.  
+3) Decide numerals up front. Latin vs Devanagari digits by locale. Use lang and locl. Keep tables consistent.  
+4) Emphasis. Devanagari rarely has true italics. Use slant, weight, or color, not fake italics.  
+5) Test shaping, hyphenation, and fallbacks on low‑end Android and Windows. Add a sane fallback chain.  
+  
+Open questions:  
+\- Should design tokens include multi‑script pairing rules, not one‑off fixes?  
+\- When do public interfaces make trilingual defaults standard, and how do we order scripts for readability?  
+\- In ten years with LLMs everywhere, will English as the lingua franca remain, or will it mean that most people can proudly read, write, and speak in their own language because translation will be perfect?  
+  
+Here's the original note from 2017: <https://github.com/AnandChowdhary/notes/blob/main/notes/2017/bilingual-typography.md>

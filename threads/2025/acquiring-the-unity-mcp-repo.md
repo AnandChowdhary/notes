@@ -1,0 +1,21 @@
+---
+title: Acquiring the Unity MCP repo
+date: 2025-08-18T09:45:07.177Z
+url: https://x.com/AnandChowdhary/status/1957378188365209800
+---
+
+Just read [@JosvdWest](https://x.com/JosvdWest)'s write-up on acquiring the Unity MCP repo... you don't get to see repo acquisitions often - buying distribution in OSS means you're migrating SEO signals and trust. I've gotten offers for some of my more popular projects and it's... interesting?  
+  
+GitHub issues 301s on repo transfer and keeps stars, watchers, and forks. Great.  
+  
+But if the old path gets reused, your redirect breaks, so they made that deal. And Google can take a while to settle on the new canonical, so search visibility can vanish for a bit. Plan for the dip with an actual migration checklist: timing, cross-README banners, backfilled links, and measurement.  
+  
+Repo-as-distribution worked here because Coplay took over the highest-signal integration surface for game dev agents and improved the install path. Think Unity bridge plus auto client config. That is product leverage, not a press hit.  
+  
+Ownership changes also move the supply‑chain trust boundary. Ship CODEOWNERS, signed tags and releases, provenance, and a clear SECURITY.md. Make the trust transfer explicit and boring in the best way.  
+  
+The media moment fizzled, which is kinda predictable for devtools. Their press went out on Aug 5\. The README update landed on Aug 8\. The uptick mapped to the README. Discord joins tripled. Installs doubled.  
+  
+What I keep seeing: search and docs dominate adoption. Headlines rarely move activation. Treat repo moves like site moves. Treat READMEs like landing pages.  
+  
+A public GitHub SEO migration playbook others can borrow could be cool! Thoughtful write-up and worth a read: <https://www.coplay.dev/blog/lessons-learned-from-buying-an-open-source-repo>

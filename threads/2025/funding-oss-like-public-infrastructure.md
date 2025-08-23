@@ -1,0 +1,21 @@
+---
+title: Funding OSS like public infrastructure
+date: 2025-08-16T21:15:06.979Z
+url: https://x.com/AnandChowdhary/status/1956827055469064327
+---
+
+Reading [@Dries](https://x.com/Dries) on funding OSS like public infrastructure - this might be one of the defining ideas of our time. Instead of "more money", making maintainers of critical deps funded operators with SLOs, reinforced by upstream first procurement. Finally, risk and incentives line up!  
+  
+How I'd operationalize it: prioritize by dependency criticality and project health: Use Criticality Score and Scorecard, plus CHAOSS signals like responsiveness and bus factor. Then tie multi-year funding to those SLIs and observable outcomes like patch latency and release cadence, not features.  
+  
+The $8.8T estimate for OSS value and the "5% of contributors create 96% of demand side value" stat are a macro view of the bus factor problem. Useful signal, also bounded: it assumes model choices like COCOMO and a specific dataset. Directionally right, not a price tag.  
+  
+I strongly agree that public funding should buy down maintainer risk and reduce concentration, not chase shiny features.  
+  
+Policy is catching up. The EU CRA now recognizes open source stewards with tailored obligations. OSPOs give governments a home for doing the work day to day. Think the EC platform and health agencies running OSPOs.  
+  
+Sovereign funds like Germany's STF and the UN Open Source Principles point to a model where public money underwrites maintenance, security, and quality instead of one off builds.  
+  
+As a maintainer and vendor, I love this shift from consumption to contribution. It is healthier for everyone.  
+  
+If we pick clear thresholds and pay for reliability and security outcomes, treating OSS as infrastructure can actually work. <https://dri.es/funding-open-source-like-public-infrastructure>
