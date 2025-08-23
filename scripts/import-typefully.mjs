@@ -1,7 +1,7 @@
 import { NodeHtmlMarkdown } from "node-html-markdown";
 import { mkdir, readFile, writeFile } from "node:fs/promises";
 
-const generateTitle = async (text) => {
+const generateTitle = async (text, examples) => {
   const token = process.env.OPENAI_API_KEY;
   const model = "gpt-5-nano";
 
@@ -20,7 +20,7 @@ const generateTitle = async (text) => {
             messages: [
               {
                 role: "system",
-                content: `Generate a short title for the given article. The title should be in sentence case with no punctuation and no more than 4-5 words. Respond only with the title, no other text.`,
+                content: `Generate a short title for the given article. The title should be in sentence case with no punctuation and no more than 4-5 words. Respond only with the title, no other text. Examples:\n${examples}`,
               },
               { role: "user", content: text },
             ],
@@ -64,6 +64,11 @@ const data = async () => {
   const existingApi = JSON.parse(existing);
   const api = [...existingApi];
 
+  const examples = api
+    .map((item) => `- ${item.title}`)
+    .slice(0, 10)
+    .join("\n");
+
   for (const draft of data) {
     if (!draft.twitter_url) continue;
     console.log(draft.twitter_url);
@@ -73,7 +78,8 @@ const data = async () => {
 
     const existingItem = api.find((item) => item.slug === slug);
     const title =
-      existingItem?.title || (await generateTitle(draft.text_first_tweet));
+      existingItem?.title ??
+      (await generateTitle(draft.text_first_tweet, examples));
 
     api.push({
       slug,
