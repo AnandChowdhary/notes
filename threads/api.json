@@ -1,5 +1,49 @@
 [
   {
+    "slug": "2025-08-22-1959001382759145960",
+    "path": "threads/2025-08-22-1959001382759145960.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2025-08-22-1959001382759145960.md",
+    "title": "To me, @OpenAI's 🇮🇳-first Go tier is a live experiment in LLM unit economics, not a land grab. ₹39...",
+    "date": "2025-08-22T21:15:09.761570Z",
+    "excerpt": "To me, @OpenAI's 🇮🇳-first Go tier is a live experiment in LLM unit economics, not a land grab. ₹399 with @UPI_NPCI removes payment friction while they test how much GPT‑5 you can subsidize with rate limit shaping and model cascades.👇",
+    "attributes": {
+      "twitter": "https://x.com/AnandChowdhary/status/1959001382759145960"
+    }
+  },
+  {
+    "slug": "2025-08-22-1958888139814313987",
+    "path": "threads/2025-08-22-1958888139814313987.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2025-08-22-1958888139814313987.md",
+    "title": "We finally have a standard! Repos declare agent intent: drop an AGENTS.md at the root and pair it wi...",
+    "date": "2025-08-22T13:45:13.724091Z",
+    "excerpt": "We finally have a standard! Repos declare agent intent: drop an AGENTS.md at the root and pair it with MCP. That turns prompt glue into config and policy you can move across IDEs and runtimes. Less guesswork. More contracts.",
+    "attributes": {
+      "twitter": "https://x.com/AnandChowdhary/status/1958888139814313987"
+    }
+  },
+  {
+    "slug": "2025-08-22-1958827739206885690",
+    "path": "threads/2025-08-22-1958827739206885690.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2025-08-22-1958827739206885690.md",
+    "title": "Agents as first-class users is the story the brings @Databricks to $100B reads. Lakebase brings OLTP...",
+    "date": "2025-08-22T09:45:12.803046Z",
+    "excerpt": "Agents as first-class users is the story the brings @Databricks to $100B reads. Lakebase brings OLTP into the lakehouse, Agent Bricks tackles agent quality. That's the bet, and it's a big one.",
+    "attributes": {
+      "twitter": "https://x.com/AnandChowdhary/status/1958827739206885690"
+    }
+  },
+  {
+    "slug": "2025-08-22-1958767340121989343",
+    "path": "threads/2025-08-22-1958767340121989343.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2025-08-22-1958767340121989343.md",
+    "title": "This week at @FirstQuadrant, we shipped a @calcom integration: Connect it once and every new booking...",
+    "date": "2025-08-22T05:45:12.535827Z",
+    "excerpt": "This week at @FirstQuadrant, we shipped a @calcom integration: Connect it once and every new booking becomes a qualified inbound lead with event details, organizer info, and attendee responses. Contacts are created or updated instantly, so you can follow up right away. 📅👇",
+    "attributes": {
+      "twitter": "https://x.com/AnandChowdhary/status/1958767340121989343"
+    }
+  },
+  {
     "slug": "2025-08-21-1958638994792882408",
     "path": "threads/2025-08-21-1958638994792882408.md",
     "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2025-08-21-1958638994792882408.md",
