@@ -1,5 +1,27 @@
 [
   {
+    "slug": "ai-ux-beyond-chat",
+    "path": "threads/2025/ai-ux-beyond-chat.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2025/ai-ux-beyond-chat.md",
+    "title": "AI UX beyond chat",
+    "date": "2025-08-23T21:15:12.623887Z",
+    "excerpt": "IMO AI UX is not chat. I like chat for quick ideas, but for teams it collapses structure, loses memory, and lives outside the work. Better metaphors are agents that act, pipelines that run in the background, and native controls inside the tools we already use. 🤖👇",
+    "attributes": {
+      "twitter": "https://x.com/AnandChowdhary/status/1959363770343645473"
+    }
+  },
+  {
+    "slug": "summarization-as-a-platform-primitive",
+    "path": "threads/2025/summarization-as-a-platform-primitive.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2025/summarization-as-a-platform-primitive.md",
+    "title": "Summarization as a platform primitive",
+    "date": "2025-08-23T13:45:12.732421Z",
+    "excerpt": "Hot take from my 2017 notes that aged well: summarization should be a platform primitive with a clean Summarizer API. Not a bolt‑on feature, a thing apps compose like storage or auth. Eight years later, this still feels right. 📝👇",
+    "attributes": {
+      "twitter": "https://x.com/AnandChowdhary/status/1959250524655726773"
+    }
+  },
+  {
     "slug": "openai-s-india-first-go-tier",
     "path": "threads/2025/openai-s-india-first-go-tier.md",
     "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2025/openai-s-india-first-go-tier.md",
