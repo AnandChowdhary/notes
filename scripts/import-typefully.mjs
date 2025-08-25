@@ -71,6 +71,15 @@ const data = async () => {
 
   for (const draft of data) {
     if (!draft.twitter_url) continue;
+
+    const threadContent = NodeHtmlMarkdown.translate(draft.html);
+    if (threadContent.length < 500) {
+      console.log(
+        `Skipping thread with ${threadContent.length} characters (less than 500): ${draft.twitter_url}`
+      );
+      continue;
+    }
+
     console.log(draft.twitter_url);
 
     const existingItem = api.find(

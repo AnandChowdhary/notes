@@ -1,16 +1,5 @@
 [
   {
-    "slug": "invisible-ai-drives-workflows",
-    "path": "threads/2025/invisible-ai-drives-workflows.md",
-    "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2025/invisible-ai-drives-workflows.md",
-    "title": "Invisible AI drives workflows",
-    "date": "2025-08-25T00:00:02.411900Z",
-    "excerpt": "AI UX isn't a chat box. The lazy way to \"add AI\" is a text field. The best way is invisible: models doing the work under the hood so users don't have to. @FirstQuadrant ships AI that updates the pipeline, sets tasks, and moves deals forward without asking for permission.",
-    "attributes": {
-      "twitter": "https://x.com/AnandChowdhary/status/1959767687435112549"
-    }
-  },
-  {
     "slug": "openai-platform-plumbing",
     "path": "threads/2025/openai-platform-plumbing.md",
     "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2025/openai-platform-plumbing.md",
