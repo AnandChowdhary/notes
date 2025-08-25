@@ -1,5 +1,38 @@
 [
   {
+    "slug": "invisible-ai-drives-workflows",
+    "path": "threads/2025/invisible-ai-drives-workflows.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2025/invisible-ai-drives-workflows.md",
+    "title": "Invisible AI drives workflows",
+    "date": "2025-08-25T00:00:02.411900Z",
+    "excerpt": "AI UX isn't a chat box. The lazy way to \"add AI\" is a text field. The best way is invisible: models doing the work under the hood so users don't have to. @FirstQuadrant ships AI that updates the pipeline, sets tasks, and moves deals forward without asking for permission.",
+    "attributes": {
+      "twitter": "https://x.com/AnandChowdhary/status/1959767687435112549"
+    }
+  },
+  {
+    "slug": "openai-platform-plumbing",
+    "path": "threads/2025/openai-platform-plumbing.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2025/openai-platform-plumbing.md",
+    "title": "OpenAI platform plumbing",
+    "date": "2025-08-24T15:15:12.801961Z",
+    "excerpt": "Our friends at @OpenAI just collapsed two hard problems - third party data access and state - into platform features. Connectors + Conversations push agent logic from your app's logic into the Responses API. Ship UI and policy, let the platform do the plumbing. 👇",
+    "attributes": {
+      "twitter": "https://x.com/AnandChowdhary/status/1959635561112830447"
+    }
+  },
+  {
+    "slug": "skope-pricing-cross-tenant-verification",
+    "path": "threads/2025/skope-pricing-cross-tenant-verification.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2025/skope-pricing-cross-tenant-verification.md",
+    "title": "Skope pricing cross tenant verification",
+    "date": "2025-08-24T09:45:09.766874Z",
+    "excerpt": "This week I enjoyed @imbensmith and team's launch of Skope (YC S25). The non-obvious part of pricing is treating billing as cross-tenant verification. Outcome pricing works when you can prove results by joining seller events with the buyer's system of record. 💳👇",
+    "attributes": {
+      "twitter": "https://x.com/AnandChowdhary/status/1959552514258538516"
+    }
+  },
+  {
     "slug": "ai-ux-beyond-chat",
     "path": "threads/2025/ai-ux-beyond-chat.md",
     "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2025/ai-ux-beyond-chat.md",
