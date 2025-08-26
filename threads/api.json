@@ -1,5 +1,60 @@
 [
   {
+    "slug": "prompt-injection-in-ai-browsers",
+    "path": "threads/2025/prompt-injection-in-ai-browsers.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2025/prompt-injection-in-ai-browsers.md",
+    "title": "Prompt injection in AI browsers",
+    "date": "2025-08-25T23:15:13.178971Z",
+    "excerpt": "I just read @zack_overflow's thread and Brave's write‑up about prompt injecting AI browsers. The scary bit: an AI browser that collapses SOP so any page becomes a control plane for cross‑origin actions with your cookies. That's a confused deputy sitting in your tab. ⁉️👇",
+    "attributes": {
+      "twitter": "https://x.com/AnandChowdhary/status/1960118746825273560"
+    }
+  },
+  {
+    "slug": "claudeai-code-restraint-and-orchestration",
+    "path": "threads/2025/claudeai-code-restraint-and-orchestration.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2025/claudeai-code-restraint-and-orchestration.md",
+    "title": "ClaudeAI code restraint and orchestration",
+    "date": "2025-08-25T21:15:13.195806Z",
+    "excerpt": "The clever bit in @ClaudeAI Code is restraint. One loop, stateless sub agents, and an explicit todo let interleaved thinking handle orchestration between tool calls. That alignment is the UX win. 👇",
+    "attributes": {
+      "twitter": "https://x.com/AnandChowdhary/status/1960088547740000500"
+    }
+  },
+  {
+    "slug": "static-jsx-in-mdx",
+    "path": "threads/2025/static-jsx-in-mdx.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2025/static-jsx-in-mdx.md",
+    "title": "Static JSX in MDX",
+    "date": "2025-08-25T13:45:13.160839Z",
+    "excerpt": "The smart bit in the piece by Tim Etler of @vetted_ai: Clamp MDX to a static JSX subset and only render allowlisted React components with schema-checked props. Models can place real UI inside streamed markdown. No iframes. Pretty neat. 📝👇",
+    "attributes": {
+      "twitter": "https://x.com/AnandChowdhary/status/1959975301947310230"
+    }
+  },
+  {
+    "slug": "google-gemini-hybrid-reasoning",
+    "path": "threads/2025/google-gemini-hybrid-reasoning.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2025/google-gemini-hybrid-reasoning.md",
+    "title": "Google Gemini hybrid reasoning",
+    "date": "2025-08-25T09:45:12.643873Z",
+    "excerpt": "Skip the \"5 drops of water\" bit, Google just shared production per-prompt telemetry for Gemini and claims 33x energy and 44x carbon cuts in 12 months. Sounds like a full stack push and a new knob I like: hybrid reasoning. 🌳👇",
+    "attributes": {
+      "twitter": "https://x.com/AnandChowdhary/status/1959914901998371262"
+    }
+  },
+  {
+    "slug": "memory-as-a-git-repo",
+    "path": "threads/2025/memory-as-a-git-repo.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2025/memory-as-a-git-repo.md",
+    "title": "Memory as a git repo",
+    "date": "2025-08-25T05:45:09.926948Z",
+    "excerpt": "Found DiffMem by Growth-Kinetics on GitHub and I really like the idea: memory as a git repo. Current knowledge in markdown (I'm a sucker for plain text), history in commits, so an agent works off the now and can jump into diffs when it needs the backstory.",
+    "attributes": {
+      "twitter": "https://x.com/AnandChowdhary/status/1959854505203540185"
+    }
+  },
+  {
     "slug": "openai-platform-plumbing",
     "path": "threads/2025/openai-platform-plumbing.md",
     "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2025/openai-platform-plumbing.md",
