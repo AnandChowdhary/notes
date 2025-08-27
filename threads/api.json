@@ -1,5 +1,49 @@
 [
   {
+    "slug": "password-storage-needs-cost",
+    "path": "threads/2025/password-storage-needs-cost.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2025/password-storage-needs-cost.md",
+    "title": "Password storage needs cost",
+    "date": "2025-08-26T23:15:18.508713Z",
+    "excerpt": "Using algorithms like MD5 is similar to storing plain text passwords because they both make the same mistake: They treat secrets like static strings. Password storage needs cost, not a checksum. Fast hashes let GPUs eat your lunch. 🔐👇",
+    "attributes": {
+      "twitter": "https://x.com/AnandChowdhary/status/1960481133793325559"
+    }
+  },
+  {
+    "slug": "design-as-intent-made-tangible",
+    "path": "threads/2025/design-as-intent-made-tangible.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2025/design-as-intent-made-tangible.md",
+    "title": "Design as intent made tangible",
+    "date": "2025-08-26T21:15:18.497014Z",
+    "excerpt": "Design, to me, is intent made tangible in constraints, systems, and choices people can live with. Call it \"styling\" and you miss the work: aligning purpose and form across time and context. That was my 2013 thesis, and it still guides me. 🎨👇",
+    "attributes": {
+      "twitter": "https://x.com/AnandChowdhary/status/1960450934993207390"
+    }
+  },
+  {
+    "slug": "short-lived-tokens-for-ci",
+    "path": "threads/2025/short-lived-tokens-for-ci.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2025/short-lived-tokens-for-ci.md",
+    "title": "Short lived tokens for CI",
+    "date": "2025-08-26T15:15:01.737407Z",
+    "excerpt": "I've been moving more of my CI to GitHub Apps instead of PATs, and this GitHub Actions workflow tool by @qoomon1 that mindset: It mints temporary tokens in workflows with least privilege by default. No more forever secrets, about time!\n\nHighlights: Short lived tokens scoped to an installation. Granular permissions from your App. Works on GitHub hosted and self hosted runners. Great for cross repo and org automation without handing out PATs.\n\nHow it works: It uses the GitHub App flow. Create a JWT, exchange it for an installation access token, then the action exposes it to your steps. You add App credentials as secrets and rotate them when needed. Nothing long lived baked into the repo or runners.\n\nWhy I'm into it: Fewer long-lived secrets, tighter scopes, quick revoke and audit. TypeScript, ~138 stars, focused scope.\n\nIf you're modernizing CI security, this is an easy drop in (my security brain is happy): https://github.com/qoomon/actions--access-token",
+    "attributes": {
+      "twitter": "https://x.com/AnandChowdhary/status/1960360339780071737"
+    }
+  },
+  {
+    "slug": "boring-is-a-strategy",
+    "path": "threads/2025/boring-is-a-strategy.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2025/boring-is-a-strategy.md",
+    "title": "Boring is a strategy",
+    "date": "2025-08-26T09:45:13.460672Z",
+    "excerpt": "I literally read @sjgoedecke's API design post and kept nodding. The big takeaway for me: boring is a strategy. Ship stable, familiar shapes so users think less and do more. The hard work is change management, not REST vs GraphQL...",
+    "attributes": {
+      "twitter": "https://x.com/AnandChowdhary/status/1960277294439940545"
+    }
+  },
+  {
     "slug": "prompt-injection-in-ai-browsers",
     "path": "threads/2025/prompt-injection-in-ai-browsers.md",
     "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2025/prompt-injection-in-ai-browsers.md",
