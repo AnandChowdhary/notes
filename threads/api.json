@@ -1,5 +1,49 @@
 [
   {
+    "slug": "realtime-data-sync-for-postgres",
+    "path": "threads/2025/realtime-data-sync-for-postgres.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2025/realtime-data-sync-for-postgres.md",
+    "title": "Realtime data sync for Postgres",
+    "date": "2025-08-27T23:15:01.159925Z",
+    "excerpt": "Sharing a neat one for folks who live in Postgres land: @ElectricSQL is a real time sync engine that pushes data out over plain HTTP. Postgres stays the source of truth while Electric handles partial replication and fan out. I have built this glue before. I would rather not again.\n\nInstead of wiring changefeeds and socket servers, you describe the data you need and it fans out to browsers, mobile, and edge stores.\n\nGreat fit for local first UIs, realtime dashboards, multi region apps, and AI agents on live data.\n\nWhat sold me: Clean HTTP and OpenAPI surface, quick Docker Compose start, Elixir and Erlang reliability, and a 1.0 release in March. Also 9k stars is a nice signal.\n\nIf Postgres is your source of truth and you want realtime without bespoke plumbing, start here: https://github.com/electric-sql/electric",
+    "attributes": {
+      "twitter": "https://x.com/AnandChowdhary/status/1960843521252012345"
+    }
+  },
+  {
+    "slug": "openai-stateful-responses-bet",
+    "path": "threads/2025/openai-stateful-responses-bet.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2025/openai-stateful-responses-bet.md",
+    "title": "OpenAI stateful responses bet",
+    "date": "2025-08-27T15:15:14.586438Z",
+    "excerpt": "Folding Assistants into a stateful Responses API by @OpenAI feels less like cleanup and more like a bet: Agent loops want durable, tool-aware state and standard I/O. The cheaper search moves the cost line for retrieval heavy agents. I'm here for it. 👇",
+    "attributes": {
+      "twitter": "https://x.com/AnandChowdhary/status/1960722732301348971"
+    }
+  },
+  {
+    "slug": "new-baseline-for-image-edits",
+    "path": "threads/2025/new-baseline-for-image-edits.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2025/new-baseline-for-image-edits.md",
+    "title": "New baseline for image edits",
+    "date": "2025-08-27T13:45:14.101220Z",
+    "excerpt": "The fun part of nano banana is that the identity preserving, instruction following, multi-image edits are finally good enough to ship as default. Google just put it in Gemini 2.5 Flash Image Preview. That feels like a new baseline. 🍌👇",
+    "attributes": {
+      "twitter": "https://x.com/AnandChowdhary/status/1960700080861962670"
+    }
+  },
+  {
+    "slug": "the-promise-behind-intel-stake",
+    "path": "threads/2025/the-promise-behind-intel-stake.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2025/the-promise-behind-intel-stake.md",
+    "title": "The promise behind Intel stake",
+    "date": "2025-08-27T05:45:12.858209Z",
+    "excerpt": "The promise - that's what @benthompson talks about in the new piece \"U.S. Intel\" - a 10% 🇺🇸 stake in @Intel is a commitment device to break the standoff: buyers won't risk 14A without certainty, and Intel won't fund 14A without them. 👇",
+    "attributes": {
+      "twitter": "https://x.com/AnandChowdhary/status/1960579280079085622"
+    }
+  },
+  {
     "slug": "password-storage-needs-cost",
     "path": "threads/2025/password-storage-needs-cost.md",
     "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2025/password-storage-needs-cost.md",
