@@ -1,5 +1,38 @@
 [
   {
+    "slug": "filterql-for-structured-data",
+    "path": "threads/2025/filterql-for-structured-data.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2025/filterql-for-structured-data.md",
+    "title": "FilterQL for structured data",
+    "date": "2025-08-28T21:15:01.144212Z",
+    "excerpt": "Been playing with FilterQL, a tiny TypeScript query language for structured data. I like when filtering reads like plain logic. This works: (genre == Action || genre == Comedy) && rating >= 8.5 | SORT rating desc. One expression, no if-else soup.\n\nDetails I enjoy: schema defines allowed fields and aliases, logical ops () ! && ||, comparisons == != >= <= plus *= ^= $= ~= for strings and regex, boolean shorthand like monitored, and a built in SORT field asc or desc. Thoughtful and practical.\n\nSetup is simple. Define a schema, new FilterQL({ schema }), then filter(data, query). Great for CLIs, dashboards, and APIs where users type filters. Fewer hand rolled predicates scattered around. Future me says thanks.\n\nSmall and focused with a clear language spec and a clean API. If you want user friendly filtering without going full database query language, this hits a sweet spot: https://github.com/adamhl8/filterql",
+    "attributes": {
+      "twitter": "https://x.com/AnandChowdhary/status/1961175710149873795"
+    }
+  },
+  {
+    "slug": "openai-unifies-assistants-into-workflows",
+    "path": "threads/2025/openai-unifies-assistants-into-workflows.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2025/openai-unifies-assistants-into-workflows.md",
+    "title": "OpenAI unifies assistants into workflows",
+    "date": "2025-08-28T15:15:17.252822Z",
+    "excerpt": "OpenAI folded Assistants into one Responses API. Less deprecation, more spring cleaning - state, tools, and reasoning are now one primitive tuned for agent style multi step work. Think workflows, not chat. 🔄👇",
+    "attributes": {
+      "twitter": "https://x.com/AnandChowdhary/status/1961085144271671579"
+    }
+  },
+  {
+    "slug": "architecture-over-elo-for-builders",
+    "path": "threads/2025/architecture-over-elo-for-builders.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2025/architecture-over-elo-for-builders.md",
+    "title": "Architecture over Elo for builders",
+    "date": "2025-08-28T09:45:12.615633Z",
+    "excerpt": "Nano-banana tops the charts, sure - but the bigger deal is @Google folding image gen and editing into the same flow with token metering, a conversational loop, and scripts. Architecture over Elo. That is the story for builders.",
+    "attributes": {
+      "twitter": "https://x.com/AnandChowdhary/status/1961002077876015424"
+    }
+  },
+  {
     "slug": "realtime-data-sync-for-postgres",
     "path": "threads/2025/realtime-data-sync-for-postgres.md",
     "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2025/realtime-data-sync-for-postgres.md",
