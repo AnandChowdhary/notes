@@ -1,5 +1,49 @@
 [
   {
+    "slug": "codex-unifies-the-workflow",
+    "path": "threads/2025/codex-unifies-the-workflow.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2025/codex-unifies-the-workflow.md",
+    "title": "Codex unifies the workflow",
+    "date": "2025-08-29T21:15:12.930836Z",
+    "excerpt": "Codex is more than the model - it fuses IDE, terminal, cloud sandboxes, GitHub PRs, and your phone into one identity backed agent. A land grab across the workflow, from pair programming to CI. 👇",
+    "attributes": {
+      "twitter": "https://x.com/AnandChowdhary/status/1961538098896204032"
+    }
+  },
+  {
+    "slug": "inputs-cheaper-than-outputs",
+    "path": "threads/2025/inputs-cheaper-than-outputs.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2025/inputs-cheaper-than-outputs.md",
+    "title": "Inputs cheaper than outputs",
+    "date": "2025-08-29T13:45:07.890981Z",
+    "excerpt": "Reading @martinald on inference costs and the instinct is right: inputs are cheaper than outputs. The 1,000x spread hangs on a memory bound prefill though. On real H100 or H200 MoE stacks I see closer to 2 to 5x. Good piece, just needs a tighter bottleneck model.",
+    "attributes": {
+      "twitter": "https://x.com/AnandChowdhary/status/1961424854936424663"
+    }
+  },
+  {
+    "slug": "the-homescreen-as-platform",
+    "path": "threads/2025/the-homescreen-as-platform.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2025/the-homescreen-as-platform.md",
+    "title": "The homescreen as platform",
+    "date": "2025-08-29T09:45:13.457906Z",
+    "excerpt": "I keep circling this idea from my notes: the homescreen is not wallpaper, it is a platform. Whoever owns the first swipe sets defaults for attention, intent, and revenue. I'm revisiting a 2017 thought about making a Facebook Home-style layer. 🏠👇",
+    "attributes": {
+      "twitter": "https://x.com/AnandChowdhary/status/1961364457441120449"
+    }
+  },
+  {
+    "slug": "event-imports-are-live",
+    "path": "threads/2025/event-imports-are-live.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2025/event-imports-are-live.md",
+    "title": "Event imports are live",
+    "date": "2025-08-29T05:45:13.492115Z",
+    "excerpt": "Week 34 at @FirstQuadrant: Event imports are live. Pipe external events from your tools into contact timelines, and we'll reason on them to set context and follow‑ups. Each is tagged \"external event,\" so you can see what happened and why a task exists. 🔌👇",
+    "attributes": {
+      "twitter": "https://x.com/AnandChowdhary/status/1961304059396411682"
+    }
+  },
+  {
     "slug": "filterql-for-structured-data",
     "path": "threads/2025/filterql-for-structured-data.md",
     "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2025/filterql-for-structured-data.md",
