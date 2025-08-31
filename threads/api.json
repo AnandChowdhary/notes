@@ -1,5 +1,27 @@
 [
   {
+    "slug": "pronouns-decide-product-voice",
+    "path": "threads/2025/pronouns-decide-product-voice.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2025/pronouns-decide-product-voice.md",
+    "title": "Pronouns decide product voice",
+    "date": "2025-08-30T21:15:12.561308Z",
+    "excerpt": "My take after reading the great @adamsilverhq: \"My\" vs \"Your\" sets the product's point of view. Pronouns decide who's talking and who owns the data. Get that wrong and nav, support copy, and i18n go sideways.",
+    "attributes": {
+      "twitter": "https://x.com/AnandChowdhary/status/1961900485507678574"
+    }
+  },
+  {
+    "slug": "constraints-shape-the-architecture",
+    "path": "threads/2025/constraints-shape-the-architecture.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2025/constraints-shape-the-architecture.md",
+    "title": "Constraints shape the architecture",
+    "date": "2025-08-30T13:45:09.641473Z",
+    "excerpt": "Pre- Flexbox and CSS Grid, equal height cards in a responsive grid meant floats, clearfix, and a bit of JS. On Dec 25, 2015 I shipped One Grid, under 1 KB, for fixed-height infinite blocks. Christmas day hack, yes really. The quiet lesson: constraints pick the architecture. 📐👇",
+    "attributes": {
+      "twitter": "https://x.com/AnandChowdhary/status/1961787239169683563"
+    }
+  },
+  {
     "slug": "codex-unifies-the-workflow",
     "path": "threads/2025/codex-unifies-the-workflow.md",
     "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2025/codex-unifies-the-workflow.md",
