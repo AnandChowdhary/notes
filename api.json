@@ -1148,7 +1148,7 @@
     "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2019/ara-people-database.md",
     "title": "Ara: People database to match emails...",
     "date": "2019-04-04T07:59:05.000Z",
-    "excerpt": "Ara: People database to match emails with humans, use things like &#x66;&#105;&#114;&#115;&#116;&#45;&#x6c;&#101;&#116;&#x74;&#101;&#114;&#x2e;&#x6c;&#97;&#x73;&#116;&#110;&#x61;&#x6d;&#101;&#64;&#101;&#x78;&#x61;&#x6d;&#x70;&#108;&#x65;&#x2e;&#x63;&#x6f;&#x6d; for names in emails, plus Clearbit APIs. Then we can have Slack Ara too who understands @anand means my email",
+    "excerpt": "Ara: People database to match emails with humans, use things like &#x66;&#x69;&#x72;&#115;&#x74;&#45;&#x6c;&#x65;&#x74;&#x74;&#101;&#114;&#x2e;&#x6c;&#x61;&#x73;&#x74;&#110;&#97;&#x6d;&#101;&#x40;&#x65;&#120;&#x61;&#x6d;&#x70;&#x6c;&#101;&#46;&#99;&#x6f;&#x6d; for names in emails, plus Clearbit APIs. Then we can have Slack Ara too who understands @anand means my email",
     "attributes": {}
   },
   {
@@ -2013,6 +2013,15 @@
     "title": "There are two physical devices with...",
     "date": "2025-08-14T10:44:26.000Z",
     "excerpt": "There are two physical devices with AI that I use every single day. RayBan Meta Smart Glasses and Limitless pendant. I am surprised at how quickly we went from LLMs being invented a few years ago to real physical devices that I wear every single day.",
+    "attributes": {}
+  },
+  {
+    "slug": "the-ux-of-ai-is-invisible.md",
+    "path": "notes/2025/the-ux-of-ai-is-invisible.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2025/the-ux-of-ai-is-invisible.md",
+    "title": "The UX of AI is invisible....",
+    "date": "2025-09-01T08:49:25.000Z",
+    "excerpt": "The UX of AI is invisible. I've been thinking about why I'm not a fan of the chat interface as the primary mode of AI, and I think I have an answer. Voice helps, but the pattern is still you go to the AI to ask it something, and it responds to you. I actually think at @firstquadrant we have a unique insight - which is that AI runs based on external triggers. That is the key difference from assigning a Linear issue to Cursor Agents - it's proactive, not reactive.",
     "attributes": {}
   }
 ]

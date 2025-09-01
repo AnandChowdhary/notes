@@ -13,10 +13,11 @@ This repository contains quick notes that I've made, including ideas for future 
 
 ## 🌯 Summary
 
-- 224 notes in 8 years
+- 225 notes in 8 years
 
 ### 2025
 
+- [The UX of AI is invisible....](./notes/2025/the-ux-of-ai-is-invisible.md)
 - [There are two physical devices with...](./notes/2025/there-are-two-physical-devices-with-ai-that-i-use.md)
 
 ### 2022
