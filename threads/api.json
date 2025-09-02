@@ -1,5 +1,38 @@
 [
   {
+    "slug": "high-school-password-manager-recollection",
+    "path": "threads/2025/high-school-password-manager-recollection.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2025/high-school-password-manager-recollection.md",
+    "title": "High school password manager recollection",
+    "date": "2025-09-01T21:15:13.074159Z",
+    "excerpt": "In 2016, for my high school CS project, I wrote a tiny C++ CLI password manager. One binary file, strings only encoded (not encrypted), and a \"master password\" that mostly gated the UI. Looking back is equal parts cringe and useful. 🔑👇",
+    "attributes": {
+      "twitter": "https://x.com/AnandChowdhary/status/1962625262413324692"
+    }
+  },
+  {
+    "slug": "typing-on-glass-reveals-intent",
+    "path": "threads/2025/typing-on-glass-reveals-intent.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2025/typing-on-glass-reveals-intent.md",
+    "title": "Typing on glass reveals intent",
+    "date": "2025-09-01T13:45:12.870333Z",
+    "excerpt": "Typing on glass is not target practice. It is intent inference. Fleksy taught me that in 2014, and the idea aged well from geometric decoding to small on device LMs. ⌨️👇",
+    "attributes": {
+      "twitter": "https://x.com/AnandChowdhary/status/1962512016524128353"
+    }
+  },
+  {
+    "slug": "always-on-ai-agent",
+    "path": "threads/2025/always-on-ai-agent.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2025/always-on-ai-agent.md",
+    "title": "Always on AI agent",
+    "date": "2025-09-01T09:45:16.024130Z",
+    "excerpt": "I keep coming back to this: the UX of AI is invisible. Not a chat box, but an always on-agent that responds to the world. Chat or voice is pull. Triggers are push. When mail, calendar, or CRM change, it acts - that shift is what we're building at @firstquadrant 🤖👇",
+    "attributes": {
+      "twitter": "https://x.com/AnandChowdhary/status/1962451644358230354"
+    }
+  },
+  {
     "slug": "pronouns-decide-product-voice",
     "path": "threads/2025/pronouns-decide-product-voice.md",
     "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2025/pronouns-decide-product-voice.md",
