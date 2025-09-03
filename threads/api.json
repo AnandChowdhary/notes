@@ -1,5 +1,16 @@
 [
   {
+    "slug": "config-driven-issue-labeling",
+    "path": "threads/2025/config-driven-issue-labeling.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2025/config-driven-issue-labeling.md",
+    "title": "Config driven issue labeling",
+    "date": "2025-09-02T09:45:11.736521Z",
+    "excerpt": "Found a neat GitHub Action that auto-assesses GitHub issues with an AI model and adds clean, standardized labels. I like the approach a lot: prompt files plus a label-to-prompt mapping, so it stays configuration driven instead of more custom code.",
+    "attributes": {
+      "twitter": "https://x.com/AnandChowdhary/status/1962814013831815424"
+    }
+  },
+  {
     "slug": "high-school-password-manager-recollection",
     "path": "threads/2025/high-school-password-manager-recollection.md",
     "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2025/high-school-password-manager-recollection.md",
