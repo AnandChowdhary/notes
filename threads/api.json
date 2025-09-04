@@ -1,5 +1,38 @@
 [
   {
+    "slug": "agent-integration-as-protocol",
+    "path": "threads/2025/agent-integration-as-protocol.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2025/agent-integration-as-protocol.md",
+    "title": "Agent integration as protocol",
+    "date": "2025-09-03T23:15:12.895654Z",
+    "excerpt": "It's fantastic that we got Claude Code in @zeddotdev, which is treating agent integration as a protocol:\n- LSP split language brains from IDEs\n- MCP split external data and tools from hardwiring\n- ACP will split agent UX from model and tool lock-in",
+    "attributes": {
+      "twitter": "https://x.com/AnandChowdhary/status/1963380236814618660"
+    }
+  },
+  {
+    "slug": "memory-as-enterprise-control-plane",
+    "path": "threads/2025/memory-as-enterprise-control-plane.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2025/memory-as-enterprise-control-plane.md",
+    "title": "Memory as enterprise control plane",
+    "date": "2025-09-03T15:15:13.788243Z",
+    "excerpt": "What caught my eye in Le Chat is the bet on MCP + user-governed, persistent Memory as the enterprise control plane. The race moves from model QoS to policy, observability, and trust across SaaS actions.",
+    "attributes": {
+      "twitter": "https://x.com/AnandChowdhary/status/1963259444990746774"
+    }
+  },
+  {
+    "slug": "anthropic-developer-stack-drives-revenue",
+    "path": "threads/2025/anthropic-developer-stack-drives-revenue.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2025/anthropic-developer-stack-drives-revenue.md",
+    "title": "Anthropic developer stack drives revenue",
+    "date": "2025-09-03T13:45:17.342221Z",
+    "excerpt": "The $13B helps but it is coding PMF + distribution that turned model gains into revenue. @AnthropicAI's wedge is a developer stack, not a chatbot. Claude Code, IDE integrations like Copilot, and MCP convert upgrades into billable time.",
+    "attributes": {
+      "twitter": "https://x.com/AnandChowdhary/status/1963236810408284647"
+    }
+  },
+  {
     "slug": "config-driven-issue-labeling",
     "path": "threads/2025/config-driven-issue-labeling.md",
     "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2025/config-driven-issue-labeling.md",
