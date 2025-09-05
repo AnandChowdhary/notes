@@ -1,5 +1,49 @@
 [
   {
+    "slug": "base-ui-for-accessible-components",
+    "path": "threads/2025/base-ui-for-accessible-components.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2025/base-ui-for-accessible-components.md",
+    "title": "Base UI for accessible components",
+    "date": "2025-09-04T21:15:01.740222Z",
+    "excerpt": "Been playing with Base UI from the MUI folks: Unstyled, accessibility-first React bits from the people behind Radix, Floating UI, and Material UI. I like that I can plug in my tokens and not fight default styles.\n\nWhat hooked me is the WAI-ARIA focused primitives. I bring Tailwind or CSS in JS, and Base UI handles behavior, keyboard support, and the accessibility semantics (yes, please). The TypeScript types make it hard to wire things wrong.\n\nThe team is a fun mashup: Radix a11y rigor, Floating UI positioning smarts, and MUI component craft. I get headless building blocks to compose buttons, menus, comboboxes, dialogs. No theme lock in.\n\nI would be surprised if this doesn't become the default over Radix on @shadcn UI once it reaches 1.0.\n\nIf you are shipping a product or a design system, this gives you a consistent behavior layer, sensible a11y defaults, and a clean React API. TypeScript, MIT license, and solid docs.\n\nCheck it out: https://github.com/mui/base-ui",
+    "attributes": {
+      "twitter": "https://x.com/AnandChowdhary/status/1963712427545207126"
+    }
+  },
+  {
+    "slug": "benchmark-iq-vs-real-work",
+    "path": "threads/2025/benchmark-iq-vs-real-work.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2025/benchmark-iq-vs-real-work.md",
+    "title": "Benchmark IQ vs real work",
+    "date": "2025-09-04T15:15:14.587740Z",
+    "excerpt": "I'm seeing agentic evals split \"benchmark IQ\" from actually getting work done. On real tools and long tasks, top models still faceplant. Headline scores don't map to reliability, and bolting on more tools can even make policies worse.",
+    "attributes": {
+      "twitter": "https://x.com/AnandChowdhary/status/1963621836065050837"
+    }
+  },
+  {
+    "slug": "designing-a-flexible-crm-schema",
+    "path": "threads/2025/designing-a-flexible-crm-schema.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2025/designing-a-flexible-crm-schema.md",
+    "title": "Designing a flexible crm schema",
+    "date": "2025-09-04T12:32:21.520720Z",
+    "excerpt": "Today I went down a rabbit-hole thinking about how to build a flexible CRM on top of Postgres. Most CRMs lock you into rigid tables (contacts, deals, etc.If you want users to define their own record types, custom fields, and relations, you need a different schema design. 💽👇",
+    "attributes": {
+      "twitter": "https://x.com/AnandChowdhary/status/1963580821362905549"
+    }
+  },
+  {
+    "slug": "agent-driven-workflow-in-terminal",
+    "path": "threads/2025/agent-driven-workflow-in-terminal.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2025/agent-driven-workflow-in-terminal.md",
+    "title": "Agent driven workflow in terminal",
+    "date": "2025-09-04T09:45:10.347661Z",
+    "excerpt": "Congrats @zachlloydtweets on launching Warp Code - looks solid! The real move is changing the unit of work from manual edits to an agent run pipeline with permissions, concurrency, and steering UI inside the terminal. That is much harder to race to the bottom with tokens!",
+    "attributes": {
+      "twitter": "https://x.com/AnandChowdhary/status/1963538783305187417"
+    }
+  },
+  {
     "slug": "agent-integration-as-protocol",
     "path": "threads/2025/agent-integration-as-protocol.md",
     "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2025/agent-integration-as-protocol.md",
