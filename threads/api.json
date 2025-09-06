@@ -1,5 +1,49 @@
 [
   {
+    "slug": "openapi-to-mcp-server",
+    "path": "threads/2025/openapi-to-mcp-server.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2025/openapi-to-mcp-server.md",
+    "title": "OpenAPI to MCP server",
+    "date": "2025-09-05T21:15:09.803860Z",
+    "excerpt": "I've been tinkering with MCP tooling lately, and this is neat. openapi-mcp-generator turns any OpenAPI 3.0+ spec into an MCP server. My favorite bit is that it generates a typed Node proxy so agents can call your existing REST API safely.",
+    "attributes": {
+      "twitter": "https://x.com/AnandChowdhary/status/1964074813292745016"
+    }
+  },
+  {
+    "slug": "rolldown-the-rust-bundler",
+    "path": "threads/2025/rolldown-the-rust-bundler.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2025/rolldown-the-rust-bundler.md",
+    "title": "Rolldown the Rust bundler",
+    "date": "2025-09-05T13:45:10.178295Z",
+    "excerpt": "Rolldown caught my eye today. It's a Rust-powered bundler for JavaScript and TypeScript with a Rollup-compatible API, aiming to be Vite's future bundler. Familiar ergonomics with a scope closer to esbuild. Fast where it matters, familiar where you want it. I like that combo.",
+    "attributes": {
+      "twitter": "https://x.com/AnandChowdhary/status/1963961568775057697"
+    }
+  },
+  {
+    "slug": "read-aloud-ux-and-timing",
+    "path": "threads/2025/read-aloud-ux-and-timing.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2025/read-aloud-ux-and-timing.md",
+    "title": "Read aloud UX and timing",
+    "date": "2025-09-05T09:45:12.992433Z",
+    "excerpt": "Read‑aloud UX lives in the link between stable sentence breaks and the highlight you see. Breaks go off, you lose context. Timing goes off, the highlight lies. That simple idea drove a lot of my work on follow‑along reading. 📖👇",
+    "attributes": {
+      "twitter": "https://x.com/AnandChowdhary/status/1963901170348626306"
+    }
+  },
+  {
+    "slug": "hubspot-bcc-logging-goes-live",
+    "path": "threads/2025/hubspot-bcc-logging-goes-live.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2025/hubspot-bcc-logging-goes-live.md",
+    "title": "HubSpot bcc logging goes live",
+    "date": "2025-09-05T05:45:12.812103Z",
+    "excerpt": "This week at @FirstQuadrant: HubSpot BCC email logging is live. I've wanted this one for a while. Connect HubSpot and we auto‑BCC outgoing emails from connected mailboxes so every convo lands in your CRM and deal timelines stay tidy. Week 35, 2025. 📧👇",
+    "attributes": {
+      "twitter": "https://x.com/AnandChowdhary/status/1963840771993551289"
+    }
+  },
+  {
     "slug": "base-ui-for-accessible-components",
     "path": "threads/2025/base-ui-for-accessible-components.md",
     "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2025/base-ui-for-accessible-components.md",
