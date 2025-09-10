@@ -1,5 +1,60 @@
 [
   {
+    "slug": "skip-the-beacon-for-privacy",
+    "path": "threads/2025/skip-the-beacon-for-privacy.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2025/skip-the-beacon-for-privacy.md",
+    "title": "Skip the beacon for privacy",
+    "date": "2025-09-09T23:15:16.180249Z",
+    "excerpt": "In 2017 I had a simple take: skip the beacon. If your live chat or accessibility widget loads, the server already saw it, so count the visit there by logging user agent and coarse IP. Less JS, lower latency, fewer identifiers. Good for speed, good for privacy. 📊👇",
+    "attributes": {
+      "twitter": "https://x.com/AnandChowdhary/status/1965554566663209317"
+    }
+  },
+  {
+    "slug": "veo-3-api-and-pricing",
+    "path": "threads/2025/veo-3-api-and-pricing.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2025/veo-3-api-and-pricing.md",
+    "title": "Veo 3 API and pricing",
+    "date": "2025-09-09T21:15:14.796764Z",
+    "excerpt": "Veo 3 is GA: $0.40/s main and $0.15/s Fast, 1080p, native 9:16 on Veo 3, single pass audio plus video, and an API.\n\nTranslation: cheaper programmatic ads and social at scale.\n\nWith Sora still no API, Veo just grabbed developer mindshare.",
+    "attributes": {
+      "twitter": "https://x.com/AnandChowdhary/status/1965524373449949437"
+    }
+  },
+  {
+    "slug": "stateful-agents-replace-stateless-chat",
+    "path": "threads/2025/stateful-agents-replace-stateless-chat.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2025/stateful-agents-replace-stateless-chat.md",
+    "title": "Stateful agents replace stateless chat",
+    "date": "2025-09-09T09:45:13.626113Z",
+    "excerpt": "Skip the shiny \"branches\" and \"new endpoint\" chatter - the move is from stateless chat to stateful, tool‑grounded agent loops.\n\nBranching in @ChatGPTapp + a Responses‑first SDK makes server state the default.",
+    "attributes": {
+      "twitter": "https://x.com/AnandChowdhary/status/1965350724705116347"
+    }
+  },
+  {
+    "slug": "rethinking-education-platforms",
+    "path": "threads/2025/rethinking-education-platforms.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2025/rethinking-education-platforms.md",
+    "title": "Rethinking education platforms",
+    "date": "2025-09-08T23:15:13.627327Z",
+    "excerpt": "In 2014, as an Indian student I thought a single place could fix education. Spoiler: it's harder. Platforms rarely fail because content is missing. They stumble on discovery, incentives, and trust. 10 yr on, the real work looks like protocols, governance, and portability. 🎓👇",
+    "attributes": {
+      "twitter": "https://x.com/AnandChowdhary/status/1965192178986275021"
+    }
+  },
+  {
+    "slug": "rocm-tests-quarantined-hide-regressions",
+    "path": "threads/2025/rocm-tests-quarantined-hide-regressions.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2025/rocm-tests-quarantined-hide-regressions.md",
+    "title": "ROCm tests quarantined hide regressions",
+    "date": "2025-09-08T09:45:14.050697Z",
+    "excerpt": "Headline isn't \"ROCm flaked.\" It's skip debt. PyTorch's ROCm path quarantined core tests across kernels and compilers, so CI stays green while regressions pile up. Fresh paint, cracked wall. That's an ecosystem trust leak.",
+    "attributes": {
+      "twitter": "https://x.com/AnandChowdhary/status/1964988338689216696"
+    }
+  },
+  {
     "slug": "zomato-android-redesign-holds-up",
     "path": "threads/2025/zomato-android-redesign-holds-up.md",
     "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2025/zomato-android-redesign-holds-up.md",
