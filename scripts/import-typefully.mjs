@@ -1,6 +1,12 @@
 import { NodeHtmlMarkdown } from "node-html-markdown";
 import { mkdir, readFile, writeFile } from "node:fs/promises";
 
+// Helper function to escape HTML-like content that should be treated as literal text
+const escapeNonHtmlTags = (html) => {
+  // Escape tags with dots (like <emory.get>) which are not valid HTML tags
+  return html.replace(/<([^>\s]*\.[^>]*?)>/g, '&lt;$1&gt;');
+};
+
 const generateTitle = async (text, examples) => {
   const token = process.env.OPENAI_API_KEY;
   const model = "gpt-5-nano";
@@ -72,7 +78,7 @@ const data = async () => {
   for (const draft of data) {
     if (!draft.twitter_url) continue;
 
-    const threadContent = NodeHtmlMarkdown.translate(draft.html);
+    const threadContent = NodeHtmlMarkdown.translate(escapeNonHtmlTags(draft.html));
     if (threadContent.length < 500) {
       console.log(
         `Skipping thread with ${threadContent.length} characters (less than 500): ${draft.twitter_url}`
@@ -115,7 +121,7 @@ date: ${new Date(draft.published_on).toISOString()}
 url: ${draft.twitter_url}
 ---
 
-${NodeHtmlMarkdown.translate(draft.html)}\n`
+${NodeHtmlMarkdown.translate(escapeNonHtmlTags(draft.html))}\n`
     );
 
     await writeFile(
