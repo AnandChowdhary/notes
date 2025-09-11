@@ -1,5 +1,27 @@
 [
   {
+    "slug": "mac-llm-prefill-boost",
+    "path": "threads/2025/mac-llm-prefill-boost.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2025/mac-llm-prefill-boost.md",
+    "title": "Mac llm prefill boost",
+    "date": "2025-09-10T13:45:10.798021Z",
+    "excerpt": "I’m a big fan of the new iPhone Air but not because of 5.6 mm or titanium - for the A19 Pro's GPU: each GPU core has a built in Neural Accelerator. If this lands in M series, local LLM prefill on Macs could get a big boost.",
+    "attributes": {
+      "twitter": "https://x.com/AnandChowdhary/status/1965773510258860457"
+    }
+  },
+  {
+    "slug": "npm-breach-reveals-transitive-risk",
+    "path": "threads/2025/npm-breach-reveals-transitive-risk.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2025/npm-breach-reveals-transitive-risk.md",
+    "title": "Npm breach reveals transitive risk",
+    "date": "2025-09-10T05:45:12.826718Z",
+    "excerpt": "Reading Xe Iaso's write-up on the npm compromise. A maintainer ATO on \"harmless\" transitive libs like chalk/debug, which I've used in almost every CLI I've shipped, could have become an API key vacuum. The browser-only payload kept the blast small. We got lucky. 👇",
+    "attributes": {
+      "twitter": "https://x.com/AnandChowdhary/status/1965652711128601026"
+    }
+  },
+  {
     "slug": "skip-the-beacon-for-privacy",
     "path": "threads/2025/skip-the-beacon-for-privacy.md",
     "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2025/skip-the-beacon-for-privacy.md",
