@@ -1,5 +1,16 @@
 [
   {
+    "slug": "mcp-graduation-and-interop-updates",
+    "path": "threads/2025/mcp-graduation-and-interop-updates.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2025/mcp-graduation-and-interop-updates.md",
+    "title": "MCP graduation and interop updates",
+    "date": "2025-09-11T09:45:18.421989Z",
+    "excerpt": "MCP just graduated. OpenAI agents can call remote MCP tools with write actions, Anthropic launched an MCP Registry (preview), and Claude added constrained web_fetch. Interop drops N^2 integrations to N+M with scopes and approvals.",
+    "attributes": {
+      "twitter": "https://x.com/AnandChowdhary/status/1966075497072439503"
+    }
+  },
+  {
     "slug": "mac-llm-prefill-boost",
     "path": "threads/2025/mac-llm-prefill-boost.md",
     "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2025/mac-llm-prefill-boost.md",
