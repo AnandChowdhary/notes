@@ -1,5 +1,16 @@
 [
   {
+    "slug": "hubspot-deal-sync-preview",
+    "path": "threads/2025/hubspot-deal-sync-preview.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2025/hubspot-deal-sync-preview.md",
+    "title": "HubSpot deal sync preview",
+    "date": "2025-09-12T13:45:13.494010Z",
+    "excerpt": "This week at @FirstQuadrant we shipped HubSpot deal sync (feature preview). Automatic two way updates so your pipeline stays in step. Week 36, Sep 1 to 7, 2025. 🔄👇",
+    "attributes": {
+      "twitter": "https://x.com/AnandChowdhary/status/1966498285381984468"
+    }
+  },
+  {
     "slug": "mcp-graduation-and-interop-updates",
     "path": "threads/2025/mcp-graduation-and-interop-updates.md",
     "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2025/mcp-graduation-and-interop-updates.md",
