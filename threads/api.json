@@ -1,5 +1,16 @@
 [
   {
+    "slug": "android-openness-and-library-limits",
+    "path": "threads/2025/android-openness-and-library-limits.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2025/android-openness-and-library-limits.md",
+    "title": "Android openness and library limits",
+    "date": "2025-09-13T13:45:15.077025Z",
+    "excerpt": "I wrote a short note in 2017 after yet another late night battle with e-books on Android. My takeaway still stands. Android is open, your library is not. Formats, DRM, and rendering engines still decide what you can read, annotate, and keep. That's the real stake for readers and for libraries that need access and preservation. 📚👇",
+    "attributes": {
+      "twitter": "https://x.com/AnandChowdhary/status/1966860679710937489"
+    }
+  },
+  {
     "slug": "hubspot-deal-sync-preview",
     "path": "threads/2025/hubspot-deal-sync-preview.md",
     "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2025/hubspot-deal-sync-preview.md",
