@@ -1,5 +1,38 @@
 [
   {
+    "slug": "hardware-meets-software-context",
+    "path": "threads/2025/hardware-meets-software-context.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2025/hardware-meets-software-context.md",
+    "title": "Hardware meets software context",
+    "date": "2025-09-15T21:15:12.476026Z",
+    "excerpt": "Convergence starts with hardware, but the real work is software meeting context. \"Replace your laptop\" means files you can reach, input that fits the task, true windowing, sustained performance, and toolchains that match how people actually work. 💻👇",
+    "attributes": {
+      "twitter": "https://x.com/AnandChowdhary/status/1967698691315339749"
+    }
+  },
+  {
+    "slug": "naming-self-driving-cars",
+    "path": "threads/2025/naming-self-driving-cars.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2025/naming-self-driving-cars.md",
+    "title": "Naming self driving cars",
+    "date": "2025-09-15T13:45:13.056217Z",
+    "excerpt": "Names set expectations and liability. In 2017 I scribbled a note to myself: \"the name for self driving cars: autos.\" Eight years later we mostly say AVs, ADS, and robotaxis. Auto did not stick. The interesting part is why, and what good names actually do. 🚗👇",
+    "attributes": {
+      "twitter": "https://x.com/AnandChowdhary/status/1967585447372366272"
+    }
+  },
+  {
+    "slug": "self-syncing-encoding-idea",
+    "path": "threads/2025/self-syncing-encoding-idea.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2025/self-syncing-encoding-idea.md",
+    "title": "Self syncing encoding idea",
+    "date": "2025-09-15T09:45:12.893551Z",
+    "excerpt": "Read @vishnuhx's piece and nodded a lot. The clever bit of UTF-8 is the self syncing, prefix free layout on top of ASCII. You can back up a few bytes and land on a code point. Simple idea. Big win.",
+    "attributes": {
+      "twitter": "https://x.com/AnandChowdhary/status/1967525049113723255"
+    }
+  },
+  {
     "slug": "android-openness-and-library-limits",
     "path": "threads/2025/android-openness-and-library-limits.md",
     "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2025/android-openness-and-library-limits.md",
