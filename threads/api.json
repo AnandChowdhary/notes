@@ -1,5 +1,38 @@
 [
   {
+    "slug": "single-agent-rivals-multi-agent",
+    "path": "threads/2025/single-agent-rivals-multi-agent.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2025/single-agent-rivals-multi-agent.md",
+    "title": "Single agent rivals multi agent",
+    "date": "2025-09-16T23:15:15.263033Z",
+    "excerpt": "The mix of hour scale online RL, lean rewards, and test time parallel search lets a single agent rival the multi agent scaffolds we built. With SOL 25x HRL throughput and SAPO plus 94 percent reward, the blocker is verifiers and infra.",
+    "attributes": {
+      "twitter": "https://x.com/AnandChowdhary/status/1968091278140379238"
+    }
+  },
+  {
+    "slug": "gpt-5-codex-scales",
+    "path": "threads/2025/gpt-5-codex-scales.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2025/gpt-5-codex-scales.md",
+    "title": "GPT 5 Codex scales",
+    "date": "2025-09-16T21:15:21.293034Z",
+    "excerpt": "GPT‑5‑Codex feels like a real jump: task adaptive compute, smarter tool routing, 93.7% fewer tokens on easy turns, about 2x more on hard ones, over 7 hours of autonomy, seccomp seatbelt sandbox, and PR grade reviews. Now let's see it behave at scale.",
+    "attributes": {
+      "twitter": "https://x.com/AnandChowdhary/status/1968061079952732186"
+    }
+  },
+  {
+    "slug": "tiny-lazy-loader-for-images",
+    "path": "threads/2025/tiny-lazy-loader-for-images.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2025/tiny-lazy-loader-for-images.md",
+    "title": "Tiny lazy loader for images",
+    "date": "2025-09-16T09:45:15.602387Z",
+    "excerpt": "In 2016 I shipped a 555 byte JavaScript lazy loader to stop image jank on long scroll pages. Half a kilobyte, yes really. The goal was simple: load images only when you were about to see them, save bandwidth, keep the main thread calm. 🖼️ 👇",
+    "attributes": {
+      "twitter": "https://x.com/AnandChowdhary/status/1967887435481972994"
+    }
+  },
+  {
     "slug": "hardware-meets-software-context",
     "path": "threads/2025/hardware-meets-software-context.md",
     "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2025/hardware-meets-software-context.md",
