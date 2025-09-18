@@ -1,5 +1,38 @@
 [
   {
+    "slug": "evaluating-humans-with-ai-metrics",
+    "path": "threads/2025/evaluating-humans-with-ai-metrics.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2025/evaluating-humans-with-ai-metrics.md",
+    "title": "Evaluating humans with AI metrics",
+    "date": "2025-09-17T23:15:12.803860Z",
+    "excerpt": "What clicked for me in @slatestarcodex's piece isn't the jokes. It's flipping our AI eval lens onto humans. See us as \"BIs\" with context limits, RLHF, and jailbreaks, and the snag shows up fast: the metric choices, not raw ability.",
+    "attributes": {
+      "twitter": "https://x.com/AnandChowdhary/status/1968453666454872267"
+    }
+  },
+  {
+    "slug": "exploring-wassette-for-secure-wasm",
+    "path": "threads/2025/exploring-wassette-for-secure-wasm.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2025/exploring-wassette-for-secure-wasm.md",
+    "title": "Exploring Wassette for secure Wasm",
+    "date": "2025-09-17T15:15:10.592811Z",
+    "excerpt": "Been exploring Wassette from Microsoft. A security oriented runtime for WebAssembly components via MCP. The neat bit: you add new sandboxed tools to an AI agent from inside the chat window (yes, really). Rust based, with a focus on reuse and safety.",
+    "attributes": {
+      "twitter": "https://x.com/AnandChowdhary/status/1968332873607643326"
+    }
+  },
+  {
+    "slug": "opinionated-news-summarizer-racing-clock",
+    "path": "threads/2025/opinionated-news-summarizer-racing-clock.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2025/opinionated-news-summarizer-racing-clock.md",
+    "title": "Opinionated news summarizer racing clock",
+    "date": "2025-09-17T13:45:16.708673Z",
+    "excerpt": "Compression is the easy part. A news summarizer makes calls on sources, context, and trust while racing a clock. The text is short. The system is opinionated by design. 🗞️👇",
+    "attributes": {
+      "twitter": "https://x.com/AnandChowdhary/status/1968310238182068335"
+    }
+  },
+  {
     "slug": "single-agent-rivals-multi-agent",
     "path": "threads/2025/single-agent-rivals-multi-agent.md",
     "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2025/single-agent-rivals-multi-agent.md",
