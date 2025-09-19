@@ -1,5 +1,38 @@
 [
   {
+    "slug": "wassette-secure-wasm-runtime",
+    "path": "threads/2025/wassette-secure-wasm-runtime.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2025/wassette-secure-wasm-runtime.md",
+    "title": "Wassette secure wasm runtime",
+    "date": "2025-09-18T21:15:09.774687Z",
+    "excerpt": "Been playing with a neat project from Microsoft called Wassette. It is a security first runtime that lets AI agents run WebAssembly components via MCP. The bit that hooked me is you can add tools right from chat, and they run inside a Wasmtime sandbox with an explicit permission model.",
+    "attributes": {
+      "twitter": "https://x.com/AnandChowdhary/status/1968785855520407787"
+    }
+  },
+  {
+    "slug": "standard-series-a-paperwork",
+    "path": "threads/2025/standard-series-a-paperwork.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2025/standard-series-a-paperwork.md",
+    "title": "Standard Series A paperwork",
+    "date": "2025-09-18T15:15:02.237096Z",
+    "excerpt": "The SAFE for Series A is here:\n\n@Standard_Cap's Series A pack with a term sheet, stock purchase agreement, investors' rights, an A&R certificate of incorporation, and a side letter.\n\nClean and practical, a good baseline to kick off a round.\n\nWhat I like most is the format. It's just .docx in Git (yes, Word - I'm sure will be markdown shorly). Fork, version, diff, and review in PRs.\n\nIf you're raising, ask your investors that you want to use the Standard Series A paperwork: https://github.com/StandardCap/standard-series-a",
+    "attributes": {
+      "twitter": "https://x.com/AnandChowdhary/status/1968695262232330284"
+    }
+  },
+  {
+    "slug": "infra-choices-caused-model-dips",
+    "path": "threads/2025/infra-choices-caused-model-dips.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2025/infra-choices-caused-model-dips.md",
+    "title": "Infra choices caused model dips",
+    "date": "2025-09-18T09:45:13.306614Z",
+    "excerpt": "I just read Anthropic Engineering's postmortem. The headline isn't three bugs. It's how everyday infra choices like load balancers, sampler precision, and sticky sessions bent cross hardware parity and looked like model dips. Credit to the eng team.",
+    "attributes": {
+      "twitter": "https://x.com/AnandChowdhary/status/1968612212748242980"
+    }
+  },
+  {
     "slug": "evaluating-humans-with-ai-metrics",
     "path": "threads/2025/evaluating-humans-with-ai-metrics.md",
     "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2025/evaluating-humans-with-ai-metrics.md",
