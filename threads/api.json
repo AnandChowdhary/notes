@@ -1,5 +1,27 @@
 [
   {
+    "slug": "postgres-in-the-browser",
+    "path": "threads/2025/postgres-in-the-browser.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2025/postgres-in-the-browser.md",
+    "title": "Postgres in the browser",
+    "date": "2025-09-19T09:45:13.990908Z",
+    "excerpt": "Sharing a neat project I'm excited about: PGlite by ElectricSQL. Real Postgres compiled to WebAssembly with a tiny TypeScript client. Runs in the browser, Node, Bun, and Deno with no VM. Postgres in the browser (yes, really) with reactive bindings.",
+    "attributes": {
+      "twitter": "https://x.com/AnandChowdhary/status/1968974617315590380"
+    }
+  },
+  {
+    "slug": "rss-feeds-for-reading-mode",
+    "path": "threads/2025/rss-feeds-for-reading-mode.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2025/rss-feeds-for-reading-mode.md",
+    "title": "RSS feeds for reading mode",
+    "date": "2025-09-19T05:45:12.558901Z",
+    "excerpt": "Reader mode tries to reconstruct a story from messy HTML. Feeds already ship the story in a clean wrapper. In 2017 I wrote a tiny note, \"RSS Feeds for Reading Mode,\" asking: what if the browser preferred the site's feed as the canonical clean version? 📡👇",
+    "attributes": {
+      "twitter": "https://x.com/AnandChowdhary/status/1968914200396448242"
+    }
+  },
+  {
     "slug": "wassette-secure-wasm-runtime",
     "path": "threads/2025/wassette-secure-wasm-runtime.md",
     "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2025/wassette-secure-wasm-runtime.md",
