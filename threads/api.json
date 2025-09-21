@@ -1,5 +1,16 @@
 [
   {
+    "slug": "grok-4-fast-token-economics",
+    "path": "threads/2025/grok-4-fast-token-economics.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2025/grok-4-fast-token-economics.md",
+    "title": "Grok 4 fast token economics",
+    "date": "2025-09-20T13:45:15.545202Z",
+    "excerpt": "Grok 4 Fast: one set of weights, prompt steered. 2M context. RL tuned tool use trims ~40% thinking tokens. $0.20 in, $0.50 out per 1M. HLE is lower than Grok 4. The race now is tokens per second per dollar for agents and coding.",
+    "attributes": {
+      "twitter": "https://x.com/AnandChowdhary/status/1969397385735675998"
+    }
+  },
+  {
     "slug": "postgres-in-the-browser",
     "path": "threads/2025/postgres-in-the-browser.md",
     "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2025/postgres-in-the-browser.md",
