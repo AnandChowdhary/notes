@@ -1,5 +1,16 @@
 [
   {
+    "slug": "chrome-makes-omnibox-command-line",
+    "path": "threads/2025/chrome-makes-omnibox-command-line.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2025/chrome-makes-omnibox-command-line.md",
+    "title": "Chrome makes omnibox command line",
+    "date": "2025-09-21T09:45:11.376578Z",
+    "excerpt": "Chrome just turned the omnibox into a command line for the web. AI Mode blends search, page context, and actions. Gemini 2.5 does cross‑tab summaries today, agents next. Extensions now compete with the browser they live in. 🌐👇",
+    "attributes": {
+      "twitter": "https://x.com/AnandChowdhary/status/1969699382057632055"
+    }
+  },
+  {
     "slug": "grok-4-fast-token-economics",
     "path": "threads/2025/grok-4-fast-token-economics.md",
     "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2025/grok-4-fast-token-economics.md",
