@@ -1,5 +1,38 @@
 [
   {
+    "slug": "hubspot-contact-import-goes-live",
+    "path": "threads/2025/hubspot-contact-import-goes-live.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2025/hubspot-contact-import-goes-live.md",
+    "title": "HubSpot contact import goes live",
+    "date": "2025-09-22T13:45:17.409944Z",
+    "excerpt": "This week at @FirstQuadrant: HubSpot contact import is live (feature preview). Pull your CRM into FQ with a click, unify lists, and start outreach with no CSVs. Week 37, 2025. 🔌👇",
+    "attributes": {
+      "twitter": "https://x.com/AnandChowdhary/status/1970122179800178806"
+    }
+  },
+  {
+    "slug": "ripple-a-typescript-ui-framework",
+    "path": "threads/2025/ripple-a-typescript-ui-framework.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2025/ripple-a-typescript-ui-framework.md",
+    "title": "Ripple a TypeScript UI framework",
+    "date": "2025-09-22T09:45:09.767780Z",
+    "excerpt": "I stumbled on Ripple by @trueadm and it made me smile. A TypeScript first UI framework with its own .ripple files and a signal style reactive core. Feels like React, Solid, and Svelte had coffee and decided to ship fine grained updates together.",
+    "attributes": {
+      "twitter": "https://x.com/AnandChowdhary/status/1970061762964947201"
+    }
+  },
+  {
+    "slug": "webpage-crawler-search-evolution",
+    "path": "threads/2025/webpage-crawler-search-evolution.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2025/webpage-crawler-search-evolution.md",
+    "title": "Webpage crawler search evolution",
+    "date": "2025-09-22T05:45:15.662856Z",
+    "excerpt": "I'm revisiting a tiny note from Apr 18, 2017: \"Webpage crawler + search.\" The core split still holds up: get the content, then find the answer. The stack morphed from curl/Scrapy and BM25 to headless rendering and hybrid vectors. 🔎👇",
+    "attributes": {
+      "twitter": "https://x.com/AnandChowdhary/status/1970001365436186802"
+    }
+  },
+  {
     "slug": "chrome-makes-omnibox-command-line",
     "path": "threads/2025/chrome-makes-omnibox-command-line.md",
     "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2025/chrome-makes-omnibox-command-line.md",
