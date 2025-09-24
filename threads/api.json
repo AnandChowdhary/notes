@@ -1,5 +1,38 @@
 [
   {
+    "slug": "reality-check-on-code-benchmarks",
+    "path": "threads/2025/reality-check-on-code-benchmarks.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2025/reality-check-on-code-benchmarks.md",
+    "title": "Reality check on code benchmarks",
+    "date": "2025-09-23T21:15:12.456823Z",
+    "excerpt": "Today I got a reality check. On SWE Bench Pro (contamination resistant, ~107 LOC across 4 files), top agents sit near 23% solved. Microsoft's repo graphs in RPG to ZeroRepo show 3.9x LOC vs baselines. Planning beats the party tricks 👇",
+    "attributes": {
+      "twitter": "https://x.com/AnandChowdhary/status/1970597794584068438"
+    }
+  },
+  {
+    "slug": "parallel-decision-making-for-agents",
+    "path": "threads/2025/parallel-decision-making-for-agents.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2025/parallel-decision-making-for-agents.md",
+    "title": "Parallel decision making for agents",
+    "date": "2025-09-23T15:15:19.623995Z",
+    "excerpt": "When tok/s jumps from tens to thousands, agents move from a single supervised stream to parallel propose → evaluate → select. Reliability and cost become UX.",
+    "attributes": {
+      "twitter": "https://x.com/AnandChowdhary/status/1970507226801684764"
+    }
+  },
+  {
+    "slug": "thin-coordination-os-concept",
+    "path": "threads/2025/thin-coordination-os-concept.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2025/thin-coordination-os-concept.md",
+    "title": "Thin coordination OS concept",
+    "date": "2025-09-23T09:45:13.004404Z",
+    "excerpt": "My current take: the ideal OS is a thin coordination layer that splits identity, storage, input, and render across device, browser, and cloud. The UI steps back. The job is to route intent to capability and to fail well when the network hiccups. ☁️👇",
+    "attributes": {
+      "twitter": "https://x.com/AnandChowdhary/status/1970424152327889056"
+    }
+  },
+  {
     "slug": "hubspot-contact-import-goes-live",
     "path": "threads/2025/hubspot-contact-import-goes-live.md",
     "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2025/hubspot-contact-import-goes-live.md",
