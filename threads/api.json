@@ -1,5 +1,16 @@
 [
   {
+    "slug": "strata-enables-cross-app-routing",
+    "path": "threads/2025/strata-enables-cross-app-routing.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2025/strata-enables-cross-app-routing.md",
+    "title": "Strata enables cross app routing",
+    "date": "2025-09-24T13:45:10.226330Z",
+    "excerpt": "Been poking around @Klavis_AI lately: It's an MCP layer that lets agents use thousands of tools reliably (App Store moment for MCPs?). The part I like is Strata. One MCP server that helps a single agent discover and route across many apps without melting its brain.",
+    "attributes": {
+      "twitter": "https://x.com/AnandChowdhary/status/1970846938443718782"
+    }
+  },
+  {
     "slug": "reality-check-on-code-benchmarks",
     "path": "threads/2025/reality-check-on-code-benchmarks.md",
     "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2025/reality-check-on-code-benchmarks.md",
