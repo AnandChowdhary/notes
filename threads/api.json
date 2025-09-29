@@ -1,5 +1,27 @@
 [
   {
+    "slug": "accessible-content-designed-for-reading",
+    "path": "threads/2025/accessible-content-designed-for-reading.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2025/accessible-content-designed-for-reading.md",
+    "title": "Accessible content designed for reading",
+    "date": "2025-09-28T15:15:12.917320Z",
+    "excerpt": "Accessibility that actually helps means rewriting content for how our brains read. 📚👇",
+    "attributes": {
+      "twitter": "https://x.com/AnandChowdhary/status/1972319138111733835"
+    }
+  },
+  {
+    "slug": "codex-cli-offers-coding-buddy",
+    "path": "threads/2025/codex-cli-offers-coding-buddy.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2025/codex-cli-offers-coding-buddy.md",
+    "title": "Codex cli offers coding buddy",
+    "date": "2025-09-28T09:45:09.542148Z",
+    "excerpt": "Been trying Codex CLI from OpenAI and it's a neat one: a lightweight coding agent that runs locally in your terminal. Install with npm i -g @openai/codex or brew install codex, then sign in with your ChatGPT plan or use an API key. Feels like having an on-call dev buddy in the shell.",
+    "attributes": {
+      "twitter": "https://x.com/AnandChowdhary/status/1972236089130955222"
+    }
+  },
+  {
     "slug": "dayflow-builds-private-mac-timeline",
     "path": "threads/2025/dayflow-builds-private-mac-timeline.md",
     "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2025/dayflow-builds-private-mac-timeline.md",
