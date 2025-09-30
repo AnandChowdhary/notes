@@ -1,5 +1,38 @@
 [
   {
+    "slug": "taste-guides-engineering-decisions",
+    "path": "threads/2025/taste-guides-engineering-decisions.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2025/taste-guides-engineering-decisions.md",
+    "title": "Taste guides engineering decisions",
+    "date": "2025-09-29T13:45:04.588614Z",
+    "excerpt": "Treat taste as a shifting weight vector over values, then matching it to your project's phase and constraints. Right for here and now beats \"universally right” in engineering.\n\nUnder the hood, this is multi objective optimization. Values like latency, resiliency, readability, portability, cost, and dev speed define a Pareto frontier.\n\n\"Good taste\" is picking a point that fits your context and lifecycle. Early explore favors velocity and readability. Later hardening flips weight to SLOs and operability.\n\nOnce telemetry pins the space, taste stops being vibes.",
+    "attributes": {
+      "twitter": "https://x.com/AnandChowdhary/status/1972658877847179481"
+    }
+  },
+  {
+    "slug": "ai-shifts-bottleneck-to-understanding",
+    "path": "threads/2025/ai-shifts-bottleneck-to-understanding.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2025/ai-shifts-bottleneck-to-understanding.md",
+    "title": "AI shifts bottleneck to understanding",
+    "date": "2025-09-29T09:45:13.397307Z",
+    "excerpt": "AI moves the bottleneck to understanding. If we skip specs, seams, and tests, we save keystrokes and rack up comprehension debt. That bill arrives with interest.",
+    "attributes": {
+      "twitter": "https://x.com/AnandChowdhary/status/1972598480620450101"
+    }
+  },
+  {
+    "slug": "airpods-based-head-motion-racing",
+    "path": "threads/2025/airpods-based-head-motion-racing.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2025/airpods-based-head-motion-racing.md",
+    "title": "AirPods based head motion racing",
+    "date": "2025-09-29T05:45:01.835740Z",
+    "excerpt": "This is awesome, an AirPods controlled racer game. Using the most popular everyday earbuds as a 3 DoF IMU with Core Motion and making the control feel smooth, comfy, and low latency under tight limits.\n\nOn iOS you can read head motion from compatible AirPods with Core Motion's CMHeadphoneMotionManager.\n\nYou get CMDeviceMotion with an attitude quaternion and fused gyro and accel at around 25 Hz. Then you smooth it, add dead zones and hysteresis, clamp extremes so your neck is happy, and calibrate a neutral pose every session.\n\nConstraints are real: 3 DoF only, limited update rate, yaw drift, device auto switching, and odd behavior when the buds lose fit.\n\nWinning here is mostly filter plus UX. Good neutral calibration, quick re center cues, and a tight latency budget across read, process, and render.\n\nThis is a fun direction for hands free play and accessibility: https://apps.apple.com/us/app/ridepods-race-with-head/id6752268828",
+    "attributes": {
+      "twitter": "https://x.com/AnandChowdhary/status/1972538082571563067"
+    }
+  },
+  {
     "slug": "accessible-content-designed-for-reading",
     "path": "threads/2025/accessible-content-designed-for-reading.md",
     "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2025/accessible-content-designed-for-reading.md",
