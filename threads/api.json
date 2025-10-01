@@ -1,5 +1,38 @@
 [
   {
+    "slug": "forward-deployed-claude-playbook",
+    "path": "threads/2025/forward-deployed-claude-playbook.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2025/forward-deployed-claude-playbook.md",
+    "title": "Forward deployed Claude playbook",
+    "date": "2025-09-30T23:15:09.759440Z",
+    "excerpt": "I've been playing with an idea I call \"Forward Deployed Claude\". It borrows the Palantir-style FDE loop I used to see in enterprise work. Ship the product you have, embed Claude Code as the field engineer, let it build the customer's gravel road, then write down what generalizes for the next 5-10 accounts in a CLAUDE\\.md that marks invariants vs extensions. 🛠️👇",
+    "attributes": {
+      "twitter": "https://x.com/AnandChowdhary/status/1973164708728598802"
+    }
+  },
+  {
+    "slug": "tight-constraints-shaped-precis",
+    "path": "threads/2025/tight-constraints-shaped-precis.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2025/tight-constraints-shaped-precis.md",
+    "title": "Tight constraints shaped Precis",
+    "date": "2025-09-30T15:15:16.684814Z",
+    "excerpt": "In 2016 I built Precis, a self-hosted URL shortener you could deploy on $5 shared hosting by uploading a folder and an .htaccess file (yes, really!). The fun bit wasn't the UI. Tight constraints quietly shaped the whole thing. 🔗👇",
+    "attributes": {
+      "twitter": "https://x.com/AnandChowdhary/status/1973043918704177178"
+    }
+  },
+  {
+    "slug": "interaction-architecture-decides-the-night",
+    "path": "threads/2025/interaction-architecture-decides-the-night.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2025/interaction-architecture-decides-the-night.md",
+    "title": "Interaction architecture decides the night",
+    "date": "2025-09-30T09:45:12.691319Z",
+    "excerpt": "Back when I obsessed over the Apple Remote, I learned the living room problem isn't about shaving off buttons. It's mapping a huge media state space to quick, low‑error input for multiple people sitting ten feet away. Lovely hardware counts, but interaction architecture decides the night. 📺👇",
+    "attributes": {
+      "twitter": "https://x.com/AnandChowdhary/status/1972960866523136327"
+    }
+  },
+  {
     "slug": "taste-guides-engineering-decisions",
     "path": "threads/2025/taste-guides-engineering-decisions.md",
     "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2025/taste-guides-engineering-decisions.md",
