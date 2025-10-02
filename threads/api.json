@@ -1,5 +1,38 @@
 [
   {
+    "slug": "optimize-cost-per-task",
+    "path": "threads/2025/optimize-cost-per-task.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2025/optimize-cost-per-task.md",
+    "title": "Optimize cost per task",
+    "date": "2025-10-01T15:15:12.645313Z",
+    "excerpt": "Sonnet 4.5: 200K context, 64K out, $3 in and $15 out per million. Adds context editing, memory, and Code v2 with a VS Code flow for real 30 hour agents. Evals beat Gemini 2.5 and Grok 4 Fast, trail GPT 5 high.\n\nFounder takeaway: optimize $ per task. 👇",
+    "attributes": {
+      "twitter": "https://x.com/AnandChowdhary/status/1973406301121290252"
+    }
+  },
+  {
+    "slug": "sora-2-drives-platform-wins",
+    "path": "threads/2025/sora-2-drives-platform-wins.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2025/sora-2-drives-platform-wins.md",
+    "title": "Sora 2 drives platform wins",
+    "date": "2025-10-01T13:45:15.980281Z",
+    "excerpt": "Sora 2 buffs world sim and ships native A/V. Bigger move is product: consented cameos + C2PA + a steerable recommender in an invite‑only iOS app. That's a closed‑loop data/RL flywheel for video agents. Veo 3 is strong, but platform wins. 🎥👇",
+    "attributes": {
+      "twitter": "https://x.com/AnandChowdhary/status/1973383652991181206"
+    }
+  },
+  {
+    "slug": "footer-badge-nudges-accessibility",
+    "path": "threads/2025/footer-badge-nudges-accessibility.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2025/footer-badge-nudges-accessibility.md",
+    "title": "Footer badge nudges accessibility",
+    "date": "2025-10-01T05:45:15.013744Z",
+    "excerpt": "Old idea, still poking me: could a tiny badge in a footer nudge the web toward real accessibility? Badges shape norms. People see them, copy them. The trick is making the seal mean something users can feel, not just a sticker. ♿️ 👇",
+    "attributes": {
+      "twitter": "https://x.com/AnandChowdhary/status/1973262854787834090"
+    }
+  },
+  {
     "slug": "forward-deployed-claude-playbook",
     "path": "threads/2025/forward-deployed-claude-playbook.md",
     "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2025/forward-deployed-claude-playbook.md",
