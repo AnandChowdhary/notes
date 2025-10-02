@@ -1148,7 +1148,7 @@
     "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2019/ara-people-database.md",
     "title": "Ara: People database to match emails...",
     "date": "2019-04-04T07:59:05.000Z",
-    "excerpt": "Ara: People database to match emails with humans, use things like &#102;&#x69;&#x72;&#115;&#x74;&#45;&#x6c;&#101;&#116;&#x74;&#101;&#114;&#46;&#x6c;&#x61;&#x73;&#x74;&#x6e;&#x61;&#109;&#x65;&#x40;&#x65;&#120;&#x61;&#109;&#x70;&#108;&#x65;&#46;&#x63;&#x6f;&#109; for names in emails, plus Clearbit APIs. Then we can have Slack Ara too who understands @anand means my email",
+    "excerpt": "Ara: People database to match emails with humans, use things like &#x66;&#105;&#x72;&#115;&#x74;&#45;&#108;&#x65;&#x74;&#x74;&#101;&#114;&#x2e;&#108;&#97;&#x73;&#116;&#x6e;&#97;&#x6d;&#101;&#x40;&#x65;&#120;&#x61;&#x6d;&#x70;&#108;&#101;&#46;&#x63;&#111;&#109; for names in emails, plus Clearbit APIs. Then we can have Slack Ara too who understands @anand means my email",
     "attributes": {}
   },
   {
@@ -2022,6 +2022,15 @@
     "title": "The UX of AI is invisible....",
     "date": "2025-09-01T08:49:25.000Z",
     "excerpt": "The UX of AI is invisible. I've been thinking about why I'm not a fan of the chat interface as the primary mode of AI, and I think I have an answer. Voice helps, but the pattern is still you go to the AI to ask it something, and it responds to you. I actually think at @firstquadrant we have a unique insight - which is that AI runs based on external triggers. That is the key difference from assigning a Linear issue to Cursor Agents - it's proactive, not reactive.",
+    "attributes": {}
+  },
+  {
+    "slug": "pricing-that-buyers-trust-resolution-based-e-g.md",
+    "path": "notes/2025/pricing-that-buyers-trust-resolution-based-e-g.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2025/pricing-that-buyers-trust-resolution-based-e-g.md",
+    "title": "Pricing that buyers trust: resolution-based (e.g.,...",
+    "date": "2025-10-02T08:18:50.000Z",
+    "excerpt": "Pricing that buyers trust: resolution-based (e.g., per solve) offers predictability; credits need caps, usage surfaces, and clear settlement rules. Transparency reduces friction more than discounts.",
     "attributes": {}
   }
 ]
