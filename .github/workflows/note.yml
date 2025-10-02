@@ -19,6 +19,8 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Create note file
+        env:
+          NOTE: ${{ inputs.note }}
         run: |
           # Get current date
           YEAR=$(date +%Y)
@@ -27,14 +29,13 @@ jobs:
           mkdir -p "notes/$YEAR"
 
           # Generate filename from note content (first few words, lowercase, hyphenated)
-          NOTE_CONTENT="${{ github.event.inputs.note }}"
-          FILENAME=$(echo "$NOTE_CONTENT" | head -c 50 | tr '[:upper:]' '[:lower:]' | sed 's/[^a-z0-9]/ /g' | sed 's/ \+/-/g' | sed 's/^-\|-$//g')
+          FILENAME=$(echo "$NOTE" | head -c 50 | tr '[:upper:]' '[:lower:]' | sed 's/[^a-z0-9]/ /g' | sed 's/ \+/-/g' | sed 's/^-\|-$//g')
 
           # Create the markdown file
           FILEPATH="notes/$YEAR/$FILENAME.md"
 
           # Write note content to file
-          echo "$NOTE_CONTENT" > "$FILEPATH"
+          echo "$NOTE" > "$FILEPATH"
 
           echo "Created note file: $FILEPATH"
 
