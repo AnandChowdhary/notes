@@ -1,5 +1,27 @@
 [
   {
+    "slug": "sora-2-ships-video-app",
+    "path": "threads/2025/sora-2-ships-video-app.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2025/sora-2-ships-video-app.md",
+    "title": "Sora 2 ships video app",
+    "date": "2025-10-02T15:15:19.160127Z",
+    "excerpt": "OpenAI is shipping Sora 2 as a TikTok-style app for video. Audio + video gen, consent-gated cameos, C2PA provenance, LLM steered feed. \n\nChatGPT's moat expands to video. Demos wow, composition is brittle. Invites and daily caps limit risk. 🕹️👇",
+    "attributes": {
+      "twitter": "https://x.com/AnandChowdhary/status/1973768691218329831"
+    }
+  },
+  {
+    "slug": "accessible-minimal-wordpress-blog",
+    "path": "threads/2025/accessible-minimal-wordpress-blog.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2025/accessible-minimal-wordpress-blog.md",
+    "title": "Accessible minimal WordPress blog",
+    "date": "2025-10-02T09:45:09.387489Z",
+    "excerpt": "Back in 2017 I kept asking myself: how minimal can a WordPress blog be and still be a joy to read and accessible? I built Access to find out. Writing first, no fluff, based on _s, accessibility baked in. Constraint was the feature. It aged better than I expected. ✍️👇",
+    "attributes": {
+      "twitter": "https://x.com/AnandChowdhary/status/1973685640517804495"
+    }
+  },
+  {
     "slug": "optimize-cost-per-task",
     "path": "threads/2025/optimize-cost-per-task.md",
     "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2025/optimize-cost-per-task.md",
