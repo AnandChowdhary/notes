@@ -1,5 +1,27 @@
 [
   {
+    "slug": "from-audio-to-navigable-text",
+    "path": "threads/2025/from-audio-to-navigable-text.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2025/from-audio-to-navigable-text.md",
+    "title": "From audio to navigable text",
+    "date": "2025-10-03T09:45:12.395838Z",
+    "excerpt": "Treat read‑aloud like a media player: left/right to jump sentence by sentence while the current sentence stays highlighted. You go from passive audio to navigable text, and your working memory breathes easier. 🎧 👇",
+    "attributes": {
+      "twitter": "https://x.com/AnandChowdhary/status/1974048028991574509"
+    }
+  },
+  {
+    "slug": "cleaner-suggestions-for-real-conversations",
+    "path": "threads/2025/cleaner-suggestions-for-real-conversations.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2025/cleaner-suggestions-for-real-conversations.md",
+    "title": "Cleaner suggestions for real conversations",
+    "date": "2025-10-03T05:45:09.431992Z",
+    "excerpt": "This week at @FirstQuadrant (Week 39, 2025), we shipped cleaner suggestions. We now ignore emails parked in warm-up/warming folders so automation pays attention to real conversations. Small change, big quality-of-life win. ✉️👇",
+    "attributes": {
+      "twitter": "https://x.com/AnandChowdhary/status/1973987630464578023"
+    }
+  },
+  {
     "slug": "sora-2-ships-video-app",
     "path": "threads/2025/sora-2-ships-video-app.md",
     "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2025/sora-2-ships-video-app.md",
