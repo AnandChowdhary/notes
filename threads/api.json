@@ -1,5 +1,16 @@
 [
   {
+    "slug": "own-the-localization-pipeline",
+    "path": "threads/2025/own-the-localization-pipeline.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2025/own-the-localization-pipeline.md",
+    "title": "Own the localization pipeline",
+    "date": "2025-10-04T13:45:12.442052Z",
+    "excerpt": "My 2017 mantra that still holds up: translate via an API and publish real localized pages. Not a client-side widget repainting the DOM. If you own the pipeline, you win on SEO, accessibility, and control. Stop outsourcing semantics to an overlay. 🌐👇",
+    "attributes": {
+      "twitter": "https://x.com/AnandChowdhary/status/1974470814717325457"
+    }
+  },
+  {
     "slug": "from-audio-to-navigable-text",
     "path": "threads/2025/from-audio-to-navigable-text.md",
     "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2025/from-audio-to-navigable-text.md",
