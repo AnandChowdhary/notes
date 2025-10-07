@@ -1,5 +1,38 @@
 [
   {
+    "slug": "sentence-spacing-as-a-choice",
+    "path": "threads/2025/sentence-spacing-as-a-choice.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2025/sentence-spacing-as-a-choice.md",
+    "title": "Sentence spacing as a choice",
+    "date": "2025-10-06T13:45:12.682798Z",
+    "excerpt": "I wrote about sentence spacing back in 2015. The gist: two spaces started with typewriters using monospaced fonts. In proportional type, extra space usually turns into visual noise. In monospaced contexts, it was a quick way to mark sentence boundaries. Treat it as a tooling choice, not a moral code. ⌨️👇",
+    "attributes": {
+      "twitter": "https://x.com/AnandChowdhary/status/1975195591404888191"
+    }
+  },
+  {
+    "slug": "design-system-ideas-with-basecn",
+    "path": "threads/2025/design-system-ideas-with-basecn.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2025/design-system-ideas-with-basecn.md",
+    "title": "Design system ideas with basecn",
+    "date": "2025-10-06T09:45:01.787733Z",
+    "excerpt": "Been poking at design system ideas again, and basecn caught my eye: shadcn/ui vibes on top of @base_ui primitives. TypeScript-first, accessible, extra variants, and lots of copy‑pasteable examples.\n\nWhat I like: Base UI under the hood gives you WAI‑ARIA, predictable focus, and solid performance. The multiple demos per component help you pick a pattern fast, so you ship instead of bikeshed. No more fighting focus rings at 2 am. @akash_3444 really cooked!\n\nStack check: React + TypeScript, Tailwind for styling, Base UI for primitives. Clean APIs and straightforward theming. I could drop this into a team rolling a design system next week.\n\nBuilding a library or a product? You get polished components, rich examples, and room to customize while leaning on MUI a11y: https://github.com/akash3444/basecn",
+    "attributes": {
+      "twitter": "https://x.com/AnandChowdhary/status/1975135195344011355"
+    }
+  },
+  {
+    "slug": "what-is-gpt-oss",
+    "path": "threads/2025/what-is-gpt-oss.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2025/what-is-gpt-oss.md",
+    "title": "What is gpt oss",
+    "date": "2025-10-06T05:45:12.271427Z",
+    "excerpt": "What’s in GPT OSS? Open weights + o200k turn embedding norms into a window on the training stack. That long right tail reads like a leaky audit log. 👇",
+    "attributes": {
+      "twitter": "https://x.com/AnandChowdhary/status/1975074794090664160"
+    }
+  },
+  {
     "slug": "own-the-localization-pipeline",
     "path": "threads/2025/own-the-localization-pipeline.md",
     "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2025/own-the-localization-pipeline.md",
