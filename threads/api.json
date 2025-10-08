@@ -1,5 +1,16 @@
 [
   {
+    "slug": "bringing-guardrails-into-agents",
+    "path": "threads/2025/bringing-guardrails-into-agents.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2025/bringing-guardrails-into-agents.md",
+    "title": "Bringing guardrails into agents",
+    "date": "2025-10-07T21:15:17.553443Z",
+    "excerpt": "Eval to ops just got real. Petri scenario audits with an auditor target judge loop, plus DeepMind CodeMender with 72 accepted OSS security fixes, push guardrails from red team docs into agents that run in CI and governance.",
+    "attributes": {
+      "twitter": "https://x.com/AnandChowdhary/status/1975671234043265390"
+    }
+  },
+  {
     "slug": "sentence-spacing-as-a-choice",
     "path": "threads/2025/sentence-spacing-as-a-choice.md",
     "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2025/sentence-spacing-as-a-choice.md",
