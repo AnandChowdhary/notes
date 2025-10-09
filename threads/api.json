@@ -1,5 +1,16 @@
 [
   {
+    "slug": "utm-as-a-service",
+    "path": "threads/2025/utm-as-a-service.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2025/utm-as-a-service.md",
+    "title": "UTM as a service",
+    "date": "2025-10-08T05:45:14.026213Z",
+    "excerpt": "I wrote a tiny note in 2017: \"UTM as a Service.\" The idea: treat campaign tagging like infrastructure - a shared taxonomy, guardrails, and an API every tool can hit. The missing middleware between creative and attribution. Small concept, big downstream impact. 🏷️👇",
+    "attributes": {
+      "twitter": "https://x.com/AnandChowdhary/status/1975799577031942477"
+    }
+  },
+  {
     "slug": "bringing-guardrails-into-agents",
     "path": "threads/2025/bringing-guardrails-into-agents.md",
     "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2025/bringing-guardrails-into-agents.md",
