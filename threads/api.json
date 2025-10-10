@@ -1,5 +1,16 @@
 [
   {
+    "slug": "email-as-a-user-interface",
+    "path": "threads/2025/email-as-a-user-interface.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2025/email-as-a-user-interface.md",
+    "title": "Email as a user interface",
+    "date": "2025-10-09T15:15:15.585241Z",
+    "excerpt": "Email can be an interface. Transactional mail plus schema.org quick actions turns the inbox into a UI. In 2017 I wrote a note about doing this with Amazon SES. I revisited what aged well, what didn't, and how I'd build it today. ✉️👇",
+    "attributes": {
+      "twitter": "https://x.com/AnandChowdhary/status/1976305415718846595"
+    }
+  },
+  {
     "slug": "utm-as-a-service",
     "path": "threads/2025/utm-as-a-service.md",
     "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2025/utm-as-a-service.md",
