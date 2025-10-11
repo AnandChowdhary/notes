@@ -1,5 +1,16 @@
 [
   {
+    "slug": "leaderboards-shuffle-while-evals-diverge",
+    "path": "threads/2025/leaderboards-shuffle-while-evals-diverge.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2025/leaderboards-shuffle-while-evals-diverge.md",
+    "title": "Leaderboards shuffle while evals diverge",
+    "date": "2025-10-10T09:45:21.462496Z",
+    "excerpt": "Leaderboards shuffled again: GPT-5 Pro tops ARC-AGI AGI-1/2 at 70.2%/18.3% (pass@2, semi private) with $4.78/$7.41 per run. METR clocks Claude 4.5's 50% SW horizon at ~1h53. Epoch crowns Gemini 2.5 Deep Think on FrontierMath.\n\nEvals are diverging. 👇",
+    "attributes": {
+      "twitter": "https://x.com/AnandChowdhary/status/1976584758156267720"
+    }
+  },
+  {
     "slug": "email-as-a-user-interface",
     "path": "threads/2025/email-as-a-user-interface.md",
     "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2025/email-as-a-user-interface.md",
