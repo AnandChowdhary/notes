@@ -1,5 +1,16 @@
 [
   {
+    "slug": "url-shorteners-as-infrastructure",
+    "path": "threads/2025/url-shorteners-as-infrastructure.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2025/url-shorteners-as-infrastructure.md",
+    "title": "URL shorteners as infrastructure",
+    "date": "2025-10-11T21:15:13.862796Z",
+    "excerpt": "The core insight from an old note of mine: a URL shortener is the control plane for links - routing, observability, compliance, resilience - disguised as a 301. Treat it like infrastructure, not cosmetics. 🔗👇",
+    "attributes": {
+      "twitter": "https://x.com/AnandChowdhary/status/1977120781760184382"
+    }
+  },
+  {
     "slug": "leaderboards-shuffle-while-evals-diverge",
     "path": "threads/2025/leaderboards-shuffle-while-evals-diverge.md",
     "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2025/leaderboards-shuffle-while-evals-diverge.md",
