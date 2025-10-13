@@ -1,5 +1,16 @@
 [
   {
+    "slug": "decoders-read-embeddings-directly",
+    "path": "threads/2025/decoders-read-embeddings-directly.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2025/decoders-read-embeddings-directly.md",
+    "title": "Decoders read embeddings directly",
+    "date": "2025-10-12T15:15:14.120020Z",
+    "excerpt": "Meta Superintelligence’s new paper shows how they teach the decoder to read embeddings directly, then uses tokens only when it must. No more tokenize, compress, reembed ping pong. That's the interesting part. 👇",
+    "attributes": {
+      "twitter": "https://x.com/AnandChowdhary/status/1977392573443637481"
+    }
+  },
+  {
     "slug": "url-shorteners-as-infrastructure",
     "path": "threads/2025/url-shorteners-as-infrastructure.md",
     "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2025/url-shorteners-as-infrastructure.md",
