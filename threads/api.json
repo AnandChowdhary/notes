@@ -1,5 +1,16 @@
 [
   {
+    "slug": "tiny-streaming-json-parser",
+    "path": "threads/2025/tiny-streaming-json-parser.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2025/tiny-streaming-json-parser.md",
+    "title": "Tiny streaming json parser",
+    "date": "2025-10-14T09:45:03.698480Z",
+    "excerpt": "Found jsonriver by @rictic and it scratches a real itch for me - a small streaming JSON parser that yields increasingly complete values as bytes come in, so you can start working with data from fetch or LLMs before the response is done. I have a soft spot for tiny no deps tools that do one thing well.\n\nMy favorite detail is how shapes stay stable while they grow. Numbers, booleans, and null arrive whole. Strings only grow. Arrays only append or refine the last item. Objects only add properties or refine the latest one. Partial JSON stays predictable, which keeps consumers calm.\n\nNice for long HTTP responses, server sent events, or LLM output. TypeScript, no deps, works with standard Streams like TextDecoderStream, and runs across runtimes.\n\nClean API too: for await (const v of parse(stream)) { ... }.\n\nLink if you want to try it: https://github.com/rictic/jsonriver",
+    "attributes": {
+      "twitter": "https://x.com/AnandChowdhary/status/1978034305852154015"
+    }
+  },
+  {
     "slug": "names-that-work-in-systems",
     "path": "threads/2025/names-that-work-in-systems.md",
     "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2025/names-that-work-in-systems.md",
