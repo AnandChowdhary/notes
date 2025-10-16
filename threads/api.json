@@ -1,5 +1,27 @@
 [
   {
+    "slug": "wikibility-makes-wikipedia-readable",
+    "path": "threads/2025/wikibility-makes-wikipedia-readable.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2025/wikibility-makes-wikipedia-readable.md",
+    "title": "Wikibility makes Wikipedia readable",
+    "date": "2025-10-15T23:15:14.117618Z",
+    "excerpt": "Wikipedia's content is amazing, but in 2017 the reading flow made my brain bounce between sidebars, footnotes, and tiny type. I built Wikibility, a small AngularJS client that puts typography, contrast, and hierarchy first. Basically: make it feel like a book. 📚👇",
+    "attributes": {
+      "twitter": "https://x.com/AnandChowdhary/status/1978600533331247272"
+    }
+  },
+  {
+    "slug": "invisible-translate-widget",
+    "path": "threads/2025/invisible-translate-widget.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2025/invisible-translate-widget.md",
+    "title": "Invisible translate widget",
+    "date": "2025-10-15T13:45:16.993445Z",
+    "excerpt": "Back in 2017 I built an \"invisible\" Google Translate widget. Looked like a tiny UX win, but the real pattern was simulating control over a black-box iframe and living with the tradeoffs between control, compliance, and breakage. 🌐👇",
+    "attributes": {
+      "twitter": "https://x.com/AnandChowdhary/status/1978457100423741819"
+    }
+  },
+  {
     "slug": "tiny-streaming-json-parser",
     "path": "threads/2025/tiny-streaming-json-parser.md",
     "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2025/tiny-streaming-json-parser.md",
