@@ -1,5 +1,27 @@
 [
   {
+    "slug": "fewer-turns-lower-costs",
+    "path": "threads/2025/fewer-turns-lower-costs.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2025/fewer-turns-lower-costs.md",
+    "title": "Fewer turns lower costs",
+    "date": "2025-10-16T21:15:17.452722Z",
+    "excerpt": "I'm seeing turns beat tokens. GPT‑5 and o3 top 4.1 on GPQA‑Diamond and τ²‑Bench Telecom, and they finish agent flows in fewer rounds.\n\nWith flat pricing, net cost lands near 4.1 because fewer turns. 👇",
+    "attributes": {
+      "twitter": "https://x.com/AnandChowdhary/status/1978932724275765700"
+    }
+  },
+  {
+    "slug": "haiku-outspeeds-sonnet-on-bench",
+    "path": "threads/2025/haiku-outspeeds-sonnet-on-bench.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2025/haiku-outspeeds-sonnet-on-bench.md",
+    "title": "Haiku outspeeds Sonnet on bench",
+    "date": "2025-10-16T15:15:14.507441Z",
+    "excerpt": "Haiku 4.5 just nuked the frontier tax: Sonnet‑tier coding on SWE‑bench‑V (~73%) at $1/$5 per MTok and 2-4x faster. Augment pegs it at ~90% of Sonnet 4.5.\n\nMy playbook: Sonnet plans, Haiku executes.\n\nYour burn rate will thank you. 👇",
+    "attributes": {
+      "twitter": "https://x.com/AnandChowdhary/status/1978842126894223395"
+    }
+  },
+  {
     "slug": "wikibility-makes-wikipedia-readable",
     "path": "threads/2025/wikibility-makes-wikipedia-readable.md",
     "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2025/wikibility-makes-wikipedia-readable.md",
