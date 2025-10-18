@@ -1,5 +1,27 @@
 [
   {
+    "slug": "affiliate-programs-are-infrastructure",
+    "path": "threads/2025/affiliate-programs-are-infrastructure.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2025/affiliate-programs-are-infrastructure.md",
+    "title": "Affiliate programs are infrastructure",
+    "date": "2025-10-17T13:45:14.197048Z",
+    "excerpt": "Affiliate programs are infrastructure. When I wrote this in 2017 it felt niche. By 2025 it is a real product category. Think @dubdotco. Links to attribution to compliance to payouts. Treat it like systems work. 🔗👇",
+    "attributes": {
+      "twitter": "https://x.com/AnandChowdhary/status/1979181864687648989"
+    }
+  },
+  {
+    "slug": "chatgpt-auto-memory-and-privacy",
+    "path": "threads/2025/chatgpt-auto-memory-and-privacy.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2025/chatgpt-auto-memory-and-privacy.md",
+    "title": "ChatGPT auto memory and privacy",
+    "date": "2025-10-17T05:45:16.940065Z",
+    "excerpt": "ChatGPT now has auto memory. Less prompt stuffing. A recency × frequency gate chooses what gets auto injected. Plus and Pro can search, sort, and reprioritize. Fewer tokens, bigger privacy surface: dual deletes and 30 day logs. 🧠👇",
+    "attributes": {
+      "twitter": "https://x.com/AnandChowdhary/status/1979061067788750896"
+    }
+  },
+  {
     "slug": "fewer-turns-lower-costs",
     "path": "threads/2025/fewer-turns-lower-costs.md",
     "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2025/fewer-turns-lower-costs.md",
