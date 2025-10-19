@@ -1,5 +1,16 @@
 [
   {
+    "slug": "persistent-agents-with-memory",
+    "path": "threads/2025/persistent-agents-with-memory.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2025/persistent-agents-with-memory.md",
+    "title": "Persistent agents with memory",
+    "date": "2025-10-18T13:45:13.996170Z",
+    "excerpt": "OpenAI just moved state up the stack. ChatGPT gets recency and frequency weighted memory with search and user reprioritization. Sora 2 adds web Storyboards and 15-25s horizons.\n\nNet effect: persistent agents and shot-level control. 👇",
+    "attributes": {
+      "twitter": "https://x.com/AnandChowdhary/status/1979544251177591031"
+    }
+  },
+  {
     "slug": "affiliate-programs-are-infrastructure",
     "path": "threads/2025/affiliate-programs-are-infrastructure.md",
     "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2025/affiliate-programs-are-infrastructure.md",
