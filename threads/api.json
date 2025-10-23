@@ -1,5 +1,27 @@
 [
   {
+    "slug": "geometric-attention-patterns",
+    "path": "threads/2025/geometric-attention-patterns.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2025/geometric-attention-patterns.md",
+    "title": "Geometric attention patterns",
+    "date": "2025-10-22T23:15:11.258318Z",
+    "excerpt": "Anthropic poked Claude 3.5 Haiku and found clean geometric transforms and cross layer, head heavy attention circuits. If these patterns are stable, we can write unit tests and add regularizers like real code.\n\nThe catch is faithfulness with frozen attention and model swaps. 👇",
+    "attributes": {
+      "twitter": "https://x.com/AnandChowdhary/status/1981137248700825967"
+    }
+  },
+  {
+    "slug": "vision-tokens-shrink-with-compression",
+    "path": "threads/2025/vision-tokens-shrink-with-compression.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2025/vision-tokens-shrink-with-compression.md",
+    "title": "Vision tokens shrink with compression",
+    "date": "2025-10-22T15:15:14.386464Z",
+    "excerpt": "Vision tokens are going on a diet. DeepSeek-OCR's render→encode→decode slashes KV cache, and Zhipu's Glyph gets 3-4x compression with similar quality and faster prefill. Vision as a learned lossy codec points to continuous tokenizers. 👀👇",
+    "attributes": {
+      "twitter": "https://x.com/AnandChowdhary/status/1981016465223594488"
+    }
+  },
+  {
     "slug": "accelerator-as-a-network-protocol",
     "path": "threads/2025/accelerator-as-a-network-protocol.md",
     "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2025/accelerator-as-a-network-protocol.md",
