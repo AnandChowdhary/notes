@@ -1,5 +1,16 @@
 [
   {
+    "slug": "lite-apps-for-fast-rides",
+    "path": "threads/2025/lite-apps-for-fast-rides.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2025/lite-apps-for-fast-rides.md",
+    "title": "Lite apps for fast rides",
+    "date": "2025-10-25T16:15:19.725338-05:00",
+    "excerpt": "Lite can mean a thin native shell with a rich web core.\n\nBack in 2017 my note was blunt: run m.uber\\.com in a web view with Material navigation and ship fast on low-end phones and slow networks.\n\nGoal: shortest time to first ride. 🚕👇",
+    "attributes": {
+      "twitter": "https://x.com/AnandChowdhary/status/1982194211824046351"
+    }
+  },
+  {
     "slug": "free-audible-on-librivox",
     "path": "threads/2025/free-audible-on-librivox.md",
     "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2025/free-audible-on-librivox.md",
