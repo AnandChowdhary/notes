@@ -1,5 +1,27 @@
 [
   {
+    "slug": "culture-beats-clever-logos",
+    "path": "threads/2025/culture-beats-clever-logos.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2025/culture-beats-clever-logos.md",
+    "title": "Culture beats clever logos",
+    "date": "2025-10-27T17:15:15.069830-05:00",
+    "excerpt": "I keep coming back to this: in consumer apps, clever letterforms matter less than instant, cultural recognition. In India, the icon and the language you greet users with build more trust than a tagline. Only if the app earns it in use. 🎵👇",
+    "attributes": {
+      "twitter": "https://x.com/AnandChowdhary/status/1982934091764044249"
+    }
+  },
+  {
+    "slug": "token-oriented-object-notation",
+    "path": "threads/2025/token-oriented-object-notation.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2025/token-oriented-object-notation.md",
+    "title": "Token oriented object notation",
+    "date": "2025-10-27T05:45:03.592106-05:00",
+    "excerpt": "Found a neat format for LLM prompts: TOON  -  Token‑Oriented Object Notation. Compact, human‑readable, and designed to cut structured‑data tokens by ~30-60%. I keep bumping into context limits, so this is right up my alley.\n\nThink YAML‑style indentation meets CSV‑like rows. Declare the schema once (users[3]{id,name,role}) and stream values without repeating keys. Minimal punctuation and very readable. My kind of minimalism.\n\nNice guardrails for models too. Explicit counts and field lists make outputs easier to validate. Benchmarks in the repo show big wins: 50 records goes 2,159 → 762 tokens (64.7%). Across examples, ~60.9% fewer with o200k_base. Your mileage will vary.\n\nFeels handy for tool calling, RAG, or any prompt with large arrays. There's a TypeScript package (@byjohann/toon) with a simple encode(json) entrypoint. Install via npm/pnpm/yarn and start saving tokens.\n\nRepo: https://github.com/johannschopplich/toon",
+    "attributes": {
+      "twitter": "https://x.com/AnandChowdhary/status/1982760447817482385"
+    }
+  },
+  {
     "slug": "lite-apps-for-fast-rides",
     "path": "threads/2025/lite-apps-for-fast-rides.md",
     "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2025/lite-apps-for-fast-rides.md",
