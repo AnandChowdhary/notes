@@ -1,5 +1,16 @@
 [
   {
+    "slug": "claude-edges-enterprise-apis",
+    "path": "threads/2025/claude-edges-enterprise-apis.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2025/claude-edges-enterprise-apis.md",
+    "title": "Claude edges enterprise APIs",
+    "date": "2025-10-28T05:45:23.219650-05:00",
+    "excerpt": "Menlo's data says Claude is edging out OpenAI on enterprise APIs. Why? Vertical, compliance-first agents. Excel sidecar with cell-level provenance, MCP into LSEG/Moody's, and baked-in DCF/coverage skills. Audit wins. Vibes don't.",
+    "attributes": {
+      "twitter": "https://x.com/AnandChowdhary/status/1983122846957404271"
+    }
+  },
+  {
     "slug": "culture-beats-clever-logos",
     "path": "threads/2025/culture-beats-clever-logos.md",
     "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2025/culture-beats-clever-logos.md",
