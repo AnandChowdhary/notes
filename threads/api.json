@@ -1,5 +1,27 @@
 [
   {
+    "slug": "turning-a-painting-into-play",
+    "path": "threads/2025/turning-a-painting-into-play.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2025/turning-a-painting-into-play.md",
+    "title": "Turning a painting into play",
+    "date": "2025-10-30T11:15:15.945746-05:00",
+    "excerpt": "Turning a painting into play is a tight box. In 2017 I built Abendgebet, a two hour Processing side scroller (yes, really) that turns Milan Kunc's \"evening prayer\" into motion.\n\nWhat worked, what broke, and what a tiny honest game can teach. 🎮👇",
+    "attributes": {
+      "twitter": "https://x.com/AnandChowdhary/status/1983930661493993493"
+    }
+  },
+  {
+    "slug": "nemotron-nano-2-vl-launches",
+    "path": "threads/2025/nemotron-nano-2-vl-launches.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2025/nemotron-nano-2-vl-launches.md",
+    "title": "Nemotron nano 2 vl launches",
+    "date": "2025-10-29T19:15:21.765133-05:00",
+    "excerpt": "Nemotron Nano 2 VL: 12B Mamba‑Transformer VLM, 128k ctx, 4 imgs or 1 video. Trained on 11M samples incl. 8M CC‑BY. EVS ≈2.5x video throughput. With HF, Replicate, Baseten, Nebius, OCR and video RAG are edging into on‑prem commodity.",
+    "attributes": {
+      "twitter": "https://x.com/AnandChowdhary/status/1983689060263796823"
+    }
+  },
+  {
     "slug": "claude-edges-enterprise-apis",
     "path": "threads/2025/claude-edges-enterprise-apis.md",
     "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2025/claude-edges-enterprise-apis.md",
