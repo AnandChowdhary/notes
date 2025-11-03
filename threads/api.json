@@ -1,5 +1,16 @@
 [
   {
+    "slug": "a-private-writing-tool",
+    "path": "threads/2025/a-private-writing-tool.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2025/a-private-writing-tool.md",
+    "title": "A private writing tool",
+    "date": "2025-11-02T04:45:13.531342-06:00",
+    "excerpt": "Back in 2018 I hacked together Words, a tiny writing API for two people. The point was simple: type, hit save, no friction, and keep our notes private without spinning up a database. It mattered to me because these were personal messages to my partner, and I wanted control over my data more than features. ✍️👇",
+    "attributes": {
+      "twitter": "https://x.com/AnandChowdhary/status/1984934768602194292"
+    }
+  },
+  {
     "slug": "devanagari-conjuncts-are-not-ligatures",
     "path": "threads/2025/devanagari-conjuncts-are-not-ligatures.md",
     "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2025/devanagari-conjuncts-are-not-ligatures.md",
