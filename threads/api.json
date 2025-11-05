@@ -1,5 +1,16 @@
 [
   {
+    "slug": "alert-when-not-on-list",
+    "path": "threads/2025/alert-when-not-on-list.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2025/alert-when-not-on-list.md",
+    "title": "Alert when not on list",
+    "date": "2025-11-04T10:15:18.288511-06:00",
+    "excerpt": "Found a 2017 note titled \"Security inolenentation\" (typo and all). The idea was simple on paper: notify me if a person isn't on the list. That maps to open set face verification, with a mobile-first demo. Prove the tech, then show the UI. 🛡️👇",
+    "attributes": {
+      "twitter": "https://x.com/AnandChowdhary/status/1985742599622443235"
+    }
+  },
+  {
     "slug": "clean-metadata-unlocks-discovery",
     "path": "threads/2025/clean-metadata-unlocks-discovery.md",
     "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2025/clean-metadata-unlocks-discovery.md",
