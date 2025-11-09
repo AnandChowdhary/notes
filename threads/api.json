@@ -1,5 +1,16 @@
 [
   {
+    "slug": "ar-profile-consent-and-access",
+    "path": "threads/2025/ar-profile-consent-and-access.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2025/ar-profile-consent-and-access.md",
+    "title": "Ar profile consent and access",
+    "date": "2025-11-08T08:45:13.540822-06:00",
+    "excerpt": "AR needs a clean way to attach a profile to a person or a place. Drawing a handle over a head is easy. The real work is consent, authentication, and context. Who should see what, on which device, and when. Plus anti spoofing and graceful failure when trust is missing. 🥽👇",
+    "attributes": {
+      "twitter": "https://x.com/AnandChowdhary/status/1987169493341364277"
+    }
+  },
+  {
     "slug": "alt-text-safety-net",
     "path": "threads/2025/alt-text-safety-net.md",
     "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2025/alt-text-safety-net.md",
