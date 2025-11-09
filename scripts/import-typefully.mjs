@@ -26,7 +26,7 @@ const generateTitle = async (text, examples) => {
             messages: [
               {
                 role: "system",
-                content: `Generate a short title for the given article. The title should be in sentence case with no punctuation and no more than 4-5 words. Respond only with the title, no other text. Examples:\n${examples}`,
+                content: `Generate a short title for the given article. The title should be in sentence case with no punctuation and no more than 4-5 words. Respond only with the title, no other text. Examples:\n- Apple's new iPhone Air is underwhelming\n${examples}`,
               },
               { role: "user", content: text },
             ],
