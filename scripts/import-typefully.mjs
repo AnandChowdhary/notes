@@ -1,10 +1,14 @@
+import dotenv from "dotenv";
 import { NodeHtmlMarkdown } from "node-html-markdown";
 import { mkdir, readFile, writeFile } from "node:fs/promises";
+dotenv.config();
+
+const SOCIAL_SET_ID = "31080";
 
 // Helper function to escape HTML-like content that should be treated as literal text
 const escapeNonHtmlTags = (html) => {
   // Escape tags with dots (like <emory.get>) which are not valid HTML tags
-  return html.replace(/<([^>\s]*\.[^>]*?)>/g, '&lt;$1&gt;');
+  return html.replace(/<([^>\s]*\.[^>]*?)>/g, "&lt;$1&gt;");
 };
 
 const generateTitle = async (text, examples) => {
@@ -78,7 +82,9 @@ const data = async () => {
   for (const draft of data) {
     if (!draft.twitter_url) continue;
 
-    const threadContent = NodeHtmlMarkdown.translate(escapeNonHtmlTags(draft.html));
+    const threadContent = NodeHtmlMarkdown.translate(
+      escapeNonHtmlTags(draft.html)
+    );
     if (threadContent.length < 500) {
       console.log(
         `Skipping thread with ${threadContent.length} characters (less than 500): ${draft.twitter_url}`
