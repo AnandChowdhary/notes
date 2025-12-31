@@ -1,7 +1,0 @@
----
-title: Found this in my 2017 notes ChromeVox light Ba
-date: 2025-12-10T14:44:02.425Z
-url: https://x.com/AnandChowdhary/status/1998765655265522005
----
-
-Found this in my 2017 notes: "ChromeVox light." Back then at Oswald Labs, I hacked together a JavaScript screen reader inspired by Google's ChromeVox, something you could embed directly into any website 🧪👇 In 2017, this felt a bit rebellious. Screen readers were OS-level tools. The story for developers was simple. Use semantic HTML, sprinkle in ARIA, and trust assistive tech to handle the rest. I wanted to flip that. What if the site shipped its own assistive layer so users did not need to install anything? The tech was fun and fragile at the same time. JavaScript walked the DOM, guessed landmarks, listened for keyboard shortcuts, and spoke via the Web Speech API. But it sat in the messiest layer, fighting other scripts and layouts, and it subtly broke consistency. Every site could now "feel" like a different screen reader. Looking at it in 2025, I still like the instinct but I trust the boring path more. Shared semantics, platform APIs, and users choosing their own tools age better than clever overlays. Page-level readers are still interesting experiments. A web that does not need them is the actual target. Here's the original note from 2017: https://github.com/AnandChowdhary/notes/blob/main/notes/2017/chrome-vox-light.md

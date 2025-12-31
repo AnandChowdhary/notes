@@ -1,1 +1,1 @@
-Ara: People database to match emails with humans, use things like first-letter.lastname@example.com for names in emails, plus Clearbit APIs. Then we can have Slack Ara too who understands @anand means my email
+Ara: People database to match emails with humans, use things like first-letter.lastname (at) example.com for names in emails, plus Clearbit APIs. Then we can have Slack Ara too who understands @anand means my email
