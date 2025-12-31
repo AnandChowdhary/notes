@@ -1,11 +1,9 @@
-import dotenv from "dotenv";
 import { NodeHtmlMarkdown } from "node-html-markdown";
 import { mkdir, readFile, writeFile } from "node:fs/promises";
-import { dirname, join } from "node:path";
+import { dirname } from "node:path";
 import { fileURLToPath } from "node:url";
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
-dotenv.config({ path: join(__dirname, ".env") });
 
 const SOCIAL_SET_ID = "31080";
 
