@@ -22,7 +22,7 @@ jobs:
           node-version: "lts/*"
 
       - name: Install dependencies
-        run: npm install node-html-markdown
+        run: npm install && npm install node-html-markdown
 
       - name: Add threads
         run: node scripts/import-typefully.mjs
