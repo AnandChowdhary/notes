@@ -1,7 +1,11 @@
 import dotenv from "dotenv";
 import { NodeHtmlMarkdown } from "node-html-markdown";
 import { mkdir, readFile, writeFile } from "node:fs/promises";
-dotenv.config();
+import { dirname, join } from "node:path";
+import { fileURLToPath } from "node:url";
+
+const __dirname = dirname(fileURLToPath(import.meta.url));
+dotenv.config({ path: join(__dirname, ".env") });
 
 const SOCIAL_SET_ID = "31080";
 
@@ -9,6 +13,23 @@ const SOCIAL_SET_ID = "31080";
 const escapeNonHtmlTags = (html) => {
   // Escape tags with dots (like <emory.get>) which are not valid HTML tags
   return html.replace(/<([^>\s]*\.[^>]*?)>/g, "&lt;$1&gt;");
+};
+
+// Helper function to extract first tweet text from preview
+const extractFirstTweet = (preview) => {
+  if (!preview) return "";
+
+  // Convert HTML to plain text and get first paragraph/segment
+  const plainText = preview
+    .replace(/<[^>]*>/g, "") // Strip HTML tags
+    .replace(/&lt;/g, "<")
+    .replace(/&gt;/g, ">")
+    .replace(/&amp;/g, "&")
+    .trim();
+
+  // Take first 280 characters or up to first double newline
+  const firstSegment = plainText.split(/\n\n/)[0];
+  return firstSegment.substring(0, 280).trim();
 };
 
 const generateTitle = async (text, examples) => {
@@ -38,37 +59,74 @@ const generateTitle = async (text, examples) => {
         }
       );
       const data = await response.json();
+
+      if (!data.choices || !data.choices[0]) {
+        console.error("OpenAI API error:", JSON.stringify(data));
+        return undefined;
+      }
+
       return data.choices[0].message.content.trim();
     } catch (error) {
-      console.error(error);
+      console.error("Failed to generate title:", error);
       return undefined;
     }
 };
 
 const data = async () => {
-  const response = await fetch(
-    "https://api.typefully.com/v1/drafts/recently-published/",
-    { headers: { "X-API-Key": process.env.TYPEFULLY_API_KEY } }
-  );
-  /**
-   * @type {{
-   *   id: number;
-   *   status: string;
-   *   html: string;
-   *   num_tweets: number;
-   *   last_edited: string;
-   *   scheduled_date: string;
-   *   published_on: string;
-   *   share_url: string | null;
-   *   twitter_url: string | null;
-   *   linkedin_url: string | null;
-   *   text_first_tweet: string;
-   *   html_first_tweet: string;
-   *   text_preview_linkedin: string | null;
-   * }[]}
-   */
-  const data = await response.json();
-  console.log("Found", data.length, "drafts");
+  // Fetch all drafts using pagination
+  const allDrafts = [];
+  let url = `https://api.typefully.com/v2/social-sets/${SOCIAL_SET_ID}/drafts`;
+
+  while (url) {
+    const response = await fetch(url, {
+      headers: { Authorization: `Bearer ${process.env.TYPEFULLY_API_KEY}` },
+    });
+
+    /**
+     * @type {{
+     *   count: number;
+     *   limit: number;
+     *   offset: number;
+     *   next: string | null;
+     *   previous: string | null;
+     *   results: {
+     *     id: string;
+     *     social_set_id: number;
+     *     status: string;
+     *     created_at: string;
+     *     updated_at: string;
+     *     published_at: string;
+     *     scheduled_date: string | null;
+     *     draft_title: string | null;
+     *     preview: string;
+     *     tags: string[];
+     *     share_url: string | null;
+     *     private_url: string | null;
+     *     x?: {
+     *       url?: string;
+     *       publication_url?: string;
+     *       published_at?: string;
+     *     };
+     *     linkedin?: {
+     *       url?: string;
+     *       published_at?: string;
+     *     };
+     *   }[];
+     * }}
+     */
+    const paginatedData = await response.json();
+
+    // Debug: log the response structure
+    if (!paginatedData.results) {
+      console.error("Unexpected API response structure:", JSON.stringify(paginatedData, null, 2));
+      throw new Error("API response does not contain 'results' field");
+    }
+
+    allDrafts.push(...paginatedData.results);
+    url = paginatedData.next;
+  }
+
+  console.log("Found", allDrafts.length, "drafts");
   await mkdir("./threads", { recursive: true });
   const existing = await readFile("./threads/api.json", "utf-8");
   const existingApi = JSON.parse(existing);
@@ -79,27 +137,79 @@ const data = async () => {
     .slice(0, 10)
     .join("\n");
 
-  for (const draft of data) {
-    if (!draft.twitter_url) continue;
+  let processedCount = 0;
+  let skippedPublishedCount = 0;
+  let skippedNoUrlCount = 0;
+  let skippedTooShortCount = 0;
+  let skippedAlreadyExistsCount = 0;
+  let addedCount = 0;
+
+  for (const rawDraft of allDrafts) {
+    // Only process published drafts with Twitter/X URLs
+    if (rawDraft.status !== "published") {
+      skippedPublishedCount++;
+      continue;
+    }
+    if (!rawDraft.x_published_url) {
+      skippedNoUrlCount++;
+      continue;
+    }
+
+    processedCount++;
+
+    // Fetch full draft details to get complete content
+    const detailResponse = await fetch(
+      `https://api.typefully.com/v2/social-sets/${SOCIAL_SET_ID}/drafts/${rawDraft.id}`,
+      {
+        headers: { Authorization: `Bearer ${process.env.TYPEFULLY_API_KEY}` },
+      }
+    );
+    const fullDraft = await detailResponse.json();
+
+    // Extract X/Twitter posts
+    const xPosts = fullDraft.platforms?.x?.posts || [];
+    const threadText = xPosts.map((post) => post.text).join("\n\n");
+    const firstTweetText = xPosts[0]?.text || "";
+
+    // Map v2 fields to v1-compatible structure
+    const draft = {
+      html: threadText,
+      twitter_url: rawDraft.x_published_url,
+      published_on: rawDraft.published_at,
+      text_first_tweet: firstTweetText,
+    };
 
     const threadContent = NodeHtmlMarkdown.translate(
       escapeNonHtmlTags(draft.html)
     );
     if (threadContent.length < 500) {
-      console.log(
-        `Skipping thread with ${threadContent.length} characters (less than 500): ${draft.twitter_url}`
-      );
+      skippedTooShortCount++;
       continue;
     }
-
-    console.log(draft.twitter_url);
 
     const existingItem = api.find(
       (item) => item.attributes.twitter === draft.twitter_url
     );
-    const title =
-      existingItem?.title ??
-      (await generateTitle(draft.text_first_tweet, examples));
+
+    if (existingItem) {
+      skippedAlreadyExistsCount++;
+      continue;
+    }
+
+    console.log("Adding new thread:", draft.twitter_url);
+
+    let title = await generateTitle(draft.text_first_tweet, examples);
+
+    // Fallback if title generation fails
+    if (!title) {
+      console.warn("Title generation failed, using fallback for:", draft.twitter_url);
+      title = draft.text_first_tweet
+        .substring(0, 50)
+        .replace(/[^a-zA-Z0-9\s]/g, "")
+        .trim();
+      if (!title) title = "Untitled thread";
+    }
+
     const slug = title.toLowerCase().replace(/[^a-z0-9]+/g, "-");
 
     api.push({
@@ -130,6 +240,8 @@ url: ${draft.twitter_url}
 ${NodeHtmlMarkdown.translate(escapeNonHtmlTags(draft.html))}\n`
     );
 
+    addedCount++;
+
     await writeFile(
       "./threads/api.json",
       JSON.stringify(
@@ -147,6 +259,15 @@ ${NodeHtmlMarkdown.translate(escapeNonHtmlTags(draft.html))}\n`
       )
     );
   }
+
+  console.log("\nImport Summary:");
+  console.log("  Total drafts from API:", allDrafts.length);
+  console.log("  Skipped (not published):", skippedPublishedCount);
+  console.log("  Skipped (no Twitter URL):", skippedNoUrlCount);
+  console.log("  Processed:", processedCount);
+  console.log("  Skipped (too short):", skippedTooShortCount);
+  console.log("  Skipped (already exists):", skippedAlreadyExistsCount);
+  console.log("  Added new threads:", addedCount);
 };
 
 data();
