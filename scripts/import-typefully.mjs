@@ -33,18 +33,20 @@ const extractFirstTweet = (preview) => {
 };
 
 const generateTitle = async (text, examples) => {
-  const token = process.env.OPENAI_API_KEY;
-  const model = "gpt-5-nano";
+  const token = process.env.GITHUB_TOKEN;
+  const model = "openai/gpt-5-nano";
 
   if (token)
     try {
       const response = await fetch(
-        "https://api.openai.com/v1/chat/completions",
+        "https://models.github.ai/inference/chat/completions",
         {
           method: "POST",
           headers: {
-            "Content-Type": "application/json",
+            Accept: "application/vnd.github+json",
             Authorization: `Bearer ${token}`,
+            "X-GitHub-Api-Version": "2022-11-28",
+            "Content-Type": "application/json",
           },
           body: JSON.stringify({
             model,
@@ -61,7 +63,7 @@ const generateTitle = async (text, examples) => {
       const data = await response.json();
 
       if (!data.choices || !data.choices[0]) {
-        console.error("OpenAI API error:", JSON.stringify(data));
+        console.error("GitHub Models API error:", JSON.stringify(data));
         return undefined;
       }
 
@@ -118,7 +120,10 @@ const data = async () => {
 
     // Debug: log the response structure
     if (!paginatedData.results) {
-      console.error("Unexpected API response structure:", JSON.stringify(paginatedData, null, 2));
+      console.error(
+        "Unexpected API response structure:",
+        JSON.stringify(paginatedData, null, 2)
+      );
       throw new Error("API response does not contain 'results' field");
     }
 
@@ -202,7 +207,10 @@ const data = async () => {
 
     // Fallback if title generation fails
     if (!title) {
-      console.warn("Title generation failed, using fallback for:", draft.twitter_url);
+      console.warn(
+        "Title generation failed, using fallback for:",
+        draft.twitter_url
+      );
       title = draft.text_first_tweet
         .substring(0, 50)
         .replace(/[^a-zA-Z0-9\s]/g, "")
