@@ -34,8 +34,8 @@ const generateTitle = async (text, examples) => {
   const token = process.env.GITHUB_TOKEN;
   const model = "openai/gpt-5-nano";
 
-  if (token)
-    try {
+  if (token) {
+    const attemptRequest = async () => {
       const response = await fetch(
         "https://models.github.ai/inference/chat/completions",
         {
@@ -62,14 +62,28 @@ const generateTitle = async (text, examples) => {
 
       if (!data.choices || !data.choices[0]) {
         console.error("GitHub Models API error:", JSON.stringify(data));
-        return undefined;
+        throw new Error("Invalid API response");
       }
 
       return data.choices[0].message.content.trim();
+    };
+
+    try {
+      return await attemptRequest();
     } catch (error) {
-      console.error("Failed to generate title:", error);
-      return undefined;
+      console.error(
+        "Failed to generate title, retrying after 10 seconds:",
+        error
+      );
+      await new Promise((resolve) => setTimeout(resolve, 10000));
+      try {
+        return await attemptRequest();
+      } catch (retryError) {
+        console.error("Failed to generate title after retry:", retryError);
+        return undefined;
+      }
     }
+  }
 };
 
 const data = async () => {
@@ -199,6 +213,7 @@ const data = async () => {
       continue;
     }
 
+    await new Promise((resolve) => setTimeout(resolve, 2000));
     console.log("Adding new thread:", draft.twitter_url);
 
     let title = await generateTitle(draft.text_first_tweet, examples);
