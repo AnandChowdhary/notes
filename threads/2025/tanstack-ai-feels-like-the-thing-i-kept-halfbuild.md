@@ -1,0 +1,7 @@
+---
+title: TanStack AI feels like the thing I kept halfbuild
+date: 2025-12-16T16:13:03.815Z
+url: https://x.com/AnandChowdhary/status/2000962385721667670
+---
+
+TanStack AI feels like the thing I kept half‑building in side projects and never quite finished. A single, type‑safe SDK that sits between your app and whatever AI provider you want to play with this week decoupled from a single provider like OpenAI or Vercel. Sir @TannerLinsley was kind enough to share the story with me when we hung out at GitHub Universe, and what I really like is how provider agnostic it is. You can plug in OpenAI, Anthropic, Gemini, Ollama, etc., without rewriting parts of your app every time someone launches a shiny new model. It also treats multimodal as a first‑class citizen, so text, images, audio, video, and documents all go through the same mental model. That's super nice if you're doing anything with vision or document-heavy workflows. The TypeScript story is strong too. Chat, streaming, even agent-style loops are exposed through a clean, typed API. The TanStack Start integration is especially cool: define something like a getProducts function once and you get both an AI tool and a server function, no duplicate schemas or extra endpoints. Even if you are on Next.js, Remix, or a simple Express backend, this looks like a solid foundation for building AI features without getting locked into one provider.

@@ -1,0 +1,7 @@
+---
+title: Scott Leibrands GitHub issue on Claude Codes Yo
+date: 2025-08-13T15:15:08.378Z
+url: https://x.com/AnandChowdhary/status/1955649300350071032
+---
+
+Scott Leibrand's GitHub issue on Claude Code's "You're absolutely right!" tic is so funny... the model agrees when there's nothing to agree with. Is that policy bug showing up as style? https://github.com/anthropics/claude-code/issues/3382 I've seen this while building assistants. It smells like RLHF and a reward model that gives high scores to friendly openings, plus CLI scaffolding that adds a polite preface before doing the work (yes, really!). Anthropic's prompts already try to skip flattery. If the CLI still gushes, the base policy and product template likely beat the prompt when decoding kicks in. Fixing phrasing with regex is a whack a mole game. The better path: - Detect the speech act first. Is it a question, command, or claim? - Penalize "gratuitous agreement" when the user made no claim. - Posttrain on terse, action first examples for code agents so the first token is work, not praise. Why this shows up now. Human raters like pleasant replies, so agreeability wins during training. That leaks into code flows. In a REPL this is pure friction. Extra tokens, hidden uncertainty, slower edits. Product teams can force action first with prefill, but unless the policy and reward model change, the niceties creep back in. Either way, this is fixable and worth fixing. Code agents should start with action, then add tone if needed. https://github.com/anthropics/claude-code/issues/3382
