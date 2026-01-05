@@ -1,5 +1,16 @@
 [
   {
+    "slug": "the-race-for-llm-standards",
+    "path": "threads/2026/the-race-for-llm-standards.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2026/the-race-for-llm-standards.md",
+    "title": "The race for LLM standards",
+    "date": "2026-01-04T10:48:02.027Z",
+    "excerpt": "Everyone's talking about \"Stripe for LLM APIs\" but the focus should be on the protocol war. Whoever nails a de facto standard for:\n- auth,\n- streaming,\n- tools / function calling,\n- batching,\nacross OpenAI, Anthropic, Gemini, etc. will become the control plane of AI apps.\n\nIf one layer can sit in front of all models and decide:\n- which provider to route to,\n- what guardrails and policies to apply,\n- how to optimize spend and latency,\nthen that layer becomes your API gateway, feature flag system, and FinOps dashboard for LLMs rolled into one.\n\nFor founders, that has two implications:\n1. If you build it, you're not just an adapter. You're potentially the policy and governance brain of multi-model infra.\n2. If you depend on it, you're centralizing a lot of power and lock-in in one place. Great for speed today, interesting for risk tomorrow.\n\nSo yes, \"Stripe for LLMs\" sounds cute. In practice, it is closer to \"Kubernetes for prompts.\" Whoever wins this layer decides how AI apps are actually wired.",
+    "attributes": {
+      "twitter": "https://x.com/AnandChowdhary/status/2007765958925152633"
+    }
+  },
+  {
     "slug": "meta-acquires-manus-platform",
     "path": "threads/2026/meta-acquires-manus-platform.md",
     "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2026/meta-acquires-manus-platform.md",
