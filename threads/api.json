@@ -1,5 +1,38 @@
 [
   {
+    "slug": "unified-permissions-for-access-control",
+    "path": "threads/2026/unified-permissions-for-access-control.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2026/unified-permissions-for-access-control.md",
+    "title": "Unified permissions for access control",
+    "date": "2026-01-06T22:14:04.993Z",
+    "excerpt": "Found this in my notes from November 2017: \"Have permissions as a flow. if (hasPermission(\"admin\", STARTUPID)) then let her do things; is_su, is_founder, is_owner, etc. Can also add permission manager.\"  I had this idea of building a unified RBAC layer; today several startups do this.\" 🔐👇\n\nBack then, most products had ad-hoc checks scattered across the codebase. Identity was centralized with OAuth, but authorization was copy paste glue. This tiny note was basically make permissions a single flow instead of a hundred if-statements.\n\nWhat aged well is the instinct to centralize one question: \"Can this user do X on Y right now?\" Contextual roles like admin, founder, owner hinted at org-level, time-bound access, which is exactly what modern permissions infra startups now package as policy engines, dashboards, and audit logs.\n\nWhat we all underestimated is how gnarly this gets when you try to make it generic: tenants, row-level access, attributes vs roles, and performance when every request becomes a policy eval.",
+    "attributes": {
+      "twitter": "https://x.com/AnandChowdhary/status/2008663372804563238"
+    }
+  },
+  {
+    "slug": "agents-as-modular-packages",
+    "path": "threads/2026/agents-as-modular-packages.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2026/agents-as-modular-packages.md",
+    "title": "Agents as modular packages",
+    "date": "2026-01-06T10:42:03.064Z",
+    "excerpt": "We're basically turning AI agents into npm packages, and it's starting to get interesting.\n\nThis emerging agent package idea - rules + MCP servers + subagents + policies as one shippable thing is like going from copy‑pasted prompts in Notion docs to `import sales_agent` in your stack.\n\nWhat this standard ends up looking like is still evolving. Do we converge on something LSP/MCP‑like, where agents expose a clear capability graph, tools, and contracts that any host can introspect? Or do we keep getting vendor‑flavored bundles that are 60% prompt template, 30% config, and 10% \"lol good luck debugging this in production\"?\n\nA proper spec means:\n- Agents are composable, like libraries, not sacred snowflakes\n- You can swap providers without rewriting half your orchestration layer\n- Security and policy stop living in random YAML at the bottom of a Confluence page\n\nWhoever nails the \"agent as module\" spec is going to define the next decade of how we build AI products. Right now, it still feels like early Node. Lots of excitement. Not enough package-lock.json.",
+    "attributes": {
+      "twitter": "https://x.com/AnandChowdhary/status/2008489229069021369"
+    }
+  },
+  {
+    "slug": "auto-generate-topic-pages",
+    "path": "threads/2026/auto-generate-topic-pages.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2026/auto-generate-topic-pages.md",
+    "title": "Auto generate topic pages",
+    "date": "2026-01-06T00:18:07.835Z",
+    "excerpt": "Found this line in my 2017 notes: \"Generate slugs for user-defined inputs like tags, university, hobby, etc., and add slug to title table with categories ('tag', 'institute') for autocomplete.\" Back in 2025 I'd commented that this lets you auto-generate topic pages and gain SEO, similar to how GitHub works today. 🔍👇",
+    "attributes": {
+      "twitter": "https://x.com/AnandChowdhary/status/2008332189549662430"
+    }
+  },
+  {
     "slug": "moat-becomes-adaptation-velocity",
     "path": "threads/2026/moat-becomes-adaptation-velocity.md",
     "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2026/moat-becomes-adaptation-velocity.md",

@@ -1,0 +1,7 @@
+---
+title: Auto generate topic pages
+date: 2026-01-06T00:18:07.835Z
+url: https://x.com/AnandChowdhary/status/2008332189549662430
+---
+
+Found this line in my 2017 notes: "Generate slugs for user-defined inputs like tags, university, hobby, etc., and add slug to title table with categories ('tag', 'institute') for autocomplete." Back in 2025 I'd commented that this lets you auto-generate topic pages and gain SEO, similar to how GitHub works today. 🔍👇 In 2017 this felt like database housekeeping. Normalize free text so autocomplete works and "MIT" is not stored 10 different ways. But the deeper idea is that every cleaned-up string can become an axis of aggregation. A slug is not just a pretty URL, it is a durable key you can hang a whole page on. Think of a social app where users enter "MIT", "Massachusetts Institute of Technology", or "MIT (Cambridge)". If you slugify and categorize ("institute/mit"), you can deduplicate, improve search, and spin up /institutes/mit with members, posts, events, and related tags. GitHub topics take this to the extreme: any popular string becomes a hub. The tradeoffs are real. Overeager slug creation leads to spammy or empty pages. Aggressive normalization can collapse nuance, like "MIT Media Lab" vs "MIT". From a 2025 lens, the question is not "should we slugify?" but "which user inputs deserve to become durable, navigable concepts in the product?" Here's the original note from 2017: https://github.com/AnandChowdhary/notes/blob/main/notes/2017/mwlii-generate-slugs.md
