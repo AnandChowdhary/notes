@@ -1,5 +1,16 @@
 [
   {
+    "slug": "bots-run-your-software",
+    "path": "threads/2026/bots-run-your-software.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2026/bots-run-your-software.md",
+    "title": "Bots run your software",
+    "date": "2026-01-07T00:18:01.996Z",
+    "excerpt": "We're all secretly betting on the same thing: that \"computer-use\" agents will turn LLMs into a reasonably competent offshore back office that never sleeps and never asks for a Zoom call.\n\nIn more technical terms, this is really a bet that GUI-grounded RL + hierarchical planning will get good enough that agents can reliably operate real software, not just toy UIs in a demo. If OSWorld or WebArena style benchmarks start hitting 80%+ success on multi-step tasks, the constraint stops being model quality.\n\nAt that point, the hard problem moves to us. You'll need to refactor your product and internal tools so an always-on, API-less RPA layer can click through your app like a power user. That means:\n- Cleaning up chaotic workflows that only your ops lead understands.\n- Making UI states and errors unambiguous enough that an agent does not rage-quit.\n- Rethinking job design where \"open Chrome, log in, export CSV\" is no longer human work.\n\nIf these agents actually work, your SaaS is no longer used by people but used by people and bots in the same interface. Which is fun. And also a little terrifying.",
+    "attributes": {
+      "twitter": "https://x.com/AnandChowdhary/status/2008694577692291412"
+    }
+  },
+  {
     "slug": "unified-permissions-for-access-control",
     "path": "threads/2026/unified-permissions-for-access-control.md",
     "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2026/unified-permissions-for-access-control.md",
