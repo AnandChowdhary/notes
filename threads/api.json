@@ -1,5 +1,38 @@
 [
   {
+    "slug": "skills-as-software-assets",
+    "path": "threads/2026/skills-as-software-assets.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2026/skills-as-software-assets.md",
+    "title": "Skills as software assets",
+    "date": "2026-01-08T22:18:02.586Z",
+    "excerpt": "Anthropic turning Claude Skills into a vendor‑neutral Agent Skills spec + org‑level admin and a public directory, is basically Dockerfiles for LLM workflows.\n\nYou get a portable unit that says:\n- here's the procedure,\n- here are the tools,\n- here's how to wire them up,\nand you can drag that whole thing across IDEs, agent runtimes, and model vendors without rewriting the same glue code for the 17th time. The skill becomes the artifact, not the surrounding platform.\n\nThis is sneaky important. It means you can:\n- Standardize how your team defines AI workflows\n- Swap underlying models or infra without blowing up your \"agent logic\"\n- Publish or consume a marketplace of reusable skills, like npm for procedures\n\nWe might finally stop encoding business processes inside one-off prompt chains tied to one vendor's UI. Skills become versioned, reviewable, testable units you can treat like real software assets.\n\nOf course, this only works if enough of us treat the spec as a baseline instead of a marketing feature. But if that happens, \"which LLM are you using?\" becomes less critical than \"which skills are you running?\", which is a much more interesting question.",
+    "attributes": {
+      "twitter": "https://x.com/AnandChowdhary/status/2009389156821283089"
+    }
+  },
+  {
+    "slug": "from-copilot-to-junior-engineer",
+    "path": "threads/2026/from-copilot-to-junior-engineer.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2026/from-copilot-to-junior-engineer.md",
+    "title": "From copilot to junior engineer",
+    "date": "2026-01-08T10:41:02.149Z",
+    "excerpt": "I got early access to GPT‑5.2‑Codex and I think it's the first time it fully upgraded the job title from \"LLM as copilot\" to \"LLM as slightly overconfident junior staff engineer.\"\n\nIt does score well on SWE‑Bench Pro and solves real CTFs. How it gets there is as important. Native context compaction means it can actually keep a large codebase in its head without falling over, and the tool‑centric training makes it behave less like a autocomplete engine and more like someone who knows when to grep, when to run tests, and when to call a debugger.\n\nOn the security side, OpenAI is basically saying the quiet part out loud: To make this good at high‑risk cyber tasks, you have to train offensive capability, then wrap it in trusted, sandboxed access and policy. So we are now in the world where the model can probably pop a shell, but only if the product and governance layers agree.\n\nYour AI dev is about to get competent enough to ship and to break things. The opportunity is in how you constrain, audit, and productize that power before your customers or your compliance team start asking the awkward questions.",
+    "attributes": {
+      "twitter": "https://x.com/AnandChowdhary/status/2009213749190959513"
+    }
+  },
+  {
+    "slug": "groq-becomes-strategic-ai-infrastructure",
+    "path": "threads/2026/groq-becomes-strategic-ai-infrastructure.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2026/groq-becomes-strategic-ai-infrastructure.md",
+    "title": "Groq becomes strategic AI infrastructure",
+    "date": "2026-01-08T00:15:05.408Z",
+    "excerpt": "Nvidia basically just told the market Groq is worth ~$20B, three months after a $6.9B round. This is the market saying, \"oh, ultra low latency inference isn't a nice-to-have, it's systemically strategic infrastructure now.\"\n\nGroq's IP is being priced less like a startup and more like a critical layer in the stack. Think \"this must exist for the future of AI to work at scale\" rather than \"cool dev tool with ARR.\"",
+    "attributes": {
+      "twitter": "https://x.com/AnandChowdhary/status/2009056212726530223"
+    }
+  },
+  {
     "slug": "bots-run-your-software",
     "path": "threads/2026/bots-run-your-software.md",
     "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2026/bots-run-your-software.md",
