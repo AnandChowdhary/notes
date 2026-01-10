@@ -1,5 +1,27 @@
 [
   {
+    "slug": "taws-the-aws-terminal-interface",
+    "path": "threads/2026/taws-the-aws-terminal-interface.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2026/taws-the-aws-terminal-interface.md",
+    "title": "Taws the aws terminal interface",
+    "date": "2026-01-09T22:14:02.672Z",
+    "excerpt": "Every once in a while I stumble on a tool that looks like something I would have tried to hack together myself over a weekend. taws is one of those.\n\nIt is a terminal UI for AWS that brings the \"click around the console, then drop to the CLI, then read JSON\" dance into a single keyboard driven interface. Think htop, but for your AWS account.\n\nThe part I really like is that it is not just a pretty viewer. It understands a lot of AWS resource types, keeps an eye on changes, lets you filter and fuzzy search, shows JSON or YAML when you need the raw details, and even lets you take actions like starting or stopping EC2 instances directly from the TUI.\n\nIt is written in Rust and ships prebuilt binaries plus a simple `cargo install taws`, so trying it out is low friction:\nhttps://github.com/huseyinbabal/taws",
+    "attributes": {
+      "twitter": "https://x.com/AnandChowdhary/status/2009750538448220374"
+    }
+  },
+  {
+    "slug": "edge-routing-in-code",
+    "path": "threads/2026/edge-routing-in-code.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2026/edge-routing-in-code.md",
+    "title": "Edge routing in code",
+    "date": "2026-01-09T10:47:05.333Z",
+    "excerpt": "Found this little note from November 2017 in my repo: \"Make router using PHP, not htaccess. Cache everything on Cloudflare\" It was me trying to redraw the line between the app and the edge ⚙️👇\n\nBack then, Apache and .htaccess were still the default, especially on shared hosting. Moving routing into PHP felt like taking back control: one front controller, predictable rules, less magic regex in server config. Cloudflare was slowly becoming \"good enough\" as a CDN, so putting static files on a subdomain and caching them hard was a very real upgrade.\n\nIn 2025, the instinct is the same, even if the tools changed. We route in framework code, push static assets to CDNs, and use edge rules as a thin layer, not as the source of truth. The tradeoff is always flexibility vs complexity: app-level routing is easier to reason about and test, edge rules are faster but harder to debug at scale.\n\nThe durable principle for me is simple. Keep routing logic in code you version and review. Push everything cacheable to the edge. Be explicit about what lives where.",
+    "attributes": {
+      "twitter": "https://x.com/AnandChowdhary/status/2009577648700432404"
+    }
+  },
+  {
     "slug": "skills-as-software-assets",
     "path": "threads/2026/skills-as-software-assets.md",
     "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2026/skills-as-software-assets.md",
