@@ -1,5 +1,16 @@
 [
   {
+    "slug": "auditable-ai-for-enterprises",
+    "path": "threads/2026/auditable-ai-for-enterprises.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2026/auditable-ai-for-enterprises.md",
+    "title": "Auditable AI for enterprises",
+    "date": "2026-01-10T22:16:01.837Z",
+    "excerpt": "Claude Code is turning into a kind of agentic shell for serious builders. You get async subagents, MCP, the desktop Code toggle, Slack, web. It is starting to feel like a programmable OS layer that just happens to speak natural language.\n\nBut in a lot of enterprises, the real bottleneck is not tokens, context windows, or model quality anymore. It is the multi month \"let's loop in security, compliance, legal, and someone who left the company last year\" review.\n\nSo you end up with this weird situation. On paper, AI can ship you a 10x productivity gain. In practice, your GRC workflow rate limits it to 1x. The model is ready. Your process is not.\n\nIf you are building for enterprises, this matters a lot. Your competitive edge is not just better agents. It is:\n- Designing for auditable actions, least privilege, and strong guardrails.\n- Giving security teams real controls, not vibes.\n- Making it easy for legal and risk to say \"yes\" without a 40 page PDF.\n\nTeams that fix process and security for agentic tools will actually capture the productivity delta. Everyone else is just donating it to their less bureaucratic competitors.",
+    "attributes": {
+      "twitter": "https://x.com/AnandChowdhary/status/2010113426165838180"
+    }
+  },
+  {
     "slug": "taws-the-aws-terminal-interface",
     "path": "threads/2026/taws-the-aws-terminal-interface.md",
     "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2026/taws-the-aws-terminal-interface.md",
