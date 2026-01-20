@@ -1,5 +1,27 @@
 [
   {
+    "slug": "ai-skills-as-a-library",
+    "path": "threads/2026/ai-skills-as-a-library.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2026/ai-skills-as-a-library.md",
+    "title": "AI skills as a library",
+    "date": "2026-01-19T22:16:02.009Z",
+    "excerpt": "The new vercel-labs/agent-skills instantly clicked in my head with how I want to work with AI dev tools: not one giant agent that magically knows everything, but a bunch of focused, installable skills that map to real workflows.\n\nThe React/Next.js part, react-best-practices, is especially nice. It is not vague \"write better React\" advice. It is 40+ specific rules, grouped and prioritized by impact, like \"Eliminating waterfalls\" and \"Bundle size optimization\" marked as critical. This is the kind of stuff you usually only remember after a slow Lighthouse run in production.\n\nweb-design-guidelines feels like turning that one meticulous front-end engineer into a reusable skill. It checks accessibility, focus states, forms, typography quirks, dark mode, performance, i18n, and more. Basically a structured front-end review, but automated.\n\nI like it because it treats AI skills like a standard library for coding agents. Install once, reuse everywhere.",
+    "attributes": {
+      "twitter": "https://x.com/AnandChowdhary/status/2013374917635645579"
+    }
+  },
+  {
+    "slug": "chatgpt-ad-monetization-experiment",
+    "path": "threads/2026/chatgpt-ad-monetization-experiment.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2026/chatgpt-ad-monetization-experiment.md",
+    "title": "ChatGPT ad monetization experiment",
+    "date": "2026-01-19T10:49:01.950Z",
+    "excerpt": "ChatGPT going ad-supported on the free / Go tiers is basically the first serious A/B test of if Google's business model survive in a world where you don't have a search box.\n\nIn search, life is simple. One query. Clear intent. Ten blue links. You can auction attention and call it a day.\n\nIn multi‑turn assistants, intent is smeared across the whole conversation. You might go from \"explain RAG\" to \"help me debug this stack trace\" to \"also, which GPU should I buy\" in one session. Where do you even put the ad in that mess?\n\nHere, ads are appended to answers, not ranked in a list. That is a very different game. You can't just bump a sponsored result to position one and print money.\n\nOpenAI also says they will not optimize for \"watch time\". So the question for all of us is: can this make real revenue without slowly nudging the model toward ad‑friendly, commercial questions? If it works, we get a template for how every assistant product can monetize. If it fails, we learn something uncomfortable. Maybe assistants are great UX but bad businesses, unless you quietly turn them back into search with extra steps.",
+    "attributes": {
+      "twitter": "https://x.com/AnandChowdhary/status/2013202028189901163"
+    }
+  },
+  {
     "slug": "chatgpt-tiered-pricing-like-isps",
     "path": "threads/2026/chatgpt-tiered-pricing-like-isps.md",
     "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2026/chatgpt-tiered-pricing-like-isps.md",
