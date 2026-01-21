@@ -1,5 +1,27 @@
 [
   {
+    "slug": "filesystem-memory-ends-the-bloat",
+    "path": "threads/2026/filesystem-memory-ends-the-bloat.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2026/filesystem-memory-ends-the-bloat.md",
+    "title": "Filesystem memory ends the bloat",
+    "date": "2026-01-20T22:16:02.151Z",
+    "excerpt": "RAG bloat was always going to end here.\n\n\"Filesystem-as-memory\" is basically the final boss: instead of yet another vector store, tool registry, and orchestration layer, your agents just see a boring Postgres-backed filesystem. There's an `AGENTS\\.md`, a `tools.json`, a `/docs` directory, and that's the schema. If you can explain it to a junior dev in 5 minutes, an agent can probably reason about it too.\n\nThe nice part is you stop designing bespoke memory abstractions and just lean on something we already know how to scale, back up, and migrate. It is Git-friendly. It is inspectable. You can literally `cat` your agent's \"brain\".\n\nOf course, this is tech, so give it 6 months and that \"it's just files\" layer quietly becomes the new ORM boundary. Now you have:\n- FS views\n- virtual mounts for different teams / agents\n- permissions as YAML\n- a plugin system \"for flexibility\"\n\n… and congrats, your simple FS is the next contested infra layer.\n\nStill, for technical founders, this direction makes sense. Push complexity down into Postgres. Expose a file-shaped world to agents. Fight about abstractions later.",
+    "attributes": {
+      "twitter": "https://x.com/AnandChowdhary/status/2013737306084262387"
+    }
+  },
+  {
+    "slug": "one-calendar-link-library",
+    "path": "threads/2026/one-calendar-link-library.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2026/one-calendar-link-library.md",
+    "title": "One calendar link library",
+    "date": "2026-01-20T00:11:05.044Z",
+    "excerpt": "In early 2019 I pulled a tiny but annoying problem out of multiple projects and turned it into calendar-link - and it now gets 150k+ weekly downloads.\n\nIt solved one thing: take an event object and spit out the right \"add to calendar\" URL for Google, Outlook, Yahoo, or an .ics file. 📅👇\n\nBack then, every provider had its own fragile deep link format. People were copy pasting URLs from random blog posts, dealing with broken time zones, and hoping recurring events worked. I wanted a single, TypeScript friendly API where you call google(event), outlook(event), yahoo(event), or ics(event) and forget the rest.\n\nUnder the hood, it is basically \"event in, URL out,\" with all the weirdness hidden in small pure functions. Time zones needed a \"please use UTC\" rule, guests only worked on some providers, rRule recurrence was supported in a few places, and mobile vs desktop Outlook behaved differently.",
+    "attributes": {
+      "twitter": "https://x.com/AnandChowdhary/status/2013403858274333071"
+    }
+  },
+  {
     "slug": "ai-skills-as-a-library",
     "path": "threads/2026/ai-skills-as-a-library.md",
     "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2026/ai-skills-as-a-library.md",
