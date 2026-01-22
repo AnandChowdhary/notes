@@ -1,5 +1,16 @@
 [
   {
+    "slug": "image-api-for-licensed-photos",
+    "path": "threads/2026/image-api-for-licensed-photos.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2026/image-api-for-licensed-photos.md",
+    "title": "Image API for licensed photos",
+    "date": "2026-01-21T00:11:05.039Z",
+    "excerpt": "Found this line in my 2017 notes: \"Image API from keyword  -  Wikimedia, Unsplash, etc., with alt tag, license as JSON response.\" It felt like a tiny product spec back then, and also a snapshot of what the web looked like at the time 📷👇\n\nIn late 2017, the recurring dev problem was basically \"just give me a photo I can legally use.\" Wikimedia Commons had a powerful but quirky API. Unsplash was booming with a very generous license. Every landing page and slide deck needed images, and every developer wanted a single endpoint: send a keyword, get back a URL, alt text, and license they could trust.\n\nThe note assumed aggregation plus clean JSON would solve it. Normalize a few sources, unify licensing fields, and you are done. Today I see the harder problem: trust. Licenses change. Uploaders might not own what they upload. Alt text gets stripped or overwritten. The JSON can look perfect while the rights are fuzzy.",
+    "attributes": {
+      "twitter": "https://x.com/AnandChowdhary/status/2013766247171940711"
+    }
+  },
+  {
     "slug": "filesystem-memory-ends-the-bloat",
     "path": "threads/2026/filesystem-memory-ends-the-bloat.md",
     "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2026/filesystem-memory-ends-the-bloat.md",

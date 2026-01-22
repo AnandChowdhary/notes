@@ -1,0 +1,7 @@
+---
+title: Image API for licensed photos
+date: 2026-01-21T00:11:05.039Z
+url: https://x.com/AnandChowdhary/status/2013766247171940711
+---
+
+Found this line in my 2017 notes: "Image API from keyword - Wikimedia, Unsplash, etc., with alt tag, license as JSON response." It felt like a tiny product spec back then, and also a snapshot of what the web looked like at the time 📷👇 In late 2017, the recurring dev problem was basically "just give me a photo I can legally use." Wikimedia Commons had a powerful but quirky API. Unsplash was booming with a very generous license. Every landing page and slide deck needed images, and every developer wanted a single endpoint: send a keyword, get back a URL, alt text, and license they could trust. The note assumed aggregation plus clean JSON would solve it. Normalize a few sources, unify licensing fields, and you are done. Today I see the harder problem: trust. Licenses change. Uploaders might not own what they upload. Alt text gets stripped or overwritten. The JSON can look perfect while the rights are fuzzy. If I rewrote this now, I would pitch it less as a "unified image API" and more as a "provenance and rights API." Keywords and alt text are basic requirements. The interesting part is evidence: original source URLs, upload timestamps, hashes, maybe even signatures from the origin service. A lightweight chain of custody for pixels. Here's the original note from 2017: https://github.com/AnandChowdhary/notes/blob/main/notes/2017/image-api-from.md
