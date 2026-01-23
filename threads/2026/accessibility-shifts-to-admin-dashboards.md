@@ -1,0 +1,7 @@
+---
+title: Accessibility shifts to admin dashboards
+date: 2026-01-22T22:17:04.993Z
+url: https://x.com/AnandChowdhary/status/2014462332718743935
+---
+
+Found this in my notes from December 2017: "when you log into your admin panel you can see accessibility audits of your website." Back then it felt like a tiny product idea and a quiet opinion: a11y should sit next to traffic and revenue, not in a PDF no one reads. 🧪👇 In 2017, Lighthouse was new, "accessibility" mostly meant WCAG checklists, and anything serious lived in devtools or CI. Dashboards showed signups and MRR, not how many users you were quietly excluding. Fast forward to 2026 and parts of that vision exist. We have audits in CI/CD, linting in design systems, CMS warnings for low contrast or missing alt text. But it still rarely shows up as an operational metric in the admin, next to "orders today" or "conversion this week." That is the interesting shift. If accessibility trends, ownership, and alerts live in the admin, non‑engineers can spot and fix issues. It becomes something you monitor, regress, and improve. The thing I underestimated was nuance. A single "accessibility score" is too shallow. What we really need in the admin are clear, contextual signals that start conversations instead of ticking boxes. Here's the original note from 2017: https://github.com/AnandChowdhary/notes/blob/main/notes/2017/when-you-log.md

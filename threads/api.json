@@ -1,5 +1,38 @@
 [
   {
+    "slug": "accessibility-shifts-to-admin-dashboards",
+    "path": "threads/2026/accessibility-shifts-to-admin-dashboards.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2026/accessibility-shifts-to-admin-dashboards.md",
+    "title": "Accessibility shifts to admin dashboards",
+    "date": "2026-01-22T22:17:04.993Z",
+    "excerpt": "Found this in my notes from December 2017: \"when you log into your admin panel you can see accessibility audits of your website.\" Back then it felt like a tiny product idea and a quiet opinion: a11y should sit next to traffic and revenue, not in a PDF no one reads. 🧪👇\n\nIn 2017, Lighthouse was new, \"accessibility\" mostly meant WCAG checklists, and anything serious lived in devtools or CI. Dashboards showed signups and MRR, not how many users you were quietly excluding.\n\nFast forward to 2026 and parts of that vision exist. We have audits in CI/CD, linting in design systems, CMS warnings for low contrast or missing alt text. But it still rarely shows up as an operational metric in the admin, next to \"orders today\" or \"conversion this week.\"\n\nThat is the interesting shift. If accessibility trends, ownership, and alerts live in the admin, non‑engineers can spot and fix issues. It becomes something you monitor, regress, and improve.",
+    "attributes": {
+      "twitter": "https://x.com/AnandChowdhary/status/2014462332718743935"
+    }
+  },
+  {
+    "slug": "cowork-signals-llm-os-shift",
+    "path": "threads/2026/cowork-signals-llm-os-shift.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2026/cowork-signals-llm-os-shift.md",
+    "title": "Cowork signals llm os shift",
+    "date": "2026-01-22T10:43:02.470Z",
+    "excerpt": "Anthropic's new Cowork thing is probably their clearest \"LLM OS\" move so far.\n\nUnder the hood, it's basically a Claude Agent SDK wrapped in a persistent desktop agent that lives in a VM sandbox. It can talk to connectors, use a browser, and touch the local filesystem, all while pretending to be \"just another app\" on your machine.\n\nThe interesting bit is where this shifts the game. We're moving from \"who has the nicest chat UI\" to \"who safely owns long‑running, multi‑tool workflows on the client.\" Think less chatbot, more headless engineer that quietly runs for hours, wiring together APIs, files, and web tasks without burning your laptop down.\n\nFor founders, this raises a few questions:\n- Do you build directly on top of this and treat Cowork as your agent host?\n- Do you compete by owning your own sandbox and workflow engine?\n- Or do you specialize, and let Anthropic handle the scary sandbox stuff?\n\nWe're basically in the early \"Windows for agents\" era. Cowork is Anthropic saying, \"We'd like to be your local agent runtime, thanks,\" with security and workflow control as the new battleground.",
+    "attributes": {
+      "twitter": "https://x.com/AnandChowdhary/status/2014287684030927162"
+    }
+  },
+  {
+    "slug": "gemini-becomes-a-commerce-runtime",
+    "path": "threads/2026/gemini-becomes-a-commerce-runtime.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2026/gemini-becomes-a-commerce-runtime.md",
+    "title": "Gemini becomes a commerce runtime",
+    "date": "2026-01-22T00:15:03.086Z",
+    "excerpt": "Google's quietly doing a pretty wild thing with Gemini. On the surface, it used to look like \"LLM with shopping links\". Cute, incremental, very 2023. But if you read between the lines after UCP, it's starting to look more like a commerce runtime.\n\nThink of Gemini not as a chatbot, but as a protocol layer that talks directly to:\n- Checkout\n- Wallets\n- Loyalty systems\n- Offers and promos\n\nSo if AI becomes the main UI from \"I'm exploring\" to \"I'm choosing\" to \"I'm paying\", Google has basically moved the ad auction inside the model's context window.\n\nThe \"sponsored result\" is no longer a blue link. It might be which product the agent bothers to mention, which offer it decides to apply, or which merchant ends up one tap away from \"Confirm\".\n\nFor founders, this flips a few questions:\n- You don't just ask \"How do I rank in search?\" You ask \"How do I get into the model's tools and protocols?\"\n- Your edge is not just SEO anymore. It might be being the fastest, cleanest API for a specific intent.\n\nSearch was about pages competing in a browser. This is services competing in a context window.",
+    "attributes": {
+      "twitter": "https://x.com/AnandChowdhary/status/2014129645281808797"
+    }
+  },
+  {
     "slug": "image-api-for-licensed-photos",
     "path": "threads/2026/image-api-for-licensed-photos.md",
     "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2026/image-api-for-licensed-photos.md",
