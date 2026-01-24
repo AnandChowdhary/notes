@@ -1,5 +1,27 @@
 [
   {
+    "slug": "remembering-the-new-agastya",
+    "path": "threads/2026/remembering-the-new-agastya.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2026/remembering-the-new-agastya.md",
+    "title": "Remembering the new Agastya",
+    "date": "2026-01-23T22:12:10.639Z",
+    "excerpt": "When I shipped the \"new Agastya\" in 2018, GDPR had just gone live and a one-line accessibility widget still felt like a small superpower for the web rather than something people argued about on Twitter every week 🧩👇",
+    "attributes": {
+      "twitter": "https://x.com/AnandChowdhary/status/2014823462754566636"
+    }
+  },
+  {
+    "slug": "apple-rents-llms-for-google",
+    "path": "threads/2026/apple-rents-llms-for-google.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2026/apple-rents-llms-for-google.md",
+    "title": "Apple rents LLMs for Google",
+    "date": "2026-01-23T10:45:05.538Z",
+    "excerpt": "Apple basically said, \"Our LLM isn't ready, let's rent one,\" and handed Google OS-level distribution as a consolation prize.\n\nStrategically, this is wild. Apple is admitting its foundation models lag the frontier, and instead of playing catch-up in secret, it is productizing the fact. They own the experience. They outsource the brains.\n\nThe ripple effects:\n• Google upgrades from \"search box\" to \"system service\"  \n• OpenAI now has to seriously think about owning more of the device stack, not just the chat window  \n• Every founder building an AI product just got a new constraint: you are now competing with system-level assistants wired straight into the OS, backed by frontier models, with UI you do not control\n\nOn the plus side, if you ever pitched \"we're the AI layer on top of X,\" Apple just validated your entire business model. At trillion-parameter scale.",
+    "attributes": {
+      "twitter": "https://x.com/AnandChowdhary/status/2014650588118814902"
+    }
+  },
+  {
     "slug": "accessibility-shifts-to-admin-dashboards",
     "path": "threads/2026/accessibility-shifts-to-admin-dashboards.md",
     "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2026/accessibility-shifts-to-admin-dashboards.md",
