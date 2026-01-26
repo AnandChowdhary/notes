@@ -1,0 +1,7 @@
+---
+title: Universal translators finally arrived
+date: 2026-01-25T10:47:16.967Z
+url: https://x.com/AnandChowdhary/status/2015375856307429398
+---
+
+Found a one-line note from November 2017 in my archive: "translation earphones." That was the moment it felt like we were a year away from universal translators in everyone's ears and Apple finally launched that last year 🌍👇 Back then, startups were demoing buds that promised near-instant live translation. The dream was magical. No phones, no apps, just talk and everything around you quietly became your language. From early 2026, it looks very different. Speech recognition is way better, translation quality is amazing, on-device models exist. Apple launched this last year. Yet almost no one uses "translation earphones" by default. We still pull out our phones when it really matters. The gap is in latency, trust, and context. A half-second delay breaks conversation. A bad restaurant translation is cute, a bad contract translation is not. Real dialogue has interruptions, side comments, body language. The "you speak, I speak" model is too rigid. The deeper lesson is about where AI lives. Some things work best as invisible background. High-stakes translation still wants a visible interface and a moment to double-check. Here's the original note from 2017: https://github.com/AnandChowdhary/notes/blob/main/notes/2017/translation-earphones.md
