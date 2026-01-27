@@ -1,5 +1,27 @@
 [
   {
+    "slug": "facebook-emails-via-yahoo",
+    "path": "threads/2026/facebook-emails-via-yahoo.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2026/facebook-emails-via-yahoo.md",
+    "title": "Facebook emails via Yahoo",
+    "date": "2026-01-26T22:15:11.822Z",
+    "excerpt": "Found this line in my notes from November 2017: \"For MWLII profiles, Facebook friends' emails by connecting Yahoo! Mail to Facebook.\"\n\nBack then it felt like a clever hack for Made with Love in India, my side project where startups add a \"Made with Love in India\" badge to get listed on a curated directory of Indian companies and founders 🌏👇",
+    "attributes": {
+      "twitter": "https://x.com/AnandChowdhary/status/2015911386375979446"
+    }
+  },
+  {
+    "slug": "metrics-definitions-beat-big-numbers",
+    "path": "threads/2026/metrics-definitions-beat-big-numbers.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2026/metrics-definitions-beat-big-numbers.md",
+    "title": "Metrics definitions beat big numbers",
+    "date": "2026-01-26T10:43:07.626Z",
+    "excerpt": "xAI's \"600M MAUs\" for Grok is a great example of why founders should obsess over metrics definitions, not just big numbers.\n\nWhat they've basically done is add up X's total reach and call it Grok usage. Independent estimates put actual Grok MAUs closer to roughly 30 to 64M. Big difference. One is \"people who could theoretically see a Grok button somewhere.\" The other is \"people who actually use the model.\"\n\nAs founders, we all know this game:\n- \"Registered users\" paraded as \"active\"\n- \"SDK installed\" counted as \"product adoption\"\n- \"Potential reach\" quietly labeled as \"engagement\"\n\nIt looks good in a deck. Until it doesn't.",
+    "attributes": {
+      "twitter": "https://x.com/AnandChowdhary/status/2015737233274490980"
+    }
+  },
+  {
     "slug": "universal-translators-finally-arrived",
     "path": "threads/2026/universal-translators-finally-arrived.md",
     "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2026/universal-translators-finally-arrived.md",

@@ -1,0 +1,7 @@
+---
+title: Facebook emails via Yahoo
+date: 2026-01-26T22:15:11.822Z
+url: https://x.com/AnandChowdhary/status/2015911386375979446
+---
+
+Found this line in my notes from November 2017: "For MWLII profiles, Facebook friends' emails by connecting Yahoo! Mail to Facebook." Back then it felt like a clever hack for Made with Love in India, my side project where startups add a "Made with Love in India" badge to get listed on a curated directory of Indian companies and founders 🌏👇 The core idea was to bootstrap a founder graph from stuff you already had: email contacts and social connections. If Yahoo! Mail could talk to Facebook, maybe we could infer co-founders, teammates, even early investors in a semi-automatic way. In 2025, that sounds… bad. It ignores consent, depends on flaky third-party APIs, and blurs why data was collected in the first place. Classic "growth hack with the social graph" thinking. But the instinct behind it still holds up. Founders in India still do not have a portable, protocol-level identity that is not locked into LinkedIn or whichever platform is trending. If I rebuilt MWLII now, I would flip it: user-authored, verifiable profiles, protocol-first, no hidden scraping. Less "how can we pull this data" and more "how can founders truly own and carry their identity across tools". Here's the original note from 2017: https://github.com/AnandChowdhary/notes/blob/main/notes/2017/for-mwlii-profiles.md
