@@ -1,5 +1,38 @@
 [
   {
+    "slug": "the-rise-of-ai-apps",
+    "path": "threads/2026/the-rise-of-ai-apps.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2026/the-rise-of-ai-apps.md",
+    "title": "The rise of AI apps",
+    "date": "2026-01-27T22:17:02.275Z",
+    "excerpt": "MCP Apps is doing the \"oh by the way, this is the new platform\" thing. Again.\n\nQuick version: what used to be boring tool calling is turning into a real app platform. Tools can now ship sandboxed HTML UIs over an open, cross-vendor spec. And not theoretical open. Real open. As in Anthropic, OpenAI, VS Code, JetBrains, AWS, and friends are all speaking the same language.\n\nSo instead of every LLM vendor inventing yet another proprietary plugin system with slightly different JSON and slightly more pain, you get:\n- One protocol (MCP)\n- One UI surface (HTML in a sandbox)\n- Many hosts (IDEs, terminals, clouds, chat UIs)\n\nAgents stop being closed gardens with bespoke extensions and start looking like browsers, with MCP as the HTTP of the agent world. We might look back at this moment as the point where LLM tools quietly turned into AI apps.",
+    "attributes": {
+      "twitter": "https://x.com/AnandChowdhary/status/2016274273418281214"
+    }
+  },
+  {
+    "slug": "clawdbot-personal-ai-assistant",
+    "path": "threads/2026/clawdbot-personal-ai-assistant.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2026/clawdbot-personal-ai-assistant.md",
+    "title": "Clawdbot personal ai assistant",
+    "date": "2026-01-27T10:43:03.820Z",
+    "excerpt": "Clawdbot feels like one of the first personal AI assistant projects that actually means personal. Something you run yourself that shows up where you already are: WhatsApp, Telegram, Signal, iMessage, Slack, Discord, Teams, Matrix, and a bunch more. One always‑on assistant, your devices, your accounts, your data.\n\nWhat I really like is how opinionated it is about being an assistant instead of a toy. There's a local Gateway daemon that runs as a user service and a very CLI‑first flow: run clawdbot onboard, walk through setup, connect channels, pick models, define skills, done. The wizard even handles Anthropic auth and installs the background service so it just stays up.\n\nUnder the hood it's modern Node 22+ and TypeScript, with npm/pnpm/bun support and proper multi‑model configs and failover. You can get started with a single global install, or go full dev mode with pnpm gateway:watch and TypeScript hot‑reloading. If \"lives on my machine, answers everywhere\" is your mental model for AI, Clawdbot is pretty close to that ideal.",
+    "attributes": {
+      "twitter": "https://x.com/AnandChowdhary/status/2016099629012811838"
+    }
+  },
+  {
+    "slug": "the-ai-harness-revolution",
+    "path": "threads/2026/the-ai-harness-revolution.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2026/the-ai-harness-revolution.md",
+    "title": "The AI harness revolution",
+    "date": "2026-01-27T00:16:02.690Z",
+    "excerpt": "Everyone quietly stopped saying \"AI wrapper\" and started calling it \"AI harness\", and it's not just a vibes rebrand. It's an admission from the ecosystem that the real game for us as founders has moved up the stack.\n\nThe moat is no longer \"we call OpenAI and add a UI\". The moat is deterministic orchestration. Things like:\n- Domain tuned tools instead of generic \"call any API\" chaos  \n- Smart routing between models and prompts  \n- Tracing so you can actually debug that one weird production response  \n- Evals wired into your CI so prompts fail builds like bad tests  \n- Rollback loops so when a new prompt or model breaks stuff, you can revert like it is code\n\nIn other words, turning stochastic LLMs into systems that respect SLOs, not just vibes.\n\nBase models are converging on good enough for most things and becoming swappable. Today it is OpenAI. Tomorrow it might be Anthropic, local, or something your infra team fine tuned on a Sunday. The sticky value is in how you wire it all together for a specific domain, guarantee behavior, and keep it observable. The harness, not the horse.",
+    "attributes": {
+      "twitter": "https://x.com/AnandChowdhary/status/2015941834485465374"
+    }
+  },
+  {
     "slug": "facebook-emails-via-yahoo",
     "path": "threads/2026/facebook-emails-via-yahoo.md",
     "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2026/facebook-emails-via-yahoo.md",
