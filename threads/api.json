@@ -1,5 +1,16 @@
 [
   {
+    "slug": "autonomous-agents-with-human-oversight",
+    "path": "threads/2026/autonomous-agents-with-human-oversight.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2026/autonomous-agents-with-human-oversight.md",
+    "title": "Autonomous agents with human oversight",
+    "date": "2026-01-28T00:19:02.180Z",
+    "excerpt": "Everyone wants fully autonomous agents but there's a pretty big elephant in the room: they compound errors like crazy.\n\nThe 10× gap between the flashy demos and something you'd actually trust in production isn't mostly about model quality. It is about two boring but brutal problems:\n1. Error compounding: one small hallucination quietly poisons the next step, and the next, until your agent is confidently walking off a cliff.\n2. Ambiguity routing: real work is full of underspecified tasks. Humans instinctively disambiguate. Models guess. Guessing is great for brainstorming, less great for payroll, customer tickets, or infra changes.\n\nSo near term, autonomy that actually ships won't look like a single end to end agent doing everything while you sip coffee. It will look like hierarchical orchestration with humans in the loop at key checkpoints.\n\nThink:\n- Agents for narrow, well scoped skills\n- Orchestrators to coordinate them\n- Humans as reviewers, approval gates, and ambiguity routers\n\nMeasure:\n- Where humans should intervene\n- How errors propagate across steps\n- How safely you can decompose workflows",
+    "attributes": {
+      "twitter": "https://x.com/AnandChowdhary/status/2016304975329308870"
+    }
+  },
+  {
     "slug": "the-rise-of-ai-apps",
     "path": "threads/2026/the-rise-of-ai-apps.md",
     "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2026/the-rise-of-ai-apps.md",
