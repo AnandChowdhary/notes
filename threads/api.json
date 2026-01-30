@@ -1,5 +1,38 @@
 [
   {
+    "slug": "chunking-is-dead-in-rag",
+    "path": "threads/2026/chunking-is-dead-in-rag.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2026/chunking-is-dead-in-rag.md",
+    "title": "Chunking is dead in rag",
+    "date": "2026-01-29T22:16:02.415Z",
+    "excerpt": "Everyone yelling \"chunking is dead\" in RAG isn't saying \"stop doing retrieval\". They're saying maybe slicing your codebase into 512‑token meat cubes and praying to cosine similarity was a bad idea for most real projects.\n\nThe solution? an agent that knows how to treat files like files:\n- open specific files  \n- grep across the repo  \n- roam the graph of imports, symbols, and references  \n- expand context only when needed\n\nIn that world, the vector DB stops being the main character and becomes what it should have been all along: a scalability tool. Use it when your corpus is too big, your latency budget is tight, or you need semantic recall across millions of artifacts. Not because that's what everyone does in RAG.\n\nIf you're building an AI IDE or knowledge tool, this is the direction things are clearly moving toward. Agentic, file-centric workflows on top of your actual filesystem / repo structure, with vectors on the side.\n\nSo yes, chunking is dead in the same way global variables are dead. You can still use them. But you probably don't want to build your whole product on them.",
+    "attributes": {
+      "twitter": "https://x.com/AnandChowdhary/status/2016998797822550133"
+    }
+  },
+  {
+    "slug": "the-new-middle-tier-reality",
+    "path": "threads/2026/the-new-middle-tier-reality.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2026/the-new-middle-tier-reality.md",
+    "title": "The new middle tier reality",
+    "date": "2026-01-29T10:47:02.188Z",
+    "excerpt": "We are quietly watching the classic 3‑tier app architecture get roasted in real time.\n\nIn a lot of AI‑native products I'm seeing, the business logic layer isn't really code anymore in the usual sense. It is:\n- Prompt templates and context packs\n- Agent routers deciding \"who\" handles what\n- Tool registries and function schemas\n- Config files that look suspiciously like your new core logic\n\nSo instead of neat CRUD services and fat domain layers, you get a thin API surface on top, a bunch of LLM orchestration in the middle, and tools + data at the bottom. The middle tier is less \"if/else\" and more \"nudge the probabilistic beast in the right direction\".\n\nThis shifts a bunch of founder decisions:\n- Repo design: from services and controllers to flows, tools, and contexts\n- Testing: from unit tests on pure functions to eval suites on model behavior\n- Hiring: less \"strong REST API designer\" and more \"can turn messy ops into controllable LLM workflows\"\n\nWe are basically moving from writing business logic to engineering constraints and incentives for a stochastic runtime.\n\nIt is weird. It is also probably the new normal.",
+    "attributes": {
+      "twitter": "https://x.com/AnandChowdhary/status/2016825404569600342"
+    }
+  },
+  {
+    "slug": "sandboxing-ai-agents-safely",
+    "path": "threads/2026/sandboxing-ai-agents-safely.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2026/sandboxing-ai-agents-safely.md",
+    "title": "Sandboxing AI agents safely",
+    "date": "2026-01-29T00:19:04.976Z",
+    "excerpt": "Found a really clever little project for anyone playing with AI coding agents: yolo-cage by @borenstein.\n\nWhat I like about it is that it doesn't try to solve AI safety with more pop-up prompts. It assumes the real problem is you, at 11:30 p.m., mindlessly hitting \"yes\" on everything. So instead of asking for permission every time, it just locks the agent into a sandbox and limits how much damage it can do.\n\nUnder the hood it spins up a VM, runs your agent in a pod, and routes everything through two chokepoints: a dispatcher for git / GitHub commands and an HTTP(S) proxy for outbound traffic. It can't merge PRs, can't touch other branches, can't spray your API keys to pastebin.",
+    "attributes": {
+      "twitter": "https://x.com/AnandChowdhary/status/2016667362934870092"
+    }
+  },
+  {
     "slug": "autonomous-agents-with-human-oversight",
     "path": "threads/2026/autonomous-agents-with-human-oversight.md",
     "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2026/autonomous-agents-with-human-oversight.md",
