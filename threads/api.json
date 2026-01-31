@@ -1,5 +1,27 @@
 [
   {
+    "slug": "imsg-for-macos-messaging",
+    "path": "threads/2026/imsg-for-macos-messaging.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2026/imsg-for-macos-messaging.md",
+    "title": "Imsg for macOS messaging",
+    "date": "2026-01-30T22:11:05.064Z",
+    "excerpt": "Every once in a while I stumble on a project that solves a very specific itch in a surprisingly elegant way. imsg is one of those.\n\nIt is a small Swift CLI that gives you programmatic access to iMessage and SMS on macOS, backed by the Messages app database. You can list chats, pull message history, or even \"watch\" conversations in real time, and then emit everything as JSON. That last bit is what makes it really interesting to me, because it means you can plug Messages straight into your own tooling, scripts, or agents without weird hacks.\n\nI like how respectful it is of the system. Reads are done in read‑only mode from `chat.db`, sending uses AppleScript instead of private APIs, and it still manages to handle all the boring details like E.164 phone normalization and attachment metadata.",
+    "attributes": {
+      "twitter": "https://x.com/AnandChowdhary/status/2017359926730101160"
+    }
+  },
+  {
+    "slug": "designing-ai-native-architecture",
+    "path": "threads/2026/designing-ai-native-architecture.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2026/designing-ai-native-architecture.md",
+    "title": "Designing AI native architecture",
+    "date": "2026-01-30T10:43:02.877Z",
+    "excerpt": "\"Code is cheap, architecture is expensive\" hits different in the AI-native world.\n\nThe old game was: buy into a heavy framework to save engineer keystrokes. Fewer lines, more magic, lots of hidden coupling. Great for humans, terrible for LLMs that have to guess what you meant.\n\nThe new game is almost the opposite. You design ultra-explicit, constraint-heavy codebases that feel slightly annoying to write by hand, but incredibly easy for an LLM to extend safely.\n\nThink:\n- Boring, predictable patterns over clever abstractions  \n- Clear boundaries and contracts over \"auto-wired\" magic  \n- Repetition where it helps the model learn the structure of your system\n\nYou are not optimizing for your staff engineer writing the perfect one-liner. You are optimizing for a future where 80% of diffs are drafted by a model and your team's main job is to guardrail, review, and keep the architecture coherent.\n\nHumans keep the global mental model. LLMs churn through the local changes.\n\nSo the real AI-native advantage is not \"we use GPT in our stack.\" It is \"our architecture is shaped so that a model can touch almost any part of the codebase without breaking the whole thing.\"",
+    "attributes": {
+      "twitter": "https://x.com/AnandChowdhary/status/2017186788637589660"
+    }
+  },
+  {
     "slug": "chunking-is-dead-in-rag",
     "path": "threads/2026/chunking-is-dead-in-rag.md",
     "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2026/chunking-is-dead-in-rag.md",
