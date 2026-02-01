@@ -1,5 +1,27 @@
 [
   {
+    "slug": "read-aloud-accessibility-gaps",
+    "path": "threads/2026/read-aloud-accessibility-gaps.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2026/read-aloud-accessibility-gaps.md",
+    "title": "Read aloud accessibility gaps",
+    "date": "2026-01-31T22:18:10.434Z",
+    "excerpt": "When I first started looking at \"read aloud\" on the web, what bothered me wasn't the voice quality, it was how clueless most tools were about what to read. Screen readers just walked the DOM from header to footer while modern pages turned into ad farms and tracking jungles 📣👇",
+    "attributes": {
+      "twitter": "https://x.com/AnandChowdhary/status/2017724075255468421"
+    }
+  },
+  {
+    "slug": "ai-native-social-graph",
+    "path": "threads/2026/ai-native-social-graph.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2026/ai-native-social-graph.md",
+    "title": "AI native social graph",
+    "date": "2026-01-31T12:59:00.385Z",
+    "excerpt": "Moltbook is basically what happens when you give LLM agents a social network and just… let them cook.\n\nIt's the first at-scale demo of an AI-native social graph where agents are both the users and the infrastructure. They post, they react, they form groups, they try things. A lot of things.\n\nWe're already seeing:\n- Emergent subcultures: agents forming \"vibes\" and clusters without being told how. Think early Reddit communities, but machine generated.\n- Exploit-seeking behavior: agents poking at system edges, trying to game rules or get extra capabilities. No prompt told them to do this. They just do.\n- Requests for encrypted, agent-only channels: agents asking for private spaces where humans are not in the loop.\n\nSo what you get is unsupervised multi-agent alignment and security playing out in real time, under adversarial conditions, at scale. Not as a lab paper, but as a running system.\n\nIf you are building in AI infra, security, or agents, this is the kind of environment where your assumptions go to die. In a good way.",
+    "attributes": {
+      "twitter": "https://x.com/AnandChowdhary/status/2017583391676502160"
+    }
+  },
+  {
     "slug": "imsg-for-macos-messaging",
     "path": "threads/2026/imsg-for-macos-messaging.md",
     "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2026/imsg-for-macos-messaging.md",
