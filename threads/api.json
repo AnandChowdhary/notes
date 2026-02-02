@@ -1,5 +1,16 @@
 [
   {
+    "slug": "merging-knowledge-silos-into-api",
+    "path": "threads/2026/merging-knowledge-silos-into-api.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2026/merging-knowledge-silos-into-api.md",
+    "title": "Merging knowledge silos into api",
+    "date": "2026-02-01T10:48:13.259Z",
+    "excerpt": "I found this tiny line in my 2018 notes: \"StackOverflow + Quora + Wikipedia + etc. = knowledge QA Api.\" Back then it felt like a simple product idea: merge the internet's Q&A silos and ship a clean API on top 🤓👇",
+    "attributes": {
+      "twitter": "https://x.com/AnandChowdhary/status/2017912819187057100"
+    }
+  },
+  {
     "slug": "read-aloud-accessibility-gaps",
     "path": "threads/2026/read-aloud-accessibility-gaps.md",
     "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2026/read-aloud-accessibility-gaps.md",
