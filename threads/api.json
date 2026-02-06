@@ -1,5 +1,27 @@
 [
   {
+    "slug": "autosave-meets-git-history",
+    "path": "threads/2026/autosave-meets-git-history.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2026/autosave-meets-git-history.md",
+    "title": "Autosave meets Git history",
+    "date": "2026-02-05T22:18:05.375Z",
+    "excerpt": "When autosave in web editors started feeling smarter than my muscle memory of hitting Cmd+S in Vim, it raised a fun question: if Google Docs can quietly save everything, why can't I get that same comfort but with git's clean history and diffs for my writing? 📝👇",
+    "attributes": {
+      "twitter": "https://x.com/AnandChowdhary/status/2019536016890347554"
+    }
+  },
+  {
+    "slug": "notification-bell-for-changelog",
+    "path": "threads/2026/notification-bell-for-changelog.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2026/notification-bell-for-changelog.md",
+    "title": "Notification bell for changelog",
+    "date": "2026-02-05T10:44:17.817Z",
+    "excerpt": "Looking back at Changebar, a tiny widget I hacked together in early 2019, I was chasing a very specific itch: every product already has a changelog sitting quietly in GitHub, but almost nobody pipes that story into the actual UI. I wanted a \"notification bell for your CHANGELOG” that you could drop into any frontend without spinning up a backend 🔔👇",
+    "attributes": {
+      "twitter": "https://x.com/AnandChowdhary/status/2019361406341292072"
+    }
+  },
+  {
     "slug": "user-owned-identity-card",
     "path": "threads/2026/user-owned-identity-card.md",
     "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2026/user-owned-identity-card.md",
