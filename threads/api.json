@@ -1,5 +1,27 @@
 [
   {
+    "slug": "inference-thinking-versus-real-engineering",
+    "path": "threads/2026/inference-thinking-versus-real-engineering.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2026/inference-thinking-versus-real-engineering.md",
+    "title": "Inference thinking versus real engineering",
+    "date": "2026-02-13T22:14:02.054Z",
+    "excerpt": "Gemini 3 Deep Think V2 hitting 84.6% on ARC‑AGI‑2 is a flex on what happens when you spend 10x to 100x more compute at inference on structured search over hypotheses and constraints.\n\nThey are throwing a lot of thinking time at the problem. Can this kind of heavy orchestration at inference actually power real engineering workflows where:\n- The specs are incomplete\n- The tools are messy\n- The constraints change mid‑flight\n- And latency and cost actually matter?\n\nOr are we just building increasingly baroque systems that ace synthetic IQ tests while still hallucinating over your codebase and Linear backlog?",
+    "attributes": {
+      "twitter": "https://x.com/AnandChowdhary/status/2022434111093379303"
+    }
+  },
+  {
+    "slug": "fast-ai-development-workflows",
+    "path": "threads/2026/fast-ai-development-workflows.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2026/fast-ai-development-workflows.md",
+    "title": "Fast AI development workflows",
+    "date": "2026-02-13T10:48:02.703Z",
+    "excerpt": "GPT‑5.3 Codex‑Spark on Cerebras is fast!\n\nAt 1k+ tokens per second and roughly half the TTFB, the slowest part of the loop is... me?\n\nOr more precisely, my ability to review, diff, and validate code fast enough before the next batch is ready.\n\nThis changes the research question for technical founders. Model quality and speed are starting to look like solved infra problems you can rent. The hard part moves up the stack:\n- How do you design diffs that make a 500‑line edit reviewable in seconds, not minutes?\n- How do you integrate tests so that every generation ships with a confidence score, not just vibes?\n- How do you orchestrate agents across repos, services, and environments without creating an un-deboggable Rube Goldberg machine?\n\nWafer‑scale inference means the backend is now absurdly fast. The competitive edge is going to be UX, workflow design, and developer ergonomics.",
+    "attributes": {
+      "twitter": "https://x.com/AnandChowdhary/status/2022261476300558645"
+    }
+  },
+  {
     "slug": "human-control-of-agentic-systems",
     "path": "threads/2026/human-control-of-agentic-systems.md",
     "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2026/human-control-of-agentic-systems.md",
