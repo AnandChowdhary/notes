@@ -491,7 +491,7 @@
     "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2017/image-api-from.md",
     "title": "Image API from keyword -- Wikimedia,...",
     "date": "2017-12-28T08:33:41.000Z",
-    "excerpt": "Image API from keyword -- Wikimedia, Unspash, etc., with alt tag, license as JSON response\n\n\nComment added in 2025:\n\nAn idea for a unified image API that sources images from free sources.",
+    "excerpt": "Image API from keyword -- Wikimedia, Unsplash, etc., with alt tag, license as JSON response\n\n\nComment added in 2025:\n\nAn idea for a unified image API that sources images from free sources.",
     "attributes": {}
   },
   {
@@ -527,7 +527,7 @@
     "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2018/binary-tree-with.md",
     "title": "Binary tree with huffman codes for...",
     "date": "2018-01-16T01:57:49.000Z",
-    "excerpt": "Binary tree with huffman codes for closest ansestor 11011 and 11001 have 1100",
+    "excerpt": "Binary tree with huffman codes for closest ancestor 11011 and 11001 have 1100",
     "attributes": {}
   },
   {
@@ -734,7 +734,7 @@
     "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2018/git-book-writer.md",
     "title": "Git book writer. Google Docs-like save...",
     "date": "2018-07-05T15:49:44.000Z",
-    "excerpt": "Git book writer. Google Docs-like save automatically by committing to git. Write ebook in Mardown on GitHub. For accessibility guidelines book & more",
+    "excerpt": "Git book writer. Google Docs-like save automatically by committing to git. Write ebook in Markdown on GitHub. For accessibility guidelines book & more",
     "attributes": {}
   },
   {
@@ -1013,7 +1013,7 @@
     "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2019/gap-in-knowledge.md",
     "title": "Gap in knowledge and understanding to...",
     "date": "2019-02-28T09:24:47.000Z",
-    "excerpt": "Gap in knowledge and understanding to fill to realize the theoretical potential in literature. Full in depth later, full survey or list of features. We will know what are the best features based on literature. Then imperial part where we show these features do indeed contribute to better learning. Literature shows there is an opportunity. We have to make the point of gap of knowledge most existing work is lab based. We want to work it out in practice.",
+    "excerpt": "Gap in knowledge and understanding to fill to realize the theoretical potential in literature. Full in depth later, full survey or list of features. We will know what are the best features based on literature. Then empirical part where we show these features do indeed contribute to better learning. Literature shows there is an opportunity. We have to make the point of gap of knowledge most existing work is lab based. We want to work it out in practice.",
     "attributes": {}
   },
   {
@@ -1398,9 +1398,9 @@
     "slug": "ziet-serverless-function.md",
     "path": "notes/2019/ziet-serverless-function.md",
     "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2019/ziet-serverless-function.md",
-    "title": "Ziet serverless function to return number...",
+    "title": "Zeit serverless function to return number...",
     "date": "2019-11-23T00:56:14.000Z",
-    "excerpt": "Ziet serverless function to return number of files in a repo dir as a Shield config badge. Supports plus minus numbers, custom suffix or prefix text, badge color and text. Caches for 1 hr. Used for “i18n | 3 languages” in Uppload. Use schema not redirect because respects cache and less invocations.",
+    "excerpt": "Zeit serverless function to return number of files in a repo dir as a Shield config badge. Supports plus minus numbers, custom suffix or prefix text, badge color and text. Caches for 1 hr. Used for “i18n | 3 languages” in Uppload. Use schema not redirect because respects cache and less invocations.",
     "attributes": {}
   },
   {
@@ -1490,7 +1490,7 @@
     "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2020/use-face-detection.md",
     "title": "Use face detection to remove non...",
     "date": "2020-01-22T16:51:57.000Z",
-    "excerpt": "Use face detection to remove non Anand stories from instagram webaite",
+    "excerpt": "Use face detection to remove non Anand stories from instagram website",
     "attributes": {}
   },
   {
@@ -1814,7 +1814,7 @@
     "source": "https://github.com/AnandChowdhary/notes/blob/main/notes/2020/css-starter-on.md",
     "title": "CSS starter on top of Normalize...",
     "date": "2020-07-01T03:29:53.000Z",
-    "excerpt": "CSS starter on top of Normalize with typography, accessibility, etc. with demo HTML page with no custom CSS excerpt for body max-width and margin auto.",
+    "excerpt": "CSS starter on top of Normalize with typography, accessibility, etc. with demo HTML page with no custom CSS except for body max-width and margin auto.",
     "attributes": {}
   },
   {

@@ -99,7 +99,7 @@ This repository contains quick notes that I've made, including ideas for future 
 - ["What is a creative technologist?" article...](./notes/2019/what-is-a.md)
 - [Like American Innocence Projects (I saw...](./notes/2019/new-delhi-innocence-project.md)
 - [Instagram stories but for the web,...](./notes/2019/instagram-stories-but.md)
-- [Ziet serverless function to return number...](./notes/2019/ziet-serverless-function.md)
+- [Zeit serverless function to return number...](./notes/2019/ziet-serverless-function.md)
 - [https://news.ycombinator.com/item?id=21581361...](./notes/2019/https-news-ycombinator-com-item-id-21581361.md)
 - [New Oswald Labs Accelerator for preventing,...](./notes/2019/new-oswald-labs.md)
 - [platform-v3 Node package in Staart main/module...](./notes/2019/platform-v3-node-package.md)
