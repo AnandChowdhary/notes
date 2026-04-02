@@ -1,1 +1,1 @@
-Use face detection to remove non Anand stories from instagram webaite
+Use face detection to remove non Anand stories from instagram website

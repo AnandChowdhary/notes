@@ -1,1 +1,1 @@
-Git book writer. Google Docs-like save automatically by committing to git. Write ebook in Mardown on GitHub. For accessibility guidelines book & more
+Git book writer. Google Docs-like save automatically by committing to git. Write ebook in Markdown on GitHub. For accessibility guidelines book & more

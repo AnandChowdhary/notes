@@ -1,4 +1,4 @@
-Image API from keyword -- Wikimedia, Unspash, etc., with alt tag, license as JSON response
+Image API from keyword -- Wikimedia, Unsplash, etc., with alt tag, license as JSON response
 
 ---
 

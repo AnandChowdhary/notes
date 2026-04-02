@@ -14,7 +14,7 @@ Other strong non chat patterns:
 • [@Slack](https://x.com/Slack) AI recaps and thread summaries surface decisions and owners right in the channel. Structured context you can cite, though super basic.  
 • [@Apple](https://x.com/Apple) systemwide Writing Tools let you rewrite, proof, and summarize inside Mail, Notes, and third party apps. OS native control, not a bot window. Still no improved Siri.  
 • Gmail Help me write and [@Superhuman](https://x.com/Superhuman) AI sits next to Compose to draft and refine replies using thread context. Still AI slapped on top of a rich text editor.  
-• Arc Search Browse for Me runs as a background pipeline that reads the web and returns a structured page. [@PerplexityComet](https://x.com/PerplexityComet) actually doing thins for you is possibly one of my favorites.  
+• Arc Search Browse for Me runs as a background pipeline that reads the web and returns a structured page. [@PerplexityComet](https://x.com/PerplexityComet) actually doing things for you is possibly one of my favorites.  
   
 Design notes for teams that want to go beyond chat:  
 • Keep people in flow. Put AI where the action is.  

@@ -10,6 +10,6 @@ The SAFE for Series A is here:
   
 Clean and practical, a good baseline to kick off a round.  
   
-What I like most is the format. It's just .docx in Git (yes, Word - I'm sure will be markdown shorly). Fork, version, diff, and review in PRs.  
+What I like most is the format. It's just .docx in Git (yes, Word - I'm sure will be markdown shortly). Fork, version, diff, and review in PRs.  
   
 If you're raising, ask your investors that you want to use the Standard Series A paperwork: <https://github.com/StandardCap/standard-series-a>

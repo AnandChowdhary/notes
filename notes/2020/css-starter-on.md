@@ -1,1 +1,1 @@
-CSS starter on top of Normalize with typography, accessibility, etc. with demo HTML page with no custom CSS excerpt for body max-width and margin auto.
+CSS starter on top of Normalize with typography, accessibility, etc. with demo HTML page with no custom CSS except for body max-width and margin auto.

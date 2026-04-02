@@ -1,1 +1,1 @@
-Binary tree with huffman codes for closest ansestor 11011 and 11001 have 1100
+Binary tree with huffman codes for closest ancestor 11011 and 11001 have 1100

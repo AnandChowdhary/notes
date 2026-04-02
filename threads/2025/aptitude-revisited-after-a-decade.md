@@ -8,7 +8,7 @@ Back in 2014 I shipped Aptitude, a tiny theme to publish a clean one page articl
   
 What problem did it solve in 2014? I wanted a readable article or project page fast on GitHub Pages, with no toolchain and nice typography by default. I made it on Aug 8, 2014\. Stack was N<ormalize.css>, Font Awesome 4.1 from MaxCDN, my CSS on RawGit, and Typekit for Adobe Garamond Pro and Calluna Sans. Copy paste typography, simple single page layout, done.  
   
-Architecture was zero pipeline. Three external stylesheets in the head and a <demo.html> you could clone. No bundler, no minify step beyond what CDNs gave. In 2025 I would ship https links with SRI and a CSP. RawGit felt magical then. It shut down in 2019 and the links broke, which reminds you just how brittle all of this us.  
+Architecture was zero pipeline. Three external stylesheets in the head and a <demo.html> you could clone. No bundler, no minify step beyond what CDNs gave. In 2025 I would ship https links with SRI and a CSP. RawGit felt magical then. It shut down in 2019 and the links broke, which reminds you just how brittle all of this is.  
   
 Clever bits and brittle ones. The accent color lived as [#e44249](https://x.com/hashtag/e44249) with a small inline style trick to retheme hover, focus, and blockquote borders. Fast to tweak, easy to miss, and global restyling was fragile. Typekit fonts looked great but added blocking requests and no font display, so FOIT and FOUT were common. I shipped icon fonts for share links, often without text labels. Also, "fa-mail" was not even a real class, which is a very 2014 move. The demo used p then h3 nesting and halves built with floats or inline blocks. Focus styles were mostly cosmetic. I was not me in 2016 for sure!  
   
