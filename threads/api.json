@@ -1,5 +1,16 @@
 [
   {
+    "slug": "governance-becomes-the-enterprise-gate",
+    "path": "threads/2026/governance-becomes-the-enterprise-gate.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2026/governance-becomes-the-enterprise-gate.md",
+    "title": "Governance becomes the enterprise gate",
+    "date": "2026-04-17T09:46:03.589Z",
+    "excerpt": "The most underappreciated part of the Anthropic Mythos story is that Vance & Bessent called Amodei, Pichai, Altman, Nadella, Musk, and the heads of CrowdStrike and Palo Alto Networks to a pre-release security briefing.\n\nWe now have an informal pattern: frontier model release → government pre-clearance → limited deployment to vetted partners.\n\nIf you're building enterprise AI infrastructure, this is the signal. The governance layer isn't a nice-to-have anymore. It's becoming the gate between \"we built something cool\" and \"we're allowed to ship it.\"\n\nEvery enterprise deploying agents at scale will need to answer the same questions Anthropic just answered for the White House: what can it do, where are the risks, how are you managing them.",
+    "attributes": {
+      "twitter": "https://x.com/AnandChowdhary/status/2045076312927474142"
+    }
+  },
+  {
     "slug": "jensen-huang-said-two-things-on-lex-fridmans-podc",
     "path": "threads/2026/jensen-huang-said-two-things-on-lex-fridmans-podc.md",
     "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2026/jensen-huang-said-two-things-on-lex-fridmans-podc.md",
