@@ -1,5 +1,16 @@
 [
   {
+    "slug": "blaming-prompts-instead-of-commits",
+    "path": "threads/2026/blaming-prompts-instead-of-commits.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2026/blaming-prompts-instead-of-commits.md",
+    "title": "Blaming prompts instead of commits",
+    "date": "2026-05-14T09:43:03.110Z",
+    "excerpt": "Git is the wrong unit of history for coding agents.\n\nA commit is the thing you decided to keep. An agent run is the messy search path: prompts, tool calls, deleted files, failed attempts, weird rewrites.\n\nI want blame and undo before that mess gets squashed into a clean PR.\n\nre_gent is a good stab at this for Claude Code: log, blame, checkout, and replay around agent actions.\n\nLess \"who changed this line\". More \"which prompt caused this mess, and can I rewind it?\"\n\nhttps://github.com/regent-vcs/re_gent",
+    "attributes": {
+      "twitter": "https://x.com/AnandChowdhary/status/2054860028172218774"
+    }
+  },
+  {
     "slug": "governance-for-opaque-models",
     "path": "threads/2026/governance-for-opaque-models.md",
     "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2026/governance-for-opaque-models.md",
