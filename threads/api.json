@@ -1,5 +1,16 @@
 [
   {
+    "slug": "agent-version-control-becomes-obvious",
+    "path": "threads/2026/agent-version-control-becomes-obvious.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2026/agent-version-control-becomes-obvious.md",
+    "title": "Agent version control becomes obvious",
+    "date": "2026-05-20T23:14:02.677Z",
+    "excerpt": "Agent version control feels obvious once you see it.\n\nGit tells you who changed a line. @stealthyishere's re_gent tries to answer the missing question: which prompt, tool call, and agent session wrote this line?\n\nThat is the audit trail I want before agents touch serious codebases.\n\nThe funny bit is that /compact made this problem visible.\n\nWe gave agents write access, then lost the conversation that explains the diff. A content-addressed log for agent steps feels boring in exactly the right way.\n\nhttps://github.com/regent-vcs/re_gent",
+    "attributes": {
+      "twitter": "https://x.com/AnandChowdhary/status/2057238448264876266"
+    }
+  },
+  {
     "slug": "blaming-prompts-instead-of-commits",
     "path": "threads/2026/blaming-prompts-instead-of-commits.md",
     "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2026/blaming-prompts-instead-of-commits.md",
