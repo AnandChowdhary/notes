@@ -1,5 +1,16 @@
 [
   {
+    "slug": "agents-need-a-401-protocol",
+    "path": "threads/2026/agents-need-a-401-protocol.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2026/agents-need-a-401-protocol.md",
+    "title": "Agents need a 401 protocol",
+    "date": "2026-06-16T21:17:03.543Z",
+    "excerpt": "Agents need a boring 401 path.\n\nRight now an agent hits an API, gets rejected, and punts to the user: create an account, mint a key, paste it back.\n\nThat is fine for demos. It is awful as infrastructure.\n\nThe better shape is service metadata that says: how to register, how to claim the user, what scopes are allowed, when the credential expires, and what to do on the next 401.\n\nOAuth assumed a browser tab. Agents need the error path as protocol.",
+    "attributes": {
+      "twitter": "https://x.com/AnandChowdhary/status/2066993468426399879"
+    }
+  },
+  {
     "slug": "agent-version-control-becomes-obvious",
     "path": "threads/2026/agent-version-control-becomes-obvious.md",
     "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2026/agent-version-control-becomes-obvious.md",
