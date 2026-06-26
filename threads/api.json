@@ -1,5 +1,16 @@
 [
   {
+    "slug": "chipotlai-max-exposes-interface-leaks",
+    "path": "threads/2026/chipotlai-max-exposes-interface-leaks.md",
+    "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2026/chipotlai-max-exposes-interface-leaks.md",
+    "title": "Chipotlai max exposes interface leaks",
+    "date": "2026-06-25T21:13:01.153Z",
+    "excerpt": "Chipotlai Max is extremely stupid in the best possible way: an OpenCode fork wired to Chipotle's Pepper bot through a local OpenAI-compatible proxy.\n\nThe joke is funny because it makes the abstraction leak.\n\nIf the agent loop speaks OpenAI-compatible HTTP, the model behind it can be Claude, a local model, or apparently a burrito support bot that learned LeetCode.\n\nNot a product recommendation. Very much a 'look at what standardized interfaces do to the world' recommendation.\n\nhttps://github.com/cyberpapiii/chipotlai-max",
+    "attributes": {
+      "twitter": "https://x.com/AnandChowdhary/status/2070253953699414365"
+    }
+  },
+  {
     "slug": "agents-need-a-401-protocol",
     "path": "threads/2026/agents-need-a-401-protocol.md",
     "source": "https://github.com/AnandChowdhary/notes/blob/main/threads/2026/agents-need-a-401-protocol.md",
